@@ -45,8 +45,8 @@
 # [Map](https://excalidraw.com/#json=YEj3dU2-IlawwJLbaANij,N7ItQpD6KfHOooe1uIjA0A)
 # Assets
 
-![guard](https://i.imgur.com/4d2uwlm.png)![Salas Sawyer](https://i.imgur.com/0Q8V1Sg.png)
+![guard](https://github.com/WayfaringBloke/dnd/blob/main/assets/m2/guard.png?raw=true)![Salas Sawyer](https://github.com/WayfaringBloke/dnd/blob/main/assets/rnpc/SalasSawyer.png?raw=true)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNDgxODI1Ml19
+eyJoaXN0b3J5IjpbNzgxNTEwMjMxXX0=
 -->
