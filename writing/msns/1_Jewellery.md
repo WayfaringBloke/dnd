@@ -53,8 +53,8 @@
 
 # [Map](https://excalidraw.com/#json=W_biwfYzY6NURPXNTLv3z,WfTky5C1MT0JoVaBKRASdg)
 # Assets 
-![manager](https://i.imgur.com/EBe4W34.png)![Ronald](https://i.imgur.com/33jWOXw.png)
+![manager](https://github.com/WayfaringBloke/dnd/blob/main/assets/m1/manager.png?raw=true)![Ronald](https://i.imgur.com/33jWOXw.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NzM0MTcwMF19
+eyJoaXN0b3J5IjpbNzkzMzkwOTU5XX0=
 -->
