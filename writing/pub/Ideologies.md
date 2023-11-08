@@ -1,7 +1,4 @@
-
-
-
-> Written with [StackEdit](https://stackedit.io/).
+## Ideological Underpinnings
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE0Njk0OTEzNTQsNzMwOTk4MTE2XX0=
 -->
