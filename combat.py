@@ -57,8 +57,13 @@ class Enemy:
         print(f"{self.name}: MORALE")
         if roll(6) + roll(6) > self.morale:
             action = "FLEES" if roll(2) == 1 else "SURRENDERS"
-            print(f"{self.name}: {action}")
-            self.group.kill(self.name)
+            while True:
+                inp = input(f"{self.name}: {action} (Y/n)? ")
+                if inp.lower() in ["y", "n", ""]: break
+            
+            if inp.lower() != "n":
+                self.group.kill(self.name)
+            
 
     def ded(self):
         return self.hp <= 0
@@ -122,7 +127,11 @@ class Group:
                 self.turnOrder.remove(i)
                 self.enemies.remove(e)
                 killed = e
-                
+        
+        if killed == None: return
+
+        print(f"{killed.name}: DEAD")
+
         if self.leader != None and killed == self.leader:
             self.mrl()
             self.leader = None
