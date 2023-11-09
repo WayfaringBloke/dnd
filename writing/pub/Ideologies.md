@@ -1,9 +1,10 @@
 ## What kind of Sallow reader are you
-- [ ] Shameless Oppurtunist 
-- [ ] Joker whose never read Sallow
-- [ ] Serious but Confused Academic
+- [ ] Shameless oppurtunist 
+- [ ] Joker who's never read Sallow
+- [ ] Serious but confused academic
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MDI2OTkwMCwyMTEwMzQzNjM2LDI5NT
-I1NTk1LC0xNDY5NDkxMzU0LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTcyNjUwMDY3OCwxMTUwMjY5OTAwLDIxMT
+AzNDM2MzYsMjk1MjU1OTUsLTE0Njk0OTEzNTQsNzMwOTk4MTE2
+XX0=
 -->
