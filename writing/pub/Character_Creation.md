@@ -28,10 +28,10 @@ If you configure [this site](https://chicken-dinner.com/5e/5e-point-buy.html) wi
 Choose anything on your character page (or any time your character page directly references another part of the book), Otherwise roll. So the hacker picks both their apps, the gang goon picks 1-6 weapons. The only exception is armor which you still have to roll.
 
 ## HP
- $HP =$ $ceil($toughness roll$\div 2)  +$class dice roll
+ $HP = ceil($toughness roll$\div 2)  +$class dice roll
 (Note: you do *actually* roll your class bonus HP)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkzNzUwNTE3XX0=
+eyJoaXN0b3J5IjpbMTQxNjE3MTk2NSw5OTM3NTA1MTddfQ==
 -->
