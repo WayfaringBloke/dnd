@@ -24,7 +24,7 @@ If you configure [this site](https://chicken-dinner.com/5e/5e-point-buy.html) wi
 ![point buy](https://i.imgur.com/Bd2bDXT.png)
 
 ## Roll vs Choose
-Choose anything on your character page (or any time your character page directly references another part of the book), Otherwise roll. So the hacker picks both their apps, the gang goon picks 1-6 weapons. The only exception is armor which you still to roll.
+Choose anything on your character page (or any time your character page directly references another part of the book), Otherwise roll. So the hacker picks both their apps, the gang goon picks 1-6 weapons. The only exception is armor which you still do roll.
 
 ## HP
  $HP = ceil($ toughness stat $\div 2)  +$ class dice roll
@@ -32,6 +32,6 @@ Choose anything on your character page (or any time your character page directly
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTMzNDI5NCwyMDYzNTI3Mjc1LDk5Mz
-c1MDUxN119
+eyJoaXN0b3J5IjpbNDAzODUwODc0LC0xOTEzMzQyOTQsMjA2Mz
+UyNzI3NSw5OTM3NTA1MTddfQ==
 -->
