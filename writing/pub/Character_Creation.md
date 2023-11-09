@@ -1,10 +1,9 @@
 # Custom Character Creation
 ## Pointbuy
-Total: 22
-Max Roll: 16
-Min Purchase: 6
-(Note: "Roll" here doesn't mean its from dice, just a number 1-20)
-| Mod | Point Cost | Roll | 
+Total Points: 22
+Max Stat: 16
+Min Stat: 6
+| Mod | Point Cost | Stat | 
 |---:|:---:|:---|
 | +3 | 12 | 16 |
 | +2 | 9 | 15 |
@@ -33,5 +32,6 @@ Choose anything on your character page (or any time your character page directly
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MzUyNzI3NSw5OTM3NTA1MTddfQ==
+eyJoaXN0b3J5IjpbMTUzNzc3MDQwNywyMDYzNTI3Mjc1LDk5Mz
+c1MDUxN119
 -->
