@@ -22,8 +22,7 @@ Occupied by Xin faction, highly militarised. Traditionalists focused on liberty,
 
 Contains cobalt mines which they have gradually taken over security for
 
-Controlled by the Xin (pronounced ks-in), they wear all white: fur coat, cargo pants, balaclava.
-Highly territorial Maoists. Run everything very inefficiently. Backyard Iron Foundries. Armed with weapons with loads of wood trims, AK like things, SVDs like things, Blowback pistols with wooden grips.
+They wear all white: fur coat, cargo pants, balaclava. Armed with weapons with loads of wood trims, AK like things, SVDs like things, Blowback pistols with wooden grips.
 
 ### Exclusion Zone
 All knowledge of the exclusion zone is destroyed immediately with extreme prejudice. Only thing known is that the closer you get to the border the more radioactive things get.
@@ -49,5 +48,5 @@ Tethered to the HyperMall the cloud city once flew miles above cloud level to al
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg1NzcxODk5XX0=
+eyJoaXN0b3J5IjpbLTk1NDkzODEzMSwzODU3NzE4OTldfQ==
 -->
