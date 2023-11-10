@@ -18,7 +18,9 @@ This weakness led to years of religious urnrest with the people in the mountains
 ### Farmland
 Mostly making cash crops for Royal West under new contracting agreement. Farmers are poorer than dirt, cannot afford the food they grow
 ### Mountains
-Occupied by Xin faction, highly militarised, believe in . Contains cobalt mines.
+Occupied by Xin faction, highly militarised. Traditionalists focused on liberty, but in a still quite repressive way, think the Khibutz which are "anarchist" but people are judged for reading different papers. 
+
+Contains cobalt mines which they have a
 
 Controlled by the Xin (pronounced ks-in), they wear all white: fur coat, cargo pants, balaclava.
 Highly territorial Maoists. Run everything very inefficiently. Backyard Iron Foundries. Armed with weapons with loads of wood trims, AK like things, SVDs like things, Blowback pistols with wooden grips.
@@ -47,5 +49,5 @@ Tethered to the HyperMall the cloud city once flew miles above cloud level to al
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MTE2NTk4OV19
+eyJoaXN0b3J5IjpbLTI4NTU5ODE5XX0=
 -->
