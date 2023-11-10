@@ -11,6 +11,7 @@ This weakness led to years of religious urnrest with the people in the mountains
 - -40y - Restrictions placed on who could live where, Sallowers vs Natives
 - -10y - Royal West Backs out as the Cobalt mines are running dry and political tension is rising. Ingraham rises to power as man willing to defend Sallow's legacy when even Royal West won't.
 - Now - It has become clear to almost everyone that the cobalt mines have run out. There is general economic disarray as Reeves hasn't planned for this.
+- +1y - Reeves may be overthrown soon by a group of socialist revolutionaries
 
 
 ![](https://i.imgur.com/aQL6XiZ.png)
@@ -22,7 +23,10 @@ Occupied by Xin faction, highly militarised. Traditionalists focused on liberty,
 
 Contains cobalt mines which they have gradually taken over security for
 
-They wear all white: fur coat, cargo pants, balaclava. Armed with weapons with loads of wood trims, AK like things, SVDs like things, Blowback pistols with wooden grips.
+They wear all white: fur coat, cargo pants, balaclava, believe in mountain marxism (utterly insane). Contains cobalt mines.
+
+Controlled by the Xin (pronounced ks-in), they wear all white: fur coat, cargo pants, balaclava.
+Highly territorial Maoists. Run everything very inefficiently. Backyard Iron Foundries. Armed with weapons with loads of wood trims, AK like things, SVDs like things, Blowback pistols with wooden grips.
 
 ### Exclusion Zone
 All knowledge of the exclusion zone is destroyed immediately with extreme prejudice. Only thing known is that the closer you get to the border the more radioactive things get.
@@ -48,6 +52,7 @@ Tethered to the HyperMall the cloud city once flew miles above cloud level to al
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MTA2NzE3LDI4NTcyOTk4MSwtMTY4ND
-kyNjk1MiwtOTU0OTM4MTMxLDM4NTc3MTg5OV19
+eyJoaXN0b3J5IjpbLTEwMTQwNTA4OTIsMTE1MTA2NzE3LDI4NT
+cyOTk4MSwtMTY4NDkyNjk1MiwtOTU0OTM4MTMxLDM4NTc3MTg5
+OV19
 -->
