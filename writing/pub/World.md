@@ -11,7 +11,6 @@ This weakness led to years of religious urnrest with the people in the mountains
 - -40y - Restrictions placed on who could live where, Sallowers vs Natives
 - -10y - Royal West Backs out as the Cobalt mines are running dry and political tension is rising. Ingraham rises to power as man willing to defend Sallow's legacy when even Royal West won't.
 - Now - It has become clear to almost everyone that the cobalt mines have run out. There is general economic disarray as Reeves hasn't planned for this.
-- +1y - Reeves may be overthrown soon by a group of socialist revolutionaries
 
 
 ![](https://i.imgur.com/aQL6XiZ.png)
@@ -19,7 +18,7 @@ This weakness led to years of religious urnrest with the people in the mountains
 ### Farmland
 Mostly making cash crops for Royal West under new contracting agreement. Farmers are poorer than dirt, cannot afford the food they grow
 ### Mountains
-Occupied by Xin faction, highly militarised, believe in mountain marxism (utterly insane). Contains cobalt mines.
+Occupied by Xin faction, highly militarised, believe in . Contains cobalt mines.
 
 Controlled by the Xin (pronounced ks-in), they wear all white: fur coat, cargo pants, balaclava.
 Highly territorial Maoists. Run everything very inefficiently. Backyard Iron Foundries. Armed with weapons with loads of wood trims, AK like things, SVDs like things, Blowback pistols with wooden grips.
@@ -48,5 +47,5 @@ Tethered to the HyperMall the cloud city once flew miles above cloud level to al
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzMwOTYyMzVdfQ==
+eyJoaXN0b3J5IjpbMTg4MTE2NTk4OV19
 -->
