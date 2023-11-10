@@ -3,9 +3,11 @@
 - [ ] Joker who's never read Sallow
 - [ ] Serious but confused academic
 ## 3 Eras of Sallows thought
-1. Pre-Leader: naive ideologue interested in his own pow
+1. Pre-Leader: naive ideologue interested in security and stability
+2. Leader: most dishonest, often sounded like before he led but vastly more euphemistic
+3. EoL
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTY4OTQwNjUsMTcyNjUwMDY3OCwxMT
-UwMjY5OTAwLDIxMTAzNDM2MzYsMjk1MjU1OTUsLTE0Njk0OTEz
-NTQsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTIzNDExNjIwNiwxNzI2NTAwNjc4LDExNT
+AyNjk5MDAsMjExMDM0MzYzNiwyOTUyNTU5NSwtMTQ2OTQ5MTM1
+NCw3MzA5OTgxMTZdfQ==
 -->
