@@ -34,7 +34,7 @@ Unmaintained for approaching a decade the city is failing.
 Built of sheet metal, temporary antigravity generators, and broken dreams. Rusting constantly. 
 
 ### Industrial District
-Where all Sallowdia's production is concentrated (to make it easier to control). Due to zoning laws and planning nightmares it is a gigantic looming tower of factories built on factories.
+Where all Sallowdia's production is concentrated (to make it easier to control). Due to zoning laws and planning nightmares it is a gigantic looming tower of factories built on factories. Strong "union" control, cult of Osha enforces safety guidelines 
 
 ### Old Town
 From before the Cobalt deposits were discovered, the old town still shows a simpler time of wooden houses painted in bright colors.
@@ -48,5 +48,6 @@ Tethered to the HyperMall the cloud city once flew miles above cloud level to al
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NDkzODEzMSwzODU3NzE4OTldfQ==
+eyJoaXN0b3J5IjpbLTE2ODQ5MjY5NTIsLTk1NDkzODEzMSwzOD
+U3NzE4OTldfQ==
 -->
