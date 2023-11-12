@@ -53,9 +53,9 @@ Once an audiovisual cacophony of consumption, a decade of neglect has left this 
 Tethered to the HyperMall the cloud city once flew miles above cloud level to allow its residents to experience a beautiful clear sky (and get skin cancer). Due to poor maintenance and fuel costs it now runs only a few hundred meters above the HyperMall. Its residents are extremely insular so nobody knows what it looks like up there.
 
 ### FinSpace
-A global hallicination, where all finance is conducted. Entered by taking the halucinogenic upper "Fin", its an endless series of skyscrapers connected by metro tunnels. Since FinSpace is a collective hallucination there is no way to conventionally hack into it and imaginary security measures are often the most powerful. A dose of Fin will put you into FinSpace for approximately 5 + d12 days, which the wearer sees ticking down on a clock on their wrist the entire time.
+A global hallicination, where all finance is conducted. Entered by taking the halucinogenic upper "Fin", its an endless series of skyscrapers connected by metro tunnels. Since FinSpace is a collective hallucination there is no way to conventionally hack into it and imaginary security measures are often the most powerful. A dose of Fin will put you into FinSpace for approximately 5 + d12 days, which the wearer sees ticking down on a clock on their wrist the entire time. A microdose makes the user 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MDE0NjAzNywtMTIzMzgyODkyNCwxNj
+eyJoaXN0b3J5IjpbMTY3OTgxMzc1OCwtMTIzMzgyODkyNCwxNj
 A4Nzg3OTAyLC0xMDE0MDUwODkyLDExNTEwNjcxNywyODU3Mjk5
 ODEsLTE2ODQ5MjY5NTIsLTk1NDkzODEzMSwzODU3NzE4OTldfQ
 ==
