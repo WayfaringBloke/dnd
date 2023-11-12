@@ -33,9 +33,10 @@ Choose anything on your character page (or any time your character page directly
 ## Alternate Backgrounds
 Since we're in a different city to Cy, here's a few general suggestions for backgrounds for classes (though any other ideas are welcome).
  
-### Shunned Nano
+### Shunned Nano-Mancer
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTQxNjkxNjEsMTA1MDgxODI4NCw0MD
+eyJoaXN0b3J5IjpbLTIxNDExNTAzMjgsMTA1MDgxODI4NCw0MD
 M4NTA4NzQsLTE5MTMzNDI5NCwyMDYzNTI3Mjc1LDk5Mzc1MDUx
 N119
 -->
