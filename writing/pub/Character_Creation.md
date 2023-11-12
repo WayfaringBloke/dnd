@@ -31,9 +31,10 @@ Choose anything on your character page (or any time your character page directly
 (Note: you do *actually* roll your class bonus HP)
 
 ## Alternate Backgrounds
-Since we're in a different city to Cy, we're 
-##
+Since we're in a different city to Cy, here's a few general suggestions for backgrounds for classes (though any other ideas are welcome).
+ 
+### 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMjEwOTkxNiw0MDM4NTA4NzQsLTE5MT
+eyJoaXN0b3J5IjpbMTA1MDgxODI4NCw0MDM4NTA4NzQsLTE5MT
 MzNDI5NCwyMDYzNTI3Mjc1LDk5Mzc1MDUxN119
 -->
