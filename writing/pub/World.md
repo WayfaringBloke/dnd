@@ -32,10 +32,10 @@ Controlled by the Xin (pronounced ks-in), they wear all white: fur coat, cargo p
 Highly territorial Maoists. Run everything very inefficiently. Backyard Iron Foundries. Armed with weapons with loads of wood trims, AK like things, SVDs like things, Blowback pistols with wooden grips.
 
 ### Exclusion Zone
-All knowledge of the exclusion zone is destroyed immediately with extreme prejudice. Only thing known is that the closer you get to the border the more radioactive things get.
+All knowledge of the exclusion zone is destroyed immediately with extreme prejudice. Only thing known is that the closer you get to the border the more radioactive things get. 
 
 ## City: Xim
-Unmaintained for approaching a decade the weight of the past has crushed our city's future.
+Unmaintained for approaching a decade the weight of the past has crushed our city's future. The sky is the color of a Television turned to a dead channel. The cloud engulfing the city is about 8 years old.
 
 ### Slums
 Built of sheet metal, temporary antigravity generators, and broken dreams. Rusting constantly. 
@@ -55,7 +55,7 @@ Tethered to the HyperMall the cloud city once flew miles above cloud level to al
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjkxMzMwODMsMTYwODc4NzkwMiwtMT
+eyJoaXN0b3J5IjpbLTE1NjE4MTczNzksMTYwODc4NzkwMiwtMT
 AxNDA1MDg5MiwxMTUxMDY3MTcsMjg1NzI5OTgxLC0xNjg0OTI2
 OTUyLC05NTQ5MzgxMzEsMzg1NzcxODk5XX0=
 -->
