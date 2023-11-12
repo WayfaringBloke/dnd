@@ -47,10 +47,16 @@ Since we're in a different city to Cy, here's a few general suggestions for back
 ### Orphaned Gear Head
 - Raised in a (active) factory in the industrial district 
 
-###  
+### Rengade Cyber Slasher
+- (Ex) devotee of the cult of Osha, acting like samurai but for enforcing health and safety regulations
+
+### Forsaken Gang-Goon
+Gang options:
+- "Union" Fixer
+- Slum Gang 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNDY1MDI4OCwxMDUwODE4Mjg0LDQwMz
+eyJoaXN0b3J5IjpbMTk1MDg4NTgyMywxMDUwODE4Mjg0LDQwMz
 g1MDg3NCwtMTkxMzM0Mjk0LDIwNjM1MjcyNzUsOTkzNzUwNTE3
 XX0=
 -->
