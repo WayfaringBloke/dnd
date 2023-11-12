@@ -53,9 +53,9 @@ Once an audiovisual cacophony of consumption, a decade of neglect has left this 
 Tethered to the HyperMall the cloud city once flew miles above cloud level to allow its residents to experience a beautiful clear sky (and get skin cancer). Due to poor maintenance and fuel costs it now runs only a few hundred meters above the HyperMall. Its residents are extremely insular so nobody knows what it looks like up there.
 
 ### FinSpace
-A global hallicination, where all finance is conducted. Entered by taking the halucinogenic upper "Fin", its an endless ser
+A global hallicination, where all finance is conducted. Entered by taking the halucinogenic upper "Fin", its an endless series of skyscrapers connected by metro tunnels. Here all financial business has been conducted since a hacker group managed to destroy 64% of all banking records. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDI5NTUxMDQsLTEyMzM4Mjg5MjQsMT
+eyJoaXN0b3J5IjpbLTE5NTMxNDUwNjYsLTEyMzM4Mjg5MjQsMT
 YwODc4NzkwMiwtMTAxNDA1MDg5MiwxMTUxMDY3MTcsMjg1NzI5
 OTgxLC0xNjg0OTI2OTUyLC05NTQ5MzgxMzEsMzg1NzcxODk5XX
 0=
