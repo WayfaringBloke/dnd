@@ -38,7 +38,7 @@ All knowledge of the exclusion zone is destroyed immediately with extreme prejud
 Unmaintained for approaching a decade the weight of the past has crushed our city's future. The sky is the color of a Television turned to a dead channel. The cloud engulfing the city is about 8 years old.
 
 ### Slums
-Built of sheet metal, temporary antigravity generators, and broken dreams. Rusting constantly. 
+Built of sheet metal, temporary antigravity generators, and broken dreams. Overflowing with gang violence and drug abuse.
 
 ### Industrial District
 Where all Sallowdia's production is concentrated (to make it easier to control). Due to zoning laws and planning nightmares it is a gigantic looming tower of factories built on factories. Strong "union" control, cult of Osha enforces safety guidelines like samurai.
@@ -53,10 +53,10 @@ Once an audiovisual cacophony of consumption, a decade of neglect has left this 
 Tethered to the HyperMall the cloud city once flew miles above cloud level to allow its residents to experience a beautiful clear sky (and get skin cancer). Due to poor maintenance and fuel costs it now runs only a few hundred meters above the HyperMall. Its residents are extremely insular so nobody knows what it looks like up there.
 
 ### FinSpace
-A global hallicination, where all finance is conducted. Hacking proof!
+A global hallicination, where all finance is conducted. Entered by taking the halucinogenic upper "Fin", its an endless ser
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwOTg0NjA4MCwtMTIzMzgyODkyNCwxNj
-A4Nzg3OTAyLC0xMDE0MDUwODkyLDExNTEwNjcxNywyODU3Mjk5
-ODEsLTE2ODQ5MjY5NTIsLTk1NDkzODEzMSwzODU3NzE4OTldfQ
-==
+eyJoaXN0b3J5IjpbLTE4MDI5NTUxMDQsLTEyMzM4Mjg5MjQsMT
+YwODc4NzkwMiwtMTAxNDA1MDg5MiwxMTUxMDY3MTcsMjg1NzI5
+OTgxLC0xNjg0OTI2OTUyLC05NTQ5MzgxMzEsMzg1NzcxODk5XX
+0=
 -->
