@@ -5,6 +5,8 @@
 	Cobalt has been expensive to extract ever since Royal West left, gradually falling below break-even over the past decade of mismanagement. Fintechs in other nations speculate that keeping Cobalt extraction up is losing the state 10% of their budget a year, rising by 2% every year (so they have massive short positions against Sallowdia's bonds).
 - **Royal West's Loan**
 	Reeves has long been taking loans form Royal West to continue running the contry, with massive interest rates the national debt is an almost meaningless number.
+- **Democracy**
+	Many residents are tired of the dictatorial rule of their nation, especially since the dictator is doing quite a bad job. Many also desire that their "unions" 
 	
 
 
@@ -19,6 +21,6 @@
 2. Leader: most dishonest, often sounded like before he led but vastly more euphemistic. 
 3. EoL: Critical of a bloated state beuracracy, which he was responsible for (most of the manuscripts he wrote were never published but one was)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMjQwMDY1MSwtMTQ2Mjc0NTkzMSwtMT
-M3MDI3OTQyNiw3MDQ5ODU4MTldfQ==
+eyJoaXN0b3J5IjpbLTE2NDg0MTAzNDAsLTE0NjI3NDU5MzEsLT
+EzNzAyNzk0MjYsNzA0OTg1ODE5XX0=
 -->
