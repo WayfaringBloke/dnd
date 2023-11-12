@@ -3,9 +3,10 @@ No! I will not define this!
 
 ### Nation: Sallowdia
 Permanently overcast, a clear sky hasn't been seen in this part of the world for generations.
-#### Founder: Douglas Sallow
-#### Dictator: Ingraham Reeves
+**Founder:** Douglas Sallow
+**Dictator:** Ingraham Reeves
 ![Ingraham Reeves](https://i.imgur.com/lUvlB33.png)
+### History
 - -90y - Douglas Sallow's company discovered massive Cobalt deposits in the mountains to the north.
 - -70y - Douglas Sallow lead a failed land-grab on [Country to North].
 This weakness led to years of religious urnrest with the people in the mountains rebelling. Eventually Sallow defeated this problem by genocide.
@@ -54,7 +55,7 @@ Tethered to the HyperMall the cloud city once flew miles above cloud level to al
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNjk4MjU4NCwtMTAxNDA1MDg5MiwxMT
+eyJoaXN0b3J5IjpbMTcyNDc1NzcyOSwtMTAxNDA1MDg5MiwxMT
 UxMDY3MTcsMjg1NzI5OTgxLC0xNjg0OTI2OTUyLC05NTQ5Mzgx
 MzEsMzg1NzcxODk5XX0=
 -->
