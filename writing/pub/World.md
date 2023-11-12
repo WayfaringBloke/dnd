@@ -1,8 +1,8 @@
 ### What year is it?
-No! I will not define this!
+I am not going to define this, don't ask. It's a boring & pointless restriction on creativity.
 
 ### Nation: Sallowdia
-Permanently overcast, a clear sky hasn't been seen in this part of the world for generations.
+Permanently overcast, a clear sky hasn't been seen in this part of the world for generations. Years are numbered since 
 **Founder:** Douglas Sallow
 **Dictator:** Ingraham Reeves
 ![Ingraham Reeves](https://i.imgur.com/lUvlB33.png)
@@ -55,7 +55,7 @@ Tethered to the HyperMall the cloud city once flew miles above cloud level to al
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjE4MTczNzksMTYwODc4NzkwMiwtMT
+eyJoaXN0b3J5IjpbLTEwNzgwODk3MDcsMTYwODc4NzkwMiwtMT
 AxNDA1MDg5MiwxMTUxMDY3MTcsMjg1NzI5OTgxLC0xNjg0OTI2
 OTUyLC05NTQ5MzgxMzEsMzg1NzcxODk5XX0=
 -->
