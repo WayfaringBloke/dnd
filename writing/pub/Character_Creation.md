@@ -39,11 +39,18 @@ Since we're in a different city to Cy, here's a few general suggestions for back
 ### Burned Hacker
 
 ### Discharged Corp Killer
-- Dishonorably discharged from service in the Xin milite
-- Defence & Security agent for a union  
+- Dishonorably discharged from service in the Xin military (mountain faction to the north)
+- Defence & Security agent for a "union"
+- Former memeber of Reeve's army
+- Ex-cop
+
+### Orphaned Gear Head
+- Raised in a (active) factory in the industrial district 
+
+###  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzEzNzgyODQsMTA1MDgxODI4NCw0MD
-M4NTA4NzQsLTE5MTMzNDI5NCwyMDYzNTI3Mjc1LDk5Mzc1MDUx
-N119
+eyJoaXN0b3J5IjpbMTIxNDY1MDI4OCwxMDUwODE4Mjg0LDQwMz
+g1MDg3NCwtMTkxMzM0Mjk0LDIwNjM1MjcyNzUsOTkzNzUwNTE3
+XX0=
 -->
