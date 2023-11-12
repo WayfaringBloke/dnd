@@ -31,12 +31,13 @@ Choose anything on your character page (or any time your character page directly
 (Note: you do *actually* roll your class bonus HP)
 
 ## Alternate Backgrounds
-Since we're in a different city to Cy, here's a few general suggestions for backgrounds for classes (though any other ideas are welcome).
+Since we're in a different city to Cy, here's a few general suggestions for backgrounds for classes (though any other ideas are welcome, this list is hardly exhaustive).
  
 ### Shunned Nano-Mancer
 - After an overdose of Fin you were flung into the far future of FinSpace, where plants have overrun the skyscrapers.
 
 ### Burned Hacker
+- R
 
 ### Discharged Corp Killer
 - Dishonorably discharged from service in the Xin military (mountain faction to the north)
@@ -45,7 +46,8 @@ Since we're in a different city to Cy, here's a few general suggestions for back
 - Ex-cop
 
 ### Orphaned Gear Head
-- Raised in a (active) factory in the industrial district 
+- Raised in a (active/abandoned) factory in the industrial district 
+- 
 
 ### Rengade Cyber Slasher
 - (Ex) devotee of the cult of Osha, acting like samurai but for enforcing health and safety regulations
@@ -53,10 +55,10 @@ Since we're in a different city to Cy, here's a few general suggestions for back
 ### Forsaken Gang-Goon
 Gang options:
 - "Union" Fixer
-- Slum Gang 
+- Slum
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MDg4NTgyMywxMDUwODE4Mjg0LDQwMz
-g1MDg3NCwtMTkxMzM0Mjk0LDIwNjM1MjcyNzUsOTkzNzUwNTE3
-XX0=
+eyJoaXN0b3J5IjpbLTE5NjY3NDM5MTcsMTA1MDgxODI4NCw0MD
+M4NTA4NzQsLTE5MTMzNDI5NCwyMDYzNTI3Mjc1LDk5Mzc1MDUx
+N119
 -->
