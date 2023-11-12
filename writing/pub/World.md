@@ -24,9 +24,9 @@ Mostly making cash crops for Royal West under new contracting agreement. Farmers
 ### Mountains
 Occupied by Xin faction, highly militarised. Traditionalists focused on liberty, but in a still quite repressive way, think the Khibutz which are "anarchist" but people are judged for reading different papers. 
 
-Contains cobalt mines which they have gradually taken over security for
+Contains cobalt mines which the Xin run security for.
 
-They wear all white: fur coat, cargo pants, balaclava, believe in mountain marxism (utterly insane). Contains cobalt mines.
+They wear all white: fur coat, cargo pants, balaclava, believe in mountain marxism (utterly insane).
 
 Controlled by the Xin (pronounced ks-in), they wear all white: fur coat, cargo pants, balaclava.
 Highly territorial Maoists. Run everything very inefficiently. Backyard Iron Foundries. Armed with weapons with loads of wood trims, AK like things, SVDs like things, Blowback pistols with wooden grips.
@@ -55,7 +55,7 @@ Tethered to the HyperMall the cloud city once flew miles above cloud level to al
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNDc1NzcyOSwtMTAxNDA1MDg5MiwxMT
+eyJoaXN0b3J5IjpbMTYwODc4NzkwMiwtMTAxNDA1MDg5MiwxMT
 UxMDY3MTcsMjg1NzI5OTgxLC0xNjg0OTI2OTUyLC05NTQ5Mzgx
 MzEsMzg1NzcxODk5XX0=
 -->
