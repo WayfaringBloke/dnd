@@ -30,8 +30,10 @@ Choose anything on your character page (or any time your character page directly
  $HP = ceil($ toughness stat $\div 2)  +$ class dice roll
 (Note: you do *actually* roll your class bonus HP)
 
-
+## Alternate Backgrounds
+Since we're in a different city to Cy, we're 
+##
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAzODUwODc0LC0xOTEzMzQyOTQsMjA2Mz
-UyNzI3NSw5OTM3NTA1MTddfQ==
+eyJoaXN0b3J5IjpbLTQxMjEwOTkxNiw0MDM4NTA4NzQsLTE5MT
+MzNDI5NCwyMDYzNTI3Mjc1LDk5Mzc1MDUxN119
 -->
