@@ -34,6 +34,8 @@ Highly territorial Maoists. Run everything very inefficiently. Backyard Iron Fou
 ### Exclusion Zone
 All knowledge of the exclusion zone is destroyed immediately with extreme prejudice. Only thing known is that the closer you get to the border the more radioactive things get. 
 
+A corporate military with no clear markings now maintains a border around it. 
+
 ## City: Xim
 Unmaintained for approaching a decade the weight of the past has crushed our city's future. The sky is the color of a Television turned to a dead channel. The cloud engulfing the city is about 8 years old.
 
@@ -55,8 +57,7 @@ Tethered to the HyperMall the cloud city once flew miles above cloud level to al
 ### FinSpace
 A global hallicination, where all finance is conducted. Entered by taking the halucinogenic upper "Fin", its an endless series of skyscrapers connected by metro tunnels. Since FinSpace is a collective hallucination there is no way to conventionally hack into it and imaginary security measures are often the most powerful. Fin will put you into FinSpace for approximately 5 + d12 days, which the user sees ticking down on a clock on their wrist the entire time. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODAxMjI3NzksLTEyMzM4Mjg5MjQsMT
-YwODc4NzkwMiwtMTAxNDA1MDg5MiwxMTUxMDY3MTcsMjg1NzI5
-OTgxLC0xNjg0OTI2OTUyLC05NTQ5MzgxMzEsMzg1NzcxODk5XX
-0=
+eyJoaXN0b3J5IjpbOTgxMjM1MzE1LC0xMjMzODI4OTI0LDE2MD
+g3ODc5MDIsLTEwMTQwNTA4OTIsMTE1MTA2NzE3LDI4NTcyOTk4
+MSwtMTY4NDkyNjk1MiwtOTU0OTM4MTMxLDM4NTc3MTg5OV19
 -->
