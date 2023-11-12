@@ -3,6 +3,7 @@
 	Sallow's govt resisted the proliferation of cybernetics, heavily regulating their use, which was relaxed by Royal West and completely forgotten by Reeves. So much of the population is far less enhanced than more modernised nations. There is now a heavy pressure to get enhanced to work better, longer and, harder. 
 -  **The Cobalt Yeild**
 	Cobalt has been expensive to extract ever since Royal West left, gradually falling below break-even over the past decade of mismanagement. Fintechs in other nations speculate that keeping Cobalt extraction up is losing the state 10% of their budget a year, rising by 2% every year (so they have massive short positions against Sallowdia's bonds).
+- **Royal West's 
 
 
 
@@ -16,5 +17,6 @@
 2. Leader: most dishonest, often sounded like before he led but vastly more euphemistic. 
 3. EoL: Critical of a bloated state beuracracy, which he was responsible for (most of the manuscripts he wrote were never published but one was)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzAyNzk0MjYsNzA0OTg1ODE5XX0=
+eyJoaXN0b3J5IjpbLTE0NjI3NDU5MzEsLTEzNzAyNzk0MjYsNz
+A0OTg1ODE5XX0=
 -->
