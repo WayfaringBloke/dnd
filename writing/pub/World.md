@@ -8,12 +8,12 @@ Years are numbered since Sallowdia's founding, starting at year 0001
 ![Ingraham Reeves](https://i.imgur.com/lUvlB33.png)
 ### History
 - 0001 - Douglas Sallow's company discovered massive Cobalt deposits in the mountains to the north.
-- -70y - Douglas Sallow lead a failed land-grab on [Country to North].
+- 0019 - Douglas Sallow lead a failed land-grab on [Country to North].
 This weakness led to years of religious urnrest with the people in the mountains rebelling. Eventually Sallow defeated this problem by genocide.
-- -50y - The Royal West Shipping Co. aquired the country after Sallow died 
-- -40y - Restrictions placed on who could live where, Sallowers vs Natives
-- 0 - Royal West Backs out as the Cobalt mines are running dry and political tension is rising. Ingraham rises to power as man willing to defend Sallow's legacy when even Royal West won't.
-- 0091 - It has become clear to almost everyone that the cobalt mines have run out. There is general economic disarray as Reeves hasn't planned for this.
+- 0042 - Sallow dies, Royal West Shipping Co. takes over
+- 0046 - Restrictions placed on who could live where, Sallowers vs Natives
+- 0080 - Royal West Backs out as the Cobalt mines are running dry and political tension is rising. Ingraham rises to power as man willing to defend Sallow's legacy when even Royal West won't.
+- 0091 - It has become clear to almost everyone that the cobalt mines have run out.
 
 
 
@@ -55,7 +55,7 @@ Tethered to the HyperMall the cloud city once flew miles above cloud level to al
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODI3MzU2MDYsMTYwODc4NzkwMiwtMT
+eyJoaXN0b3J5IjpbLTEyMzM4Mjg5MjQsMTYwODc4NzkwMiwtMT
 AxNDA1MDg5MiwxMTUxMDY3MTcsMjg1NzI5OTgxLC0xNjg0OTI2
 OTUyLC05NTQ5MzgxMzEsMzg1NzcxODk5XX0=
 -->
