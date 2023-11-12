@@ -35,7 +35,7 @@ Highly territorial Maoists. Run everything very inefficiently. Backyard Iron Fou
 All knowledge of the exclusion zone is destroyed immediately with extreme prejudice. Only thing known is that the closer you get to the border the more radioactive things get.
 
 ## City: Xim
-Unmaintained for approaching a decade the city is failing.
+Unmaintained for approaching a decade the weight of the b.
 
 ### Slums
 Built of sheet metal, temporary antigravity generators, and broken dreams. Rusting constantly. 
@@ -55,7 +55,7 @@ Tethered to the HyperMall the cloud city once flew miles above cloud level to al
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwODc4NzkwMiwtMTAxNDA1MDg5MiwxMT
-UxMDY3MTcsMjg1NzI5OTgxLC0xNjg0OTI2OTUyLC05NTQ5Mzgx
-MzEsMzg1NzcxODk5XX0=
+eyJoaXN0b3J5IjpbNjUzOTQ1NjQ3LDE2MDg3ODc5MDIsLTEwMT
+QwNTA4OTIsMTE1MTA2NzE3LDI4NTcyOTk4MSwtMTY4NDkyNjk1
+MiwtOTU0OTM4MTMxLDM4NTc3MTg5OV19
 -->
