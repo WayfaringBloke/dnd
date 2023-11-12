@@ -34,10 +34,16 @@ Choose anything on your character page (or any time your character page directly
 Since we're in a different city to Cy, here's a few general suggestions for backgrounds for classes (though any other ideas are welcome).
  
 ### Shunned Nano-Mancer
-- After an overdose of Fin you were flung into the far future of FinSpace, where plants have overrun the skyscrapers
+- After an overdose of Fin you were flung into the far future of FinSpace, where plants have overrun the skyscrapers.
+
+### Burned Hacker
+
+### Discharged Corp Killer
+- Dishonorably discharged from service in the Xin milite
+- Defence & Security agent for a union  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkyOTAwNDEsMTA1MDgxODI4NCw0MDM4NT
-A4NzQsLTE5MTMzNDI5NCwyMDYzNTI3Mjc1LDk5Mzc1MDUxN119
-
+eyJoaXN0b3J5IjpbLTEzNzEzNzgyODQsMTA1MDgxODI4NCw0MD
+M4NTA4NzQsLTE5MTMzNDI5NCwyMDYzNTI3Mjc1LDk5Mzc1MDUx
+N119
 -->
