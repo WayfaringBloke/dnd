@@ -7,7 +7,7 @@ Years are numbered since Sallowdia's founding, starting at year 0001
 **Dictator:** Ingraham Reeves
 ![Ingraham Reeves](https://i.imgur.com/lUvlB33.png)
 ### History
-- 
+- <001 - An unsettled territory for being mostly 
 - 0001 - Douglas Sallow's company discovered massive Cobalt deposits in the mountains to the north.
 - 0019 - Douglas Sallow lead a failed land-grab on [Country to North].
 This weakness led to years of religious urnrest with the people in the mountains rebelling. Eventually Sallow defeated this problem by genocide.
@@ -58,8 +58,8 @@ Tethered to the HyperMall the cloud city once flew miles above cloud level to al
 ### FinSpace
 A global hallicination, where all finance is conducted. Entered by taking the halucinogenic upper "Fin", its an endless series of skyscrapers connected by metro tunnels. Since FinSpace is a collective hallucination there is no way to conventionally hack into it and imaginary security measures are often the most powerful. Fin will put you into FinSpace for approximately 5 + d12 days, which the user sees ticking down on a clock on their wrist the entire time. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjU3MDIyMjYsOTgxMjM1MzE1LC0xMj
-MzODI4OTI0LDE2MDg3ODc5MDIsLTEwMTQwNTA4OTIsMTE1MTA2
-NzE3LDI4NTcyOTk4MSwtMTY4NDkyNjk1MiwtOTU0OTM4MTMxLD
-M4NTc3MTg5OV19
+eyJoaXN0b3J5IjpbNjcxNDI3NDYzLDk4MTIzNTMxNSwtMTIzMz
+gyODkyNCwxNjA4Nzg3OTAyLC0xMDE0MDUwODkyLDExNTEwNjcx
+NywyODU3Mjk5ODEsLTE2ODQ5MjY5NTIsLTk1NDkzODEzMSwzOD
+U3NzE4OTldfQ==
 -->
