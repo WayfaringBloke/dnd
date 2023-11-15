@@ -49,9 +49,9 @@ You have seen enough information to convince you that:
 
 ### Discharged Corp Killer (Ex-Military)
 The worst war crime you saw was:
-- mass prison murder
+- mass prison murder, POW 
 - use of chemical weapons
-- 
+- contracted to demolish a skyscraper, death count 2'400. 
 
 Dishonorably discharged from service in the Xin military (mountain faction to the north)
 - Defence & Security agent for a "union"
@@ -70,7 +70,7 @@ Gang options:
 - Slum
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MzEyODAxMiwxOTAwNDQ5MTg2LDMzNj
+eyJoaXN0b3J5IjpbMTI3ODk1Mzg1NywxOTAwNDQ5MTg2LDMzNj
 Y2MDk2MSwxMzI1ODcxNjA5LDEwNTA4MTgyODQsNDAzODUwODc0
 LC0xOTEzMzQyOTQsMjA2MzUyNzI3NSw5OTM3NTA1MTddfQ==
 -->
