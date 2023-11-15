@@ -12,7 +12,7 @@ Years are numbered since Sallowdia's founding, starting at year 0001
 - 0019 - Douglas Sallow lead a failed land-grab on [Country to North].
 This weakness led to years of religious urnrest with the people in the mountains rebelling. Eventually Sallow defeated this problem by genocide.
 - 0042 - Sallow dies, Royal West Shipping Co. takes over
-- 0046 - Restrictions placed on who could live where, Sallowers vs Natives
+- 0046 - Restrictions placed on who could live where
 - 0080 - Royal West Backs out as the Cobalt mines are running dry and political tension is rising. Ingraham rises to power as man willing to defend Sallow's legacy when even Royal West won't.
 - 0091 - It has become clear to almost everyone that the cobalt mines have run out.
 
@@ -58,9 +58,9 @@ Tethered to the HyperMall the cloud city once flew miles above cloud level to al
 ### FinSpace
 A global hallicination, where all finance is conducted. Entered by taking the halucinogenic upper "Fin", its an endless series of skyscrapers connected by metro tunnels. Since FinSpace is a collective hallucination there is no way to conventionally hack into it and imaginary security measures are often the most powerful. Fin will put you into FinSpace for approximately 5 + d12 days, which the user sees ticking down on a clock on their wrist the entire time. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjc3NTU3NzMsLTE5MzIzMDgxMDYsMT
-M0MTc4MjM5MywtMTU0NDIxNjcxMiw2NzE0Mjc0NjMsOTgxMjM1
-MzE1LC0xMjMzODI4OTI0LDE2MDg3ODc5MDIsLTEwMTQwNTA4OT
-IsMTE1MTA2NzE3LDI4NTcyOTk4MSwtMTY4NDkyNjk1MiwtOTU0
-OTM4MTMxLDM4NTc3MTg5OV19
+eyJoaXN0b3J5IjpbLTEyMjMwMDA2OTgsLTIwNjc3NTU3NzMsLT
+E5MzIzMDgxMDYsMTM0MTc4MjM5MywtMTU0NDIxNjcxMiw2NzE0
+Mjc0NjMsOTgxMjM1MzE1LC0xMjMzODI4OTI0LDE2MDg3ODc5MD
+IsLTEwMTQwNTA4OTIsMTE1MTA2NzE3LDI4NTcyOTk4MSwtMTY4
+NDkyNjk1MiwtOTU0OTM4MTMxLDM4NTc3MTg5OV19
 -->
