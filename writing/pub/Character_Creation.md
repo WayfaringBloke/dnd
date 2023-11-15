@@ -41,7 +41,8 @@ You got infected when:
 
 ### Burned Hacker
 You have seen enough information to convince you that:
-- a
+- Douglas Sallow wrote maunscripts at the end of his life that are tyrades against his govt, and the 1st one is still out there somewhere.
+- Ingraham Reeve
 - Made redundant as a security officer for the HyperMall
 
 ### Discharged Corp Killer
@@ -62,7 +63,7 @@ Gang options:
 - Slum
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM2NjYwOTYxLDEzMjU4NzE2MDksMTA1MD
-gxODI4NCw0MDM4NTA4NzQsLTE5MTMzNDI5NCwyMDYzNTI3Mjc1
-LDk5Mzc1MDUxN119
+eyJoaXN0b3J5IjpbMTc0MjA0NDczOSwzMzY2NjA5NjEsMTMyNT
+g3MTYwOSwxMDUwODE4Mjg0LDQwMzg1MDg3NCwtMTkxMzM0Mjk0
+LDIwNjM1MjcyNzUsOTkzNzUwNTE3XX0=
 -->
