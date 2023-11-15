@@ -69,15 +69,13 @@ You swore an oath to:
 - Temperance
 
 ### Forsaken Gang-Goon
-Gang options:
-- "Union" Fixer
-- Slum
-
+You would still be loyal to your gang if:
+- a
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MDg3MjQxOCwxNTY1ODI2Mjg4LC0xMz
-QyNTM5ODc0LC0xMjQwMDkzNDA3LDM5MDE3MTAzMCwxMDE2Nzc3
-MDQ2LDE5MDA0NDkxODYsMzM2NjYwOTYxLDEzMjU4NzE2MDksMT
-A1MDgxODI4NCw0MDM4NTA4NzQsLTE5MTMzNDI5NCwyMDYzNTI3
-Mjc1LDk5Mzc1MDUxN119
+eyJoaXN0b3J5IjpbMjE1MDcxNTQ5LDE1NjU4MjYyODgsLTEzND
+I1Mzk4NzQsLTEyNDAwOTM0MDcsMzkwMTcxMDMwLDEwMTY3Nzcw
+NDYsMTkwMDQ0OTE4NiwzMzY2NjA5NjEsMTMyNTg3MTYwOSwxMD
+UwODE4Mjg0LDQwMzg1MDg3NCwtMTkxMzM0Mjk0LDIwNjM1Mjcy
+NzUsOTkzNzUwNTE3XX0=
 -->
