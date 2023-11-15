@@ -41,10 +41,11 @@ You got infected when:
 
 ### Burned Hacker
 You have seen enough information to convince you that:
+- a
+- Royal West covered up a massacre of mass protests in Xim in 045
 - Douglas Sallow wrote maunscripts at the end of his life that are tyrades against his govt, and the 1st one is still out there somewhere.
-- Royal West covered up a massacre in Xim in 
 - Ingraham Reeves is gay
-- 
+
 
 ### Discharged Corp Killer
 - Dishonorably discharged from service in the Xin military (mountain faction to the north)
@@ -64,7 +65,7 @@ Gang options:
 - Slum
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMDQ0OTE4NiwzMzY2NjA5NjEsMTMyNT
-g3MTYwOSwxMDUwODE4Mjg0LDQwMzg1MDg3NCwtMTkxMzM0Mjk0
-LDIwNjM1MjcyNzUsOTkzNzUwNTE3XX0=
+eyJoaXN0b3J5IjpbODE1MDk0NDk1LDE5MDA0NDkxODYsMzM2Nj
+YwOTYxLDEzMjU4NzE2MDksMTA1MDgxODI4NCw0MDM4NTA4NzQs
+LTE5MTMzNDI5NCwyMDYzNTI3Mjc1LDk5Mzc1MDUxN119
 -->
