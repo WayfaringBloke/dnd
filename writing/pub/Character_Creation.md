@@ -35,7 +35,7 @@ Since we're in a different city to Cy, here's a few general suggestions for back
  
 ### Shunned Nano-Mancer
 - After an overdose of Fin you were flung into the far future of FinSpace, where plants have overrun the skyscrapers. 
-- 
+-  After overdosing on Fin you had visions of an alternate Finspace, erroded by nature; long past the corporate status 
 
 ### Burned Hacker
 - Made redundant as a security officer for the HyperMall
@@ -58,7 +58,7 @@ Gang options:
 - Slum
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MTAxODAwLDEzMjU4NzE2MDksMTA1MD
+eyJoaXN0b3J5IjpbMTExMzU5NzYyLDEzMjU4NzE2MDksMTA1MD
 gxODI4NCw0MDM4NTA4NzQsLTE5MTMzNDI5NCwyMDYzNTI3Mjc1
 LDk5Mzc1MDUxN119
 -->
