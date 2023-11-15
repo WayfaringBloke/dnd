@@ -48,7 +48,12 @@ You have seen enough information to convince you that:
 
 
 ### Discharged Corp Killer (Ex-Military)
-- Dishonorably discharged from service in the Xin military (mountain faction to the north)
+The worst war crime you saw was:
+- mass prison murder
+- use of chemical weapons
+- 
+
+Dishonorably discharged from service in the Xin military (mountain faction to the north)
 - Defence & Security agent for a "union"
 - Former memeber of Reeve's army
 - Ex-cop
@@ -65,7 +70,7 @@ Gang options:
 - Slum
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MDIwMTU5MiwxOTAwNDQ5MTg2LDMzNj
+eyJoaXN0b3J5IjpbLTQ4MzEyODAxMiwxOTAwNDQ5MTg2LDMzNj
 Y2MDk2MSwxMzI1ODcxNjA5LDEwNTA4MTgyODQsNDAzODUwODc0
 LC0xOTEzMzQyOTQsMjA2MzUyNzI3NSw5OTM3NTA1MTddfQ==
 -->
