@@ -61,15 +61,16 @@ You trusted them (parents, friends, etc.), and then they:
 - Joined a gang
 
 ### Rengade Cyber Slasher
-- (Ex) devotee of the cult of Osha, acting like samurai but for enforcing health and safety regulations
-
+You swore an oath to:
+- Osha
+- 
 ### Forsaken Gang-Goon
 Gang options:
 - "Union" Fixer
 - Slum
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNjEzNDY5NCwzOTAxNzEwMzAsMTAxNj
+eyJoaXN0b3J5IjpbLTMxMzU1MTAwMywzOTAxNzEwMzAsMTAxNj
 c3NzA0NiwxOTAwNDQ5MTg2LDMzNjY2MDk2MSwxMzI1ODcxNjA5
 LDEwNTA4MTgyODQsNDAzODUwODc0LC0xOTEzMzQyOTQsMjA2Mz
 UyNzI3NSw5OTM3NTA1MTddfQ==
