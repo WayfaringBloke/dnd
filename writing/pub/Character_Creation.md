@@ -41,14 +41,13 @@ You got infected when:
 
 ### Burned Hacker
 You have seen enough information to convince you that:
-- Everyone in Cloud City is dead, and has been for half a decade
-- Royal West covered up a massacre of mass protests in Xim in 045
-- Douglas Sallow wrote maunscripts at the end of his life that are tyrades against his govt, and the 1st one is still out there
-  somewhere.
-- Ingraham Reeves is gay
+- Everyone in Cloud City is dead, and has been for half a decade.
+- Royal West covered up a massacre of mass protests in Xim in 045.
+- Douglas Sallow wrote maunscripts at the end of his life that are tyrades against his govt, and the 1st one is still out there somewhere.
+- Ingraham Reeves is gay.
 
 
-### Discharged Corp Killer
+### Discharged Corp Killer (Ex-Military)
 - Dishonorably discharged from service in the Xin military (mountain faction to the north)
 - Defence & Security agent for a "union"
 - Former memeber of Reeve's army
@@ -66,7 +65,7 @@ Gang options:
 - Slum
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDUyMjc2MjYsMTkwMDQ0OTE4NiwzMz
-Y2NjA5NjEsMTMyNTg3MTYwOSwxMDUwODE4Mjg0LDQwMzg1MDg3
-NCwtMTkxMzM0Mjk0LDIwNjM1MjcyNzUsOTkzNzUwNTE3XX0=
+eyJoaXN0b3J5IjpbLTM4MDIwMTU5MiwxOTAwNDQ5MTg2LDMzNj
+Y2MDk2MSwxMzI1ODcxNjA5LDEwNTA4MTgyODQsNDAzODUwODc0
+LC0xOTEzMzQyOTQsMjA2MzUyNzI3NSw5OTM3NTA1MTddfQ==
 -->
