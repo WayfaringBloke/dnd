@@ -63,6 +63,7 @@ You trusted them (parents, friends, etc.), and then they:
 ### Rengade Cyber Slasher
 You swore an oath to:
 - Osha
+- Yourself
 - 
 ### Forsaken Gang-Goon
 Gang options:
@@ -70,8 +71,8 @@ Gang options:
 - Slum
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMzU1MTAwMywzOTAxNzEwMzAsMTAxNj
-c3NzA0NiwxOTAwNDQ5MTg2LDMzNjY2MDk2MSwxMzI1ODcxNjA5
-LDEwNTA4MTgyODQsNDAzODUwODc0LC0xOTEzMzQyOTQsMjA2Mz
-UyNzI3NSw5OTM3NTA1MTddfQ==
+eyJoaXN0b3J5IjpbLTEyNDAwOTM0MDcsMzkwMTcxMDMwLDEwMT
+Y3NzcwNDYsMTkwMDQ0OTE4NiwzMzY2NjA5NjEsMTMyNTg3MTYw
+OSwxMDUwODE4Mjg0LDQwMzg1MDg3NCwtMTkxMzM0Mjk0LDIwNj
+M1MjcyNzUsOTkzNzUwNTE3XX0=
 -->
