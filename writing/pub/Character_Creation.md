@@ -65,15 +65,18 @@ You swore an oath to:
 - Osha
 - Yourself
 - Exclusion Zone
-- 
+- Nature
+- Temperance
+
 ### Forsaken Gang-Goon
 Gang options:
 - "Union" Fixer
 - Slum
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDI1Mzk4NzQsLTEyNDAwOTM0MDcsMz
-kwMTcxMDMwLDEwMTY3NzcwNDYsMTkwMDQ0OTE4NiwzMzY2NjA5
-NjEsMTMyNTg3MTYwOSwxMDUwODE4Mjg0LDQwMzg1MDg3NCwtMT
-kxMzM0Mjk0LDIwNjM1MjcyNzUsOTkzNzUwNTE3XX0=
+eyJoaXN0b3J5IjpbMTU2NTgyNjI4OCwtMTM0MjUzOTg3NCwtMT
+I0MDA5MzQwNywzOTAxNzEwMzAsMTAxNjc3NzA0NiwxOTAwNDQ5
+MTg2LDMzNjY2MDk2MSwxMzI1ODcxNjA5LDEwNTA4MTgyODQsND
+AzODUwODc0LC0xOTEzMzQyOTQsMjA2MzUyNzI3NSw5OTM3NTA1
+MTddfQ==
 -->
