@@ -58,7 +58,7 @@ The worst war crime you saw was:
 You trusted them (parents, friends, etc.), and then they:
 - Disappeared in the slums
 - Died in a car crash
-- 
+- Joined a gang
 
 ### Rengade Cyber Slasher
 - (Ex) devotee of the cult of Osha, acting like samurai but for enforcing health and safety regulations
@@ -69,8 +69,8 @@ Gang options:
 - Slum
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk2NzY2MDgzLDM5MDE3MTAzMCwxMDE2Nz
-c3MDQ2LDE5MDA0NDkxODYsMzM2NjYwOTYxLDEzMjU4NzE2MDks
-MTA1MDgxODI4NCw0MDM4NTA4NzQsLTE5MTMzNDI5NCwyMDYzNT
-I3Mjc1LDk5Mzc1MDUxN119
+eyJoaXN0b3J5IjpbLTIxNjEzNDY5NCwzOTAxNzEwMzAsMTAxNj
+c3NzA0NiwxOTAwNDQ5MTg2LDMzNjY2MDk2MSwxMzI1ODcxNjA5
+LDEwNTA4MTgyODQsNDAzODUwODc0LC0xOTEzMzQyOTQsMjA2Mz
+UyNzI3NSw5OTM3NTA1MTddfQ==
 -->
