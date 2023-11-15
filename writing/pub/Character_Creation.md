@@ -42,8 +42,9 @@ You got infected when:
 ### Burned Hacker
 You have seen enough information to convince you that:
 - Douglas Sallow wrote maunscripts at the end of his life that are tyrades against his govt, and the 1st one is still out there somewhere.
-- Ingraham Reeve
-- Made redundant as a security officer for the HyperMall
+- Royal West covered up a massacre in Xim in -003
+- Ingraham Reeves is gay
+- 
 
 ### Discharged Corp Killer
 - Dishonorably discharged from service in the Xin military (mountain faction to the north)
@@ -63,7 +64,7 @@ Gang options:
 - Slum
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MjA0NDczOSwzMzY2NjA5NjEsMTMyNT
-g3MTYwOSwxMDUwODE4Mjg0LDQwMzg1MDg3NCwtMTkxMzM0Mjk0
-LDIwNjM1MjcyNzUsOTkzNzUwNTE3XX0=
+eyJoaXN0b3J5IjpbLTE1MjU1Mzc1NDAsMzM2NjYwOTYxLDEzMj
+U4NzE2MDksMTA1MDgxODI4NCw0MDM4NTA4NzQsLTE5MTMzNDI5
+NCwyMDYzNTI3Mjc1LDk5Mzc1MDUxN119
 -->
