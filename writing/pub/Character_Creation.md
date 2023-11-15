@@ -40,6 +40,8 @@ You got infected when:
 - You were kidnapped and subjected horrible experiments.
 
 ### Burned Hacker
+You have seen enough information to convince you that:
+- a
 - Made redundant as a security officer for the HyperMall
 
 ### Discharged Corp Killer
@@ -60,7 +62,7 @@ Gang options:
 - Slum
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NTkwMTcwNywxMzI1ODcxNjA5LDEwNT
-A4MTgyODQsNDAzODUwODc0LC0xOTEzMzQyOTQsMjA2MzUyNzI3
-NSw5OTM3NTA1MTddfQ==
+eyJoaXN0b3J5IjpbMzM2NjYwOTYxLDEzMjU4NzE2MDksMTA1MD
+gxODI4NCw0MDM4NTA4NzQsLTE5MTMzNDI5NCwyMDYzNTI3Mjc1
+LDk5Mzc1MDUxN119
 -->
