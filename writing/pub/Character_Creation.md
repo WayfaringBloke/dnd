@@ -55,9 +55,9 @@ The worst war crime you saw was:
 - dirty bomb 
 
 ### Orphaned Gear Head (Lone-Wolf)
-You trusted them (not jus, and then they:
+You trusted them (parents, friends, etc.), and then they:
 - Disappeared in the slums
-- Were proclaimed dead
+- Died in a car crash
 - 
 
 ### Rengade Cyber Slasher
@@ -69,8 +69,8 @@ Gang options:
 - Slum
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzIzOTA5OTUsMzkwMTcxMDMwLDEwMT
-Y3NzcwNDYsMTkwMDQ0OTE4NiwzMzY2NjA5NjEsMTMyNTg3MTYw
-OSwxMDUwODE4Mjg0LDQwMzg1MDg3NCwtMTkxMzM0Mjk0LDIwNj
-M1MjcyNzUsOTkzNzUwNTE3XX0=
+eyJoaXN0b3J5IjpbNTk2NzY2MDgzLDM5MDE3MTAzMCwxMDE2Nz
+c3MDQ2LDE5MDA0NDkxODYsMzM2NjYwOTYxLDEzMjU4NzE2MDks
+MTA1MDgxODI4NCw0MDM4NTA4NzQsLTE5MTMzNDI5NCwyMDYzNT
+I3Mjc1LDk5Mzc1MDUxN119
 -->
