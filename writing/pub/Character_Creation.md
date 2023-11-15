@@ -37,7 +37,7 @@ Since we're in a different city to Cy, here's a few general suggestions for back
 You got infected when:
 -  After overdosing on Fin you had visions of an alternate Finspace, erroded by nature; long past the corporate status-quo. 
 - Living in the shadow of the exclusion zone isnt prodocutive to the development of any swallodian citizen.  (childhood near over 3.6 rontgen)
-- 
+- You were kidnapped and subjected horrible experiments.
 
 ### Burned Hacker
 - Made redundant as a security officer for the HyperMall
@@ -60,7 +60,7 @@ Gang options:
 - Slum
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDMyNDU2ODAsMTMyNTg3MTYwOSwxMD
-UwODE4Mjg0LDQwMzg1MDg3NCwtMTkxMzM0Mjk0LDIwNjM1Mjcy
-NzUsOTkzNzUwNTE3XX0=
+eyJoaXN0b3J5IjpbMTY3NTkwMTcwNywxMzI1ODcxNjA5LDEwNT
+A4MTgyODQsNDAzODUwODc0LC0xOTEzMzQyOTQsMjA2MzUyNzI3
+NSw5OTM3NTA1MTddfQ==
 -->
