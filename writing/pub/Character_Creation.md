@@ -54,8 +54,11 @@ The worst war crime you saw was:
 - contracted to demolish a skyscraper, death count 2'400. 
 - dirty bomb 
 
-### Orphaned Gear Head
-- Raised in a (active/abandoned) factory in the industrial district 
+### Orphaned Gear Head (Lone-Wolf)
+You trusted them, and then they:
+- Disappeared in the slums
+- Were proclaimed dead
+- 
 
 ### Rengade Cyber Slasher
 - (Ex) devotee of the cult of Osha, acting like samurai but for enforcing health and safety regulations
@@ -66,7 +69,8 @@ Gang options:
 - Slum
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNjc3NzA0NiwxOTAwNDQ5MTg2LDMzNj
-Y2MDk2MSwxMzI1ODcxNjA5LDEwNTA4MTgyODQsNDAzODUwODc0
-LC0xOTEzMzQyOTQsMjA2MzUyNzI3NSw5OTM3NTA1MTddfQ==
+eyJoaXN0b3J5IjpbMzkwMTcxMDMwLDEwMTY3NzcwNDYsMTkwMD
+Q0OTE4NiwzMzY2NjA5NjEsMTMyNTg3MTYwOSwxMDUwODE4Mjg0
+LDQwMzg1MDg3NCwtMTkxMzM0Mjk0LDIwNjM1MjcyNzUsOTkzNz
+UwNTE3XX0=
 -->
