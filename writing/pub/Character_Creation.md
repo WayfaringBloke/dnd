@@ -34,7 +34,7 @@ Choose anything on your character page (or any time your character page directly
 Since we're in a different city to Cy, here's a few general suggestions for backgrounds for classes (though any other ideas are welcome, this list is hardly exhaustive).
  
 ### Shunned Nano-Mancer
-- After an overdose of Fin you were flung into the far future of FinSpace, where plants have overrun the skyscrapers (Solarpunk). 
+- After an overdose of Fin you were flung into the far future of FinSpace, where plants have overrun the skyscrapers. 
 - 
 
 ### Burned Hacker
@@ -58,7 +58,7 @@ Gang options:
 - Slum
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMzQyNjE5OCwxMzI1ODcxNjA5LDEwNT
-A4MTgyODQsNDAzODUwODc0LC0xOTEzMzQyOTQsMjA2MzUyNzI3
-NSw5OTM3NTA1MTddfQ==
+eyJoaXN0b3J5IjpbMTY0MTAxODAwLDEzMjU4NzE2MDksMTA1MD
+gxODI4NCw0MDM4NTA4NzQsLTE5MTMzNDI5NCwyMDYzNTI3Mjc1
+LDk5Mzc1MDUxN119
 -->
