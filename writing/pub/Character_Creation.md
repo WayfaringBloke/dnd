@@ -64,6 +64,7 @@ You trusted them (parents, friends, etc.), and then they:
 You swore an oath to:
 - Osha
 - Yourself
+- Exclusion Zone
 - 
 ### Forsaken Gang-Goon
 Gang options:
@@ -71,8 +72,8 @@ Gang options:
 - Slum
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDAwOTM0MDcsMzkwMTcxMDMwLDEwMT
-Y3NzcwNDYsMTkwMDQ0OTE4NiwzMzY2NjA5NjEsMTMyNTg3MTYw
-OSwxMDUwODE4Mjg0LDQwMzg1MDg3NCwtMTkxMzM0Mjk0LDIwNj
-M1MjcyNzUsOTkzNzUwNTE3XX0=
+eyJoaXN0b3J5IjpbLTEzNDI1Mzk4NzQsLTEyNDAwOTM0MDcsMz
+kwMTcxMDMwLDEwMTY3NzcwNDYsMTkwMDQ0OTE4NiwzMzY2NjA5
+NjEsMTMyNTg3MTYwOSwxMDUwODE4Mjg0LDQwMzg1MDg3NCwtMT
+kxMzM0Mjk0LDIwNjM1MjcyNzUsOTkzNzUwNTE3XX0=
 -->
