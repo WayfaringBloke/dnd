@@ -71,14 +71,14 @@ You swore an oath to:
 ### Forsaken Gang-Goon
 Your loyalty is because:
 - Hostage
-- Family
 - Ideological (Protest)
-- In
+- Infatuated with a higher up
+- Family
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjI0NDQ5NTQsMTU2NTgyNjI4OCwtMT
-M0MjUzOTg3NCwtMTI0MDA5MzQwNywzOTAxNzEwMzAsMTAxNjc3
-NzA0NiwxOTAwNDQ5MTg2LDMzNjY2MDk2MSwxMzI1ODcxNjA5LD
-EwNTA4MTgyODQsNDAzODUwODc0LC0xOTEzMzQyOTQsMjA2MzUy
-NzI3NSw5OTM3NTA1MTddfQ==
+eyJoaXN0b3J5IjpbMjA4NTU3MDk4MSwxNTY1ODI2Mjg4LC0xMz
+QyNTM5ODc0LC0xMjQwMDkzNDA3LDM5MDE3MTAzMCwxMDE2Nzc3
+MDQ2LDE5MDA0NDkxODYsMzM2NjYwOTYxLDEzMjU4NzE2MDksMT
+A1MDgxODI4NCw0MDM4NTA4NzQsLTE5MTMzNDI5NCwyMDYzNTI3
+Mjc1LDk5Mzc1MDUxN119
 -->
