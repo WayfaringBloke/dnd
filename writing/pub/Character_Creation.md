@@ -36,7 +36,7 @@ Since we're in a different city to Cy, here's a few general suggestions for back
 ### Shunned Nano-Mancer
 You got infected when:
 -  After overdosing on Fin you had visions of an alternate Finspace, erroded by nature; long past the corporate status-quo. 
--
+- Living in the shadow of ground zero isnt prodocutiv to the development of any swallodian citizen. 
 -
 
 ### Burned Hacker
@@ -60,7 +60,7 @@ Gang options:
 - Slum
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwODI2NTY1MiwxMzI1ODcxNjA5LDEwNT
-A4MTgyODQsNDAzODUwODc0LC0xOTEzMzQyOTQsMjA2MzUyNzI3
-NSw5OTM3NTA1MTddfQ==
+eyJoaXN0b3J5IjpbLTE2Mzk2ODY4NzIsMTMyNTg3MTYwOSwxMD
+UwODE4Mjg0LDQwMzg1MDg3NCwtMTkxMzM0Mjk0LDIwNjM1Mjcy
+NzUsOTkzNzUwNTE3XX0=
 -->
