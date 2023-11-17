@@ -12,9 +12,10 @@
 	3. Talk to workers about their struggles, try to pretend to be workers yourself 
 3. Scabs
 	1. A bunch of guys pull up in green overalls
-	2. 
-	3. Threaten picketing workers
-	4. Combat! 
+	2. They try to cross the picket, blue collars block them
+	3. 
+	4. Threaten picketing workers
+	5. Combat! 
 4. The assault seems never-ending but an Osha warrior saves you
 5. Dead man's switch suicide bomber
 
@@ -25,7 +26,7 @@ scabs = """n: a
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1ODYxNDEzNywtNDA5NzcxMTg0LC0xMz
+eyJoaXN0b3J5IjpbMTgwMDMwMTY4MCwtNDA5NzcxMTg0LC0xMz
 A3NjI3NDI5LC0xMjE0NTc3MTUyLC03Nzc5MjQxMTksLTIwOTI1
 Mzk3OTMsLTE2NzY5ODQ2ODQsLTEyNzM1Nzk4NzcsLTEyMDk3MD
 gyNTksMTg1OTM3NzY0LDgwMTYxMDYzMCwtMTc4NDA0MDAyLDEz
