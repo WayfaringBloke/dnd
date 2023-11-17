@@ -11,8 +11,10 @@
 	2. Boiling hot whiskey + coffee severed from a barrel marked biohazard. DR 14 Toughness, +1 Worker Solidarity, d2 damage
 	3. Talk to workers about their struggles, try to pretend to be workers yourself 
 3. Cyber-scabs
-	1. Threaten picketing workers
-	2. Combat! 
+	1. 4 guys pull up on a forklift in green overalls
+	2. 
+	3. Threaten picketing workers
+	4. Combat! 
 4. The assault seems never-ending but an Osha warrior saves you
 5. Dead man's switch suicide bomber
 
@@ -23,7 +25,7 @@ scabs = """n: a
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NjYzNzkxNiwtMTMwNzYyNzQyOSwtMT
+eyJoaXN0b3J5IjpbLTQwOTc3MTE4NCwtMTMwNzYyNzQyOSwtMT
 IxNDU3NzE1MiwtNzc3OTI0MTE5LC0yMDkyNTM5NzkzLC0xNjc2
 OTg0Njg0LC0xMjczNTc5ODc3LC0xMjA5NzA4MjU5LDE4NTkzNz
 c2NCw4MDE2MTA2MzAsLTE3ODQwNDAwMiwxMzQyOTQ4MTQ0LC0y
