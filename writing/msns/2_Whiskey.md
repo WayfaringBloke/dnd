@@ -1,4 +1,4 @@
-# Mission 2
+# Whiskey
 1. 2nd Cowboy Job:
 	1. Wake up in/Called to El Torro 
 	2. Tells you to go rescue Salas Sawyer, a friend of his
@@ -48,5 +48,6 @@
 ![guard](https://github.com/WayfaringBloke/dnd/blob/main/assets/m2/guard.png?raw=true)![Salas Sawyer](https://github.com/WayfaringBloke/dnd/blob/main/assets/rnpc/SalasSawyer.png?raw=true)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDQ4MDkwNzJdfQ==
+eyJoaXN0b3J5IjpbLTExNjMxMzI4MTAsLTEwNDQ4MDkwNzJdfQ
+==
 -->
