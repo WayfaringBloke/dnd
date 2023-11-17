@@ -54,7 +54,11 @@
 # [Map](https://excalidraw.com/#json=W_biwfYzY6NURPXNTLv3z,WfTky5C1MT0JoVaBKRASdg)
 # Assets 
 ![manager](https://github.com/WayfaringBloke/dnd/blob/main/assets/m1/manager.png?raw=true)![Ronald](https://github.com/WayfaringBloke/dnd/blob/main/assets/rnpc/Ronald.png?raw=true)
+# Combat Dumps
+```
+store = """ 
 
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMTcwNjEwMV19
+eyJoaXN0b3J5IjpbMTgzMDIxNjUxMSwxMzAxNzA2MTAxXX0=
 -->
