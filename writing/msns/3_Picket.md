@@ -8,13 +8,13 @@
 2. The Build-up
 	1. Driven in the back of an uncomfy van for an hour
 	2. Boiling hot whiskey + coffee severed from a barrel marked biohazard. DR 14 Toughness, +1 Worker Solidarity, d2 damage.
-	3.  
+	3. Talk to work 
 3. Scab assault team is sent, protect workers
 4. The assault seems never-ending but an Osha warrior saves you
 5. Dead man's switch suicide bomber
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzY5ODQ2ODQsLTEyNzM1Nzk4NzcsLT
-EyMDk3MDgyNTksMTg1OTM3NzY0LDgwMTYxMDYzMCwtMTc4NDA0
-MDAyLDEzNDI5NDgxNDQsLTIwODg3NDY2MTIsNzMwOTk4MTE2XX
-0=
+eyJoaXN0b3J5IjpbLTEyMzg2NzIyMzgsLTE2NzY5ODQ2ODQsLT
+EyNzM1Nzk4NzcsLTEyMDk3MDgyNTksMTg1OTM3NzY0LDgwMTYx
+MDYzMCwtMTc4NDA0MDAyLDEzNDI5NDgxNDQsLTIwODg3NDY2MT
+IsNzMwOTk4MTE2XX0=
 -->
