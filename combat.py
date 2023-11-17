@@ -1,7 +1,19 @@
 from dataclasses import dataclass, field
 from pprint import pprint
 import random
+from time import sleep
 
+
+def droll(n):
+    r = 0 if n == 0 else random.randint(1, n)
+    print(f"Rolling d{n}", end="")
+    dots = random.randint(3, 5)
+    for _ in range(dots):
+        print(".", end="")
+        sleep(float(random.randint(3, 8)) / 50)
+
+    print(f"{' ' * (6 - dots)} got {r}!")
+    
 def roll(n):
     r = 0 if n == 0 else random.randint(1, n)
     print(f"Rolled d{n} got {r}")
@@ -21,7 +33,7 @@ class Weapon:
     def atk(self, dr, name):
         for _ in range(3 if self.is_auto else 1):
             dmg = roll(self.damage)
-            print(f"{name}: DR {dr} DMG {dmg}")  
+            print(f"{name}: DR {dr} DMG {dmg}")
 
 @dataclass
 class Enemy:
@@ -42,13 +54,15 @@ class Enemy:
         self.hp -= amount
         print(f"{self.name}: HP {self.hp}")
         if self.hp <= 0:
-            print(f"{self.name}: DEAD")
             self.group.kill(self.name)
         elif self.hp <= self.strt_hp // 3:
             print(f"{self.name}: BLOODIED")
             self.mrl()
             self.strt_hp = 0
-        
+
+    def kill(self):
+        self.group.kill(self.name)
+    
     def atk(self, mod):
         dr = self.accuracy + mod
         self.weapon.atk(dr, self.name)
@@ -60,10 +74,10 @@ class Enemy:
             while True:
                 inp = input(f"{self.name}: {action} (Y/n)? ")
                 if inp.lower() in ["y", "n", ""]: break
-            
+
             if inp.lower() != "n":
                 self.group.kill(self.name)
-            
+
 
     def ded(self):
         return self.hp <= 0
@@ -73,34 +87,33 @@ class Enemy:
 
 @dataclass
 class Group:
-    leader: Enemy
-    enemies: list[Enemy]
+    leader: str
+    enemies: dict[str, Enemy]
     initEnemies: int = field(init=False)
     turnOrder: list[int] = field(init=False)
     currentTurn: int = field(init=False)
-    
+
     def __post_init__(self):
         self.initEnemies = len(self.enemies)
         self.turnOrder = []
         self.currentTurn = 0
 
     def get_enemy(self, name):
-        for e in self.enemies:
-            if e.name == name:
-                return e
-        return None
+        return self.enemies[name]
 
     def odr(self):
-        for i, e in enumerate(self.enemies):
-            print(f"[{i}]: {e.name}")
+        names = list(self.enemies.keys())
+        for i, name in enumerate(names):
+            print(f"[{i}]: {name}")
         while True:
             # parses comma separated indexes
             trns = input("Turn order: ")
             trns = list(map(int, trns.split(",")))
-            if sorted(trns) == list(range(len(self.enemies))):
+            if sorted(trns) == list(range(len(names))):
                 break
             print(f"Error: Invalid turn order {trns}")
-        self.turnOrder = trns
+
+        self.turnOrder = [names[i] for i in trns]
 
     def rst(self):
         self.currentTurn = 0
@@ -117,38 +130,32 @@ class Group:
         self.currentTurn += 1
 
     def mrl(self):
-        for e in self.enemies:
+        for e in self.enemies.values():
             e.mrl()
-    
+
     def kill(self, name):
-        killed = None
-        for i, e in enumerate(self.enemies):
-            if e.name == name:
-                self.turnOrder.remove(i)
-                self.enemies.remove(e)
-                killed = e
-        
-        if killed == None: return
 
-        print(f"{killed.name}: DEAD")
+        if name not in self.enemies:
+            print("EROR: Can't kill {name}")
+            return
 
-        if self.leader != None and killed == self.leader:
+        killed = self.enemies[name]
+        del self.enemies[name]
+
+        print(f"{name}: DEAD")
+
+        if self.leader == name:
             self.mrl()
             self.leader = None
         if len(self.enemies) <= self.initEnemies // 2:
             self.mrl()
             self.initEnemies = 0
-            
+
     def __getattr__(self, name):
         enemy = self.get_enemy(name)
         if enemy == None:
             print(f"Enemy {name} not found")
         return enemy
-    
-
-    
-        
-
 
 PREFIXES = ["n:", "h:", "m:", "a:", "w:", "d:"]
 
@@ -158,13 +165,16 @@ def remove_prefix(s, prf):
     return s.removeprefix(prf)
 
 def parse(s):
-    es = s.split("\n") 
-    enemies = []
+    es = s.split("\n")
+    enemies = {}
+    leader = None
     for i, e in enumerate(es):
         eas = [remove_prefix(ea.strip(), prf).strip() for ea, prf in zip(e.split(","), PREFIXES)]
 
         name, hp, morale, rawArmor, rawWeapon, accuracy = eas
-        
+        if i == 0:
+            leader = name
+
         hp = int(hp)
         morale = int(morale)
         armor = int(remove_prefix(rawArmor, "d").strip())
@@ -181,15 +191,15 @@ def parse(s):
             armor,
             weapon
         )
-        
-        enemies.append(enemy)
-    group = Group(enemies[0], enemies)
 
-    for e in enemies:
+        enemies[name] = enemy
+    group = Group(leader, enemies)
+
+    for e in enemies.values():
         e.group = group
 
     pprint(group)
-    
+
     return group
 # format
 # groups of enemies are separated by line breaks
@@ -205,5 +215,5 @@ n: gamer, h: 200, m: 11, a: d10, w: d6, d: 14"""
 # 2. group.odr() to pick an attack order for the enemies
 # 3. group.name.dmg(amount) to damage enemies
 # 4. group.run() runs 1 enemies turn at a time
-    
+
 
