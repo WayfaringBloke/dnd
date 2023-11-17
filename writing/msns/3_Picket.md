@@ -6,11 +6,13 @@
 	5. Need to defend a picket line of workers against scabs
 	6. Gives you blue overalls to fit in with the crowd
 2. The Buildup
-5. Scab assault team is sent, protect workers
-6. The assault seems never-ending but an Osha warrior saves you
-7. Dead man's switch suicide bomber
+	1. 
+3. Scab assault team is sent, protect workers
+4. The assault seems never-ending but an Osha warrior saves you
+5. Dead man's switch suicide bomber
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzM1Nzk4NzcsLTEyMDk3MDgyNTksMT
-g1OTM3NzY0LDgwMTYxMDYzMCwtMTc4NDA0MDAyLDEzNDI5NDgx
-NDQsLTIwODg3NDY2MTIsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMjA3NDY2MTM4MiwtMTI3MzU3OTg3NywtMT
+IwOTcwODI1OSwxODU5Mzc3NjQsODAxNjEwNjMwLC0xNzg0MDQw
+MDIsMTM0Mjk0ODE0NCwtMjA4ODc0NjYxMiw3MzA5OTgxMTZdfQ
+==
 -->
