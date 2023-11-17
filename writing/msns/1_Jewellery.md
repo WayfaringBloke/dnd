@@ -38,9 +38,10 @@
 	- Force other woman (after Manager is eliminated) = DR12 Presence Check
 	- Hack manager's computer = DR16 Knowledge
 	- Button under desk + Push in painting's eyes - Cool Rock & Alarm controls 
-6. Streets:
+4. Streets:
+	- Guy
 	- Shotgun, Mac1, Mac2, Long Gun
-7. Bar Debrief
+6. Bar Debrief
 	- Walk up see crap game outside played with cops
 	- Enter busy bar filled with working class looking people all chattering and drinking, bored
 	- Silence falls as players enter, fear
@@ -54,16 +55,17 @@
 # Assets 
 ![manager](https://github.com/WayfaringBloke/dnd/blob/main/assets/m1/manager.png?raw=true)![Ronald](https://github.com/WayfaringBloke/dnd/blob/main/assets/rnpc/Ronald.png?raw=true)
 # Combat Dumps
-```
+```py
 store = """n: m, h: 12, m: 10, a: d0, w: d6, d: 12
 n: t1, h: 12, m: 12, a: d2, w: d6, d: 10
 n: t2, h: 12, m: 12, a: d2, w: d6, d: 10"""
 
-carjack = """n: l, h: 25, m: 9, a: d6, w: d8a, d: 10
-n: m1, h: 12, m: 6, a: d2, w: d4a, d: 12
-n: m2, h: 12, m: 5, a: d2, w: d4a, d: 12
-n: s, h: 15, m: 7
+carjack = """n: l, h: 25, m: 9, a: d6, w: d6a, d: 12
+n: m1, h: 12, m: 6, a: d2, w: d6a, d: 10
+n: m2, h: 12, m: 5, a: d2, w: d6a, d: 10
+n: s, h: 15, m:  7, a: d2, w: d6, d: 14"""
+
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzY2NzUwOTEsMTMwMTcwNjEwMV19
+eyJoaXN0b3J5IjpbMzI2NzIwOTIsMTMwMTcwNjEwMV19
 -->
