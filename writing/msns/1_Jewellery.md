@@ -39,8 +39,7 @@
 	- Hack manager's computer = DR16 Knowledge
 	- Button under desk + Push in painting's eyes - Cool Rock & Alarm controls 
 6. Streets:
-		- **M0 & M1:** <br> HP: 6 Armour: -d2 Morale: 8 Weapon: Sawed Off d8 (d4 rounds), Knife d4
-		- **M0 & M1:** <br> HP: 6 Armour: -d2 Morale: 8 Weapon: Sawed Off d8 (d4 rounds), Knife d4
+	- Shotgun, Mac1, Mac2, Long Gun
 7. Bar Debrief
 	- Walk up see crap game outside played with cops
 	- Enter busy bar filled with working class looking people all chattering and drinking, bored
@@ -60,8 +59,8 @@ store = """n: m, h: 12, m: 10, a: d0, w: d6, d: 12
 n: t1, h: 12, m: 12, a: d2, w: d6, d: 10
 n: t2, h: 12, m: 12, a: d2, w: d6, d: 10"""
 
-carjack = """
+carjack = """n: l, h: 25, m: 9, a: d6, w: d
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjUxNzA4OTUsMTMwMTcwNjEwMV19
+eyJoaXN0b3J5IjpbMTM3MDMxOTk0MiwxMzAxNzA2MTAxXX0=
 -->
