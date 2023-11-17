@@ -51,7 +51,7 @@
 	- Cowboy asks how many people you killed
 	- Takes gems, pays d2k creds per player
 	- Oppurtunity for players to ask cowboy about weirdness in setup
-	- THERE'S A PRICE ON YOUR HEAD, best lay low in the basement for tonight
+	- THERE'S A PRICE ON YOUR HEAD, best lay low in the basement for tonight, owner wasn't rich so could only afford to tender your bounty for 48h
 
 # [Map](https://excalidraw.com/#json=W_biwfYzY6NURPXNTLv3z,WfTky5C1MT0JoVaBKRASdg)
 # Assets 
@@ -69,6 +69,6 @@ n: s, h: 15, m:  7, a: d2, w: d6, d: 14"""
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjU2NzE4NTYsLTEwMDMzNTMzNjIsMT
-MwMTcwNjEwMV19
+eyJoaXN0b3J5IjpbODA4NDYxMjIsLTEwMDMzNTMzNjIsMTMwMT
+cwNjEwMV19
 -->
