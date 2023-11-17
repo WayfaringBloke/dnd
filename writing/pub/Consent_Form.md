@@ -6,9 +6,7 @@
 - [ ] Sexual Assault
 - [ ] Harm to children
 
-
-<input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
-<label for="vehicle1"> I have a bike</label><br>*emphasized text*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDQ2ODkxMTMsMjAzMzUzMjEyMF19
+eyJoaXN0b3J5IjpbNDY2MzE5NDE0LC0yMTQ0Njg5MTEzLDIwMz
+M1MzIxMjBdfQ==
 -->
