@@ -14,8 +14,8 @@
 3. Scabs
 	1. A bunch of guys pull up in green overalls
 	2. They try to cross the picket, blue collars block them
-	3. 
-	4. Threaten picketing workers
+	3. Players should control the situation - if not they murder the green overalls
+	4. If they murder the green overalls then heavily cybered green overalls
 	5. Combat! 
 4. The assault seems never-ending but an Osha warrior saves you
 5. Dead man's switch suicide bomber
@@ -27,9 +27,10 @@ scabs = """n: a
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTc1Nzc5OTksLTQwOTc3MTE4NCwtMT
-MwNzYyNzQyOSwtMTIxNDU3NzE1MiwtNzc3OTI0MTE5LC0yMDky
-NTM5NzkzLC0xNjc2OTg0Njg0LC0xMjczNTc5ODc3LC0xMjA5Nz
-A4MjU5LDE4NTkzNzc2NCw4MDE2MTA2MzAsLTE3ODQwNDAwMiwx
-MzQyOTQ4MTQ0LC0yMDg4NzQ2NjEyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTE3MDA5MDU2NzIsLTE4OTc1Nzc5OTksLT
+QwOTc3MTE4NCwtMTMwNzYyNzQyOSwtMTIxNDU3NzE1MiwtNzc3
+OTI0MTE5LC0yMDkyNTM5NzkzLC0xNjc2OTg0Njg0LC0xMjczNT
+c5ODc3LC0xMjA5NzA4MjU5LDE4NTkzNzc2NCw4MDE2MTA2MzAs
+LTE3ODQwNDAwMiwxMzQyOTQ4MTQ0LC0yMDg4NzQ2NjEyLDczMD
+k5ODExNl19
 -->
