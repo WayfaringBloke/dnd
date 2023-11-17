@@ -15,10 +15,9 @@
 	1. A bunch of guys pull up in green overalls
 	2. They try to cross the picket, blue collars block them
 	3. Players should control the situation - if not they murder the green overalls
-	4. If they murder the green overalls then heavily cybered green overalls
-	5. Combat! 
-4. The assault seems never-ending but an Osha warrior saves you
-5. Dead man's switch suicide bomber
+	4. If they murder the green overalls then heavily cybered green overalls come for combat 
+4. Reeves Intro
+	1. A heavy set man approache 
 
 # Combat Dumps
 ```py
@@ -27,7 +26,7 @@ scabs = """n: a
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDA5MDU2NzIsLTE4OTc1Nzc5OTksLT
+eyJoaXN0b3J5IjpbLTExODMyMTQyODAsLTE4OTc1Nzc5OTksLT
 QwOTc3MTE4NCwtMTMwNzYyNzQyOSwtMTIxNDU3NzE1MiwtNzc3
 OTI0MTE5LC0yMDkyNTM5NzkzLC0xNjc2OTg0Njg0LC0xMjczNT
 c5ODc3LC0xMjA5NzA4MjU5LDE4NTkzNzc2NCw4MDE2MTA2MzAs
