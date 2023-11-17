@@ -17,7 +17,9 @@
 	3. Players should control the situation - if not they murder the green overalls
 	4. If they murder the green overalls then heavily cybered green overalls come for combat 
 4. Reeves Intro
-	1. A heavy set man approache 
+	1. A lost looking lady approaches
+	2. Turns out she's strapped up, holding a deadman's switch
+	3. Sent by Ingraham as punishment for unions fighting
 
 # Combat Dumps
 ```py
@@ -26,10 +28,10 @@ scabs = """n: a
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODMyMTQyODAsLTE4OTc1Nzc5OTksLT
-QwOTc3MTE4NCwtMTMwNzYyNzQyOSwtMTIxNDU3NzE1MiwtNzc3
-OTI0MTE5LC0yMDkyNTM5NzkzLC0xNjc2OTg0Njg0LC0xMjczNT
-c5ODc3LC0xMjA5NzA4MjU5LDE4NTkzNzc2NCw4MDE2MTA2MzAs
-LTE3ODQwNDAwMiwxMzQyOTQ4MTQ0LC0yMDg4NzQ2NjEyLDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbMzIzMDUxOTc4LC0xODk3NTc3OTk5LC00MD
+k3NzExODQsLTEzMDc2Mjc0MjksLTEyMTQ1NzcxNTIsLTc3Nzky
+NDExOSwtMjA5MjUzOTc5MywtMTY3Njk4NDY4NCwtMTI3MzU3OT
+g3NywtMTIwOTcwODI1OSwxODU5Mzc3NjQsODAxNjEwNjMwLC0x
+Nzg0MDQwMDIsMTM0Mjk0ODE0NCwtMjA4ODc0NjYxMiw3MzA5OT
+gxMTZdfQ==
 -->
