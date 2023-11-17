@@ -16,11 +16,16 @@
 4. The assault seems never-ending but an Osha warrior saves you
 5. Dead man's switch suicide bomber
 
-##
+# Combat Dumps
+```py
+scabs = """n: a 
+"""
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDc2Mjc0MjksLTEyMTQ1NzcxNTIsLT
-c3NzkyNDExOSwtMjA5MjUzOTc5MywtMTY3Njk4NDY4NCwtMTI3
-MzU3OTg3NywtMTIwOTcwODI1OSwxODU5Mzc3NjQsODAxNjEwNj
-MwLC0xNzg0MDQwMDIsMTM0Mjk0ODE0NCwtMjA4ODc0NjYxMiw3
-MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTU5NjYzNzkxNiwtMTMwNzYyNzQyOSwtMT
+IxNDU3NzE1MiwtNzc3OTI0MTE5LC0yMDkyNTM5NzkzLC0xNjc2
+OTg0Njg0LC0xMjczNTc5ODc3LC0xMjA5NzA4MjU5LDE4NTkzNz
+c2NCw4MDE2MTA2MzAsLTE3ODQwNDAwMiwxMzQyOTQ4MTQ0LC0y
+MDg4NzQ2NjEyLDczMDk5ODExNl19
 -->
