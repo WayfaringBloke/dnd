@@ -10,8 +10,8 @@
 	1. Driven in the back of an uncomfy van for an hour
 	2. Boiling hot whiskey + coffee severed from a barrel marked biohazard. DR 14 Toughness, +1 Worker Solidarity, d2 damage
 	3. Talk to workers about their struggles, try to pretend to be workers yourself 
-3. Cyber-scabs
-	1. 4 guys pull up on a forklift in green overalls
+3. Scabs
+	1. A bunch of guys pull up in green overalls
 	2. 
 	3. Threaten picketing workers
 	4. Combat! 
@@ -25,9 +25,9 @@ scabs = """n: a
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwOTc3MTE4NCwtMTMwNzYyNzQyOSwtMT
-IxNDU3NzE1MiwtNzc3OTI0MTE5LC0yMDkyNTM5NzkzLC0xNjc2
-OTg0Njg0LC0xMjczNTc5ODc3LC0xMjA5NzA4MjU5LDE4NTkzNz
-c2NCw4MDE2MTA2MzAsLTE3ODQwNDAwMiwxMzQyOTQ4MTQ0LC0y
-MDg4NzQ2NjEyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTA1ODYxNDEzNywtNDA5NzcxMTg0LC0xMz
+A3NjI3NDI5LC0xMjE0NTc3MTUyLC03Nzc5MjQxMTksLTIwOTI1
+Mzk3OTMsLTE2NzY5ODQ2ODQsLTEyNzM1Nzk4NzcsLTEyMDk3MD
+gyNTksMTg1OTM3NzY0LDgwMTYxMDYzMCwtMTc4NDA0MDAyLDEz
+NDI5NDgxNDQsLTIwODg3NDY2MTIsNzMwOTk4MTE2XX0=
 -->
