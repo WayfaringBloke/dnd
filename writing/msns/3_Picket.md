@@ -7,13 +7,13 @@
 	6. Gives you blue overalls to fit in with the crowd
 2. The Build-up
 	1. Driven in the back of an uncomfy van for an hour
-	2. Boiling hot whiskey + coffee severed from a barrel marked biohazard. DR 14 Toughness, +1 Worker Solidarity, d2 damage.
-	3. Talk to work 
+	2. Boiling hot whiskey + coffee severed from a barrel marked biohazard. DR 14 Toughness, +1 Worker Solidarity, d2 damage
+	3. Talk to workers about their struggles, pretend to be workers yourself 
 3. Scab assault team is sent, protect workers
 4. The assault seems never-ending but an Osha warrior saves you
 5. Dead man's switch suicide bomber
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzg2NzIyMzgsLTE2NzY5ODQ2ODQsLT
+eyJoaXN0b3J5IjpbLTIwOTI1Mzk3OTMsLTE2NzY5ODQ2ODQsLT
 EyNzM1Nzk4NzcsLTEyMDk3MDgyNTksMTg1OTM3NzY0LDgwMTYx
 MDYzMCwtMTc4NDA0MDAyLDEzNDI5NDgxNDQsLTIwODg3NDY2MT
 IsNzMwOTk4MTE2XX0=
