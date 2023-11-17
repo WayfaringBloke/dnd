@@ -39,7 +39,8 @@
 	- Hack manager's computer = DR16 Knowledge
 	- Button under desk + Push in painting's eyes - Cool Rock & Alarm controls 
 4. Streets:
-	- Guy
+	- Guy pops out with shotgun tries to rob you
+	- His buddies pop out to waste you
 	- Shotgun, Mac1, Mac2, Long Gun
 6. Bar Debrief
 	- Walk up see crap game outside played with cops
@@ -67,5 +68,5 @@ n: s, h: 15, m:  7, a: d2, w: d6, d: 14"""
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI2NzIwOTIsMTMwMTcwNjEwMV19
+eyJoaXN0b3J5IjpbLTEwMDMzNTMzNjIsMTMwMTcwNjEwMV19
 -->
