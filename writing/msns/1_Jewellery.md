@@ -59,8 +59,11 @@ store = """n: m, h: 12, m: 10, a: d0, w: d6, d: 12
 n: t1, h: 12, m: 12, a: d2, w: d6, d: 10
 n: t2, h: 12, m: 12, a: d2, w: d6, d: 10"""
 
-carjack = """n: l, h: 25, m: 9, a: d6, w: d
+carjack = """n: l, h: 25, m: 9, a: d6, w: d8a, d: 10
+n: m1, h: 12, m: 6, a: d2, w: d4a, d: 12
+n: m2, h: 12, m: 5, a: d2, w: d4a, d: 12
+n: s, h: 15, m: 7
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MDMxOTk0MiwxMzAxNzA2MTAxXX0=
+eyJoaXN0b3J5IjpbLTE3MzY2NzUwOTEsMTMwMTcwNjEwMV19
 -->
