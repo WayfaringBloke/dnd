@@ -18,8 +18,8 @@
 	4. If they murder the green overalls then heavily cybered green overalls come for combat 
 4. Reeves Intro
 	1. A lost looking lady approaches
-	2. Turns out she's strapped up, holding a deadman's switch
-	3. Sent by Ingraham as punishment for unions fighting
+	2. Turns out she's wearing a bomb vest up, holding a deadman's switch
+	3. Sent by Ingraham to break up the picket properly
 
 # Combat Dumps
 ```py
@@ -28,10 +28,10 @@ scabs = """n: a
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIzMDUxOTc4LC0xODk3NTc3OTk5LC00MD
-k3NzExODQsLTEzMDc2Mjc0MjksLTEyMTQ1NzcxNTIsLTc3Nzky
-NDExOSwtMjA5MjUzOTc5MywtMTY3Njk4NDY4NCwtMTI3MzU3OT
-g3NywtMTIwOTcwODI1OSwxODU5Mzc3NjQsODAxNjEwNjMwLC0x
-Nzg0MDQwMDIsMTM0Mjk0ODE0NCwtMjA4ODc0NjYxMiw3MzA5OT
-gxMTZdfQ==
+eyJoaXN0b3J5IjpbLTc4MDA5NDM2LDMyMzA1MTk3OCwtMTg5Nz
+U3Nzk5OSwtNDA5NzcxMTg0LC0xMzA3NjI3NDI5LC0xMjE0NTc3
+MTUyLC03Nzc5MjQxMTksLTIwOTI1Mzk3OTMsLTE2NzY5ODQ2OD
+QsLTEyNzM1Nzk4NzcsLTEyMDk3MDgyNTksMTg1OTM3NzY0LDgw
+MTYxMDYzMCwtMTc4NDA0MDAyLDEzNDI5NDgxNDQsLTIwODg3ND
+Y2MTIsNzMwOTk4MTE2XX0=
 -->
