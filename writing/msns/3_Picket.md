@@ -14,10 +14,12 @@
 	2. Combat! 
 4. The assault seems never-ending but an Osha warrior saves you
 5. Dead man's switch suicide bomber
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTQ1NzcxNTIsLTc3NzkyNDExOSwtMj
-A5MjUzOTc5MywtMTY3Njk4NDY4NCwtMTI3MzU3OTg3NywtMTIw
-OTcwODI1OSwxODU5Mzc3NjQsODAxNjEwNjMwLC0xNzg0MDQwMD
-IsMTM0Mjk0ODE0NCwtMjA4ODc0NjYxMiw3MzA5OTgxMTZdfQ==
 
+##
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjgxOTk0MjAsLTEyMTQ1NzcxNTIsLTc3Nz
+kyNDExOSwtMjA5MjUzOTc5MywtMTY3Njk4NDY4NCwtMTI3MzU3
+OTg3NywtMTIwOTcwODI1OSwxODU5Mzc3NjQsODAxNjEwNjMwLC
+0xNzg0MDQwMDIsMTM0Mjk0ODE0NCwtMjA4ODc0NjYxMiw3MzA5
+OTgxMTZdfQ==
 -->
