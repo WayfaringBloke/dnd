@@ -10,6 +10,7 @@
 	1. Driven in the back of an uncomfy van for an hour
 	2. Boiling hot whiskey + coffee severed from a barrel marked biohazard. DR 14 Toughness, +1 Worker Solidarity, d2 damage
 	3. Talk to workers about their struggles, try to pretend to be workers yourself 
+	4. Sawyer sets up on nearby rooftop with sniper
 3. Scabs
 	1. A bunch of guys pull up in green overalls
 	2. They try to cross the picket, blue collars block them
@@ -26,9 +27,9 @@ scabs = """n: a
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMDMwMTY4MCwtNDA5NzcxMTg0LC0xMz
-A3NjI3NDI5LC0xMjE0NTc3MTUyLC03Nzc5MjQxMTksLTIwOTI1
-Mzk3OTMsLTE2NzY5ODQ2ODQsLTEyNzM1Nzk4NzcsLTEyMDk3MD
-gyNTksMTg1OTM3NzY0LDgwMTYxMDYzMCwtMTc4NDA0MDAyLDEz
-NDI5NDgxNDQsLTIwODg3NDY2MTIsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE4OTc1Nzc5OTksLTQwOTc3MTE4NCwtMT
+MwNzYyNzQyOSwtMTIxNDU3NzE1MiwtNzc3OTI0MTE5LC0yMDky
+NTM5NzkzLC0xNjc2OTg0Njg0LC0xMjczNTc5ODc3LC0xMjA5Nz
+A4MjU5LDE4NTkzNzc2NCw4MDE2MTA2MzAsLTE3ODQwNDAwMiwx
+MzQyOTQ4MTQ0LC0yMDg4NzQ2NjEyLDczMDk5ODExNl19
 -->
