@@ -56,9 +56,13 @@
 ![manager](https://github.com/WayfaringBloke/dnd/blob/main/assets/m1/manager.png?raw=true)![Ronald](https://github.com/WayfaringBloke/dnd/blob/main/assets/rnpc/Ronald.png?raw=true)
 # Combat Dumps
 ```
-store = """ 
-
+store = """n: manager, h: 12, m: 10, a: d0, w: d7
+n: fish, h: 10, m: 4, a: d0, w: d4a, d: 12
+**Turret x 2:**<br> HP: 12 Armor: -d4 Morale: - Weapon: Machine Gun d6a (Drops down from ceiling)
+			**LMG on Motor:** <br> HP: 3 Morale: - Weapon: d4a
+			Fires into cloakroom for d4+2 rounds then runs out of ammo.
+			**Manager:**<br> HP: 5 Armor: 0 Morale: 28 Weapon: Cane Sword d8
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMDIxNjUxMSwxMzAxNzA2MTAxXX0=
+eyJoaXN0b3J5IjpbOTIwNTgxMTgzLDEzMDE3MDYxMDFdfQ==
 -->
