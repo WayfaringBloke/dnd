@@ -17,7 +17,7 @@ This weakness led to years of religious urnrest with the people in the mountains
 
 
 
-![](https://i.imgur.com/aQL6XiZ.png)
+![](https://i.imgur.com/aQL6XiZ.png)[Map](https://excalidraw.com/#json=FGY4ef7Ejag5a2ebSaCT-,9RuKupok35NhHW3z9gWUfg)
 
 ### Farmland
 Mostly making cash crops for Royal West under new contracting agreement. Farmers are poorer than dirt, cannot afford the food they grow
@@ -59,11 +59,11 @@ Tethered to the HyperMall the cloud city once flew miles above cloud level to al
 ### FinSpace
 A global hallicination, where all finance is conducted. Entered by taking the halucinogenic upper "Fin", its an endless series of skyscrapers connected by metro tunnels. Since FinSpace is a collective hallucination there is no way to conventionally hack into it and imaginary security measures are often the most powerful. Fin will put you into FinSpace for approximately 5 + d12 days, which the user sees ticking down on a clock on their wrist the entire time. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIzODc4MTU0LC0xOTAxNDI4NzMwLDQzOD
-Y3OTMxMSwxOTUzNDQyMjE1LC0xMjIzMDAwNjk4LC0yMDY3NzU1
-NzczLC0xOTMyMzA4MTA2LDEzNDE3ODIzOTMsLTE1NDQyMTY3MT
-IsNjcxNDI3NDYzLDk4MTIzNTMxNSwtMTIzMzgyODkyNCwxNjA4
-Nzg3OTAyLC0xMDE0MDUwODkyLDExNTEwNjcxNywyODU3Mjk5OD
-EsLTE2ODQ5MjY5NTIsLTk1NDkzODEzMSwzODU3NzE4OTldfQ==
-
+eyJoaXN0b3J5IjpbMjA2NjAxMTIxNywzMjM4NzgxNTQsLTE5MD
+E0Mjg3MzAsNDM4Njc5MzExLDE5NTM0NDIyMTUsLTEyMjMwMDA2
+OTgsLTIwNjc3NTU3NzMsLTE5MzIzMDgxMDYsMTM0MTc4MjM5My
+wtMTU0NDIxNjcxMiw2NzE0Mjc0NjMsOTgxMjM1MzE1LC0xMjMz
+ODI4OTI0LDE2MDg3ODc5MDIsLTEwMTQwNTA4OTIsMTE1MTA2Nz
+E3LDI4NTcyOTk4MSwtMTY4NDkyNjk1MiwtOTU0OTM4MTMxLDM4
+NTc3MTg5OV19
 -->
