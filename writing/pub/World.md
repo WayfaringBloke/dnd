@@ -17,7 +17,9 @@ This weakness led to years of religious urnrest with the people in the mountains
 
 
 
-![](https://i.imgur.com/aQL6XiZ.png)[Map](https://excalidraw.com/#json=FGY4ef7Ejag5a2ebSaCT-,9RuKupok35NhHW3z9gWUfg)
+
+![](https://github.com/WayfaringBloke/dnd/assets/map/map.png)
+[Map](https://excalidraw.com/#json=FGY4ef7Ejag5a2ebSaCT-,9RuKupok35NhHW3z9gWUfg)
 
 ### Farmland
 Mostly making cash crops for Royal West under new contracting agreement. Farmers are poorer than dirt, cannot afford the food they grow
@@ -59,11 +61,11 @@ Tethered to the HyperMall the cloud city once flew miles above cloud level to al
 ### FinSpace
 A global hallicination, where all finance is conducted. Entered by taking the halucinogenic upper "Fin", its an endless series of skyscrapers connected by metro tunnels. Since FinSpace is a collective hallucination there is no way to conventionally hack into it and imaginary security measures are often the most powerful. Fin will put you into FinSpace for approximately 5 + d12 days, which the user sees ticking down on a clock on their wrist the entire time. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NjAxMTIxNywzMjM4NzgxNTQsLTE5MD
-E0Mjg3MzAsNDM4Njc5MzExLDE5NTM0NDIyMTUsLTEyMjMwMDA2
-OTgsLTIwNjc3NTU3NzMsLTE5MzIzMDgxMDYsMTM0MTc4MjM5My
-wtMTU0NDIxNjcxMiw2NzE0Mjc0NjMsOTgxMjM1MzE1LC0xMjMz
-ODI4OTI0LDE2MDg3ODc5MDIsLTEwMTQwNTA4OTIsMTE1MTA2Nz
-E3LDI4NTcyOTk4MSwtMTY4NDkyNjk1MiwtOTU0OTM4MTMxLDM4
-NTc3MTg5OV19
+eyJoaXN0b3J5IjpbMTE0Njk3MTcxOCwyMDY2MDExMjE3LDMyMz
+g3ODE1NCwtMTkwMTQyODczMCw0Mzg2NzkzMTEsMTk1MzQ0MjIx
+NSwtMTIyMzAwMDY5OCwtMjA2Nzc1NTc3MywtMTkzMjMwODEwNi
+wxMzQxNzgyMzkzLC0xNTQ0MjE2NzEyLDY3MTQyNzQ2Myw5ODEy
+MzUzMTUsLTEyMzM4Mjg5MjQsMTYwODc4NzkwMiwtMTAxNDA1MD
+g5MiwxMTUxMDY3MTcsMjg1NzI5OTgxLC0xNjg0OTI2OTUyLC05
+NTQ5MzgxMzFdfQ==
 -->
