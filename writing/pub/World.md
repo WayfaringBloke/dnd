@@ -18,7 +18,8 @@ This weakness led to years of religious urnrest with the people in the mountains
 
 
 
-![](https://github.com/WayfaringBloke/dnd/assets/map/map.png)
+![map](https://github.com/WayfaringBloke/dnd/blob/main/assets/map/map.png?raw=true)
+
 [Map](https://excalidraw.com/#json=FGY4ef7Ejag5a2ebSaCT-,9RuKupok35NhHW3z9gWUfg)
 
 ### Farmland
@@ -61,11 +62,11 @@ Tethered to the HyperMall the cloud city once flew miles above cloud level to al
 ### FinSpace
 A global hallicination, where all finance is conducted. Entered by taking the halucinogenic upper "Fin", its an endless series of skyscrapers connected by metro tunnels. Since FinSpace is a collective hallucination there is no way to conventionally hack into it and imaginary security measures are often the most powerful. Fin will put you into FinSpace for approximately 5 + d12 days, which the user sees ticking down on a clock on their wrist the entire time. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0Njk3MTcxOCwyMDY2MDExMjE3LDMyMz
-g3ODE1NCwtMTkwMTQyODczMCw0Mzg2NzkzMTEsMTk1MzQ0MjIx
-NSwtMTIyMzAwMDY5OCwtMjA2Nzc1NTc3MywtMTkzMjMwODEwNi
-wxMzQxNzgyMzkzLC0xNTQ0MjE2NzEyLDY3MTQyNzQ2Myw5ODEy
-MzUzMTUsLTEyMzM4Mjg5MjQsMTYwODc4NzkwMiwtMTAxNDA1MD
-g5MiwxMTUxMDY3MTcsMjg1NzI5OTgxLC0xNjg0OTI2OTUyLC05
-NTQ5MzgxMzFdfQ==
+eyJoaXN0b3J5IjpbOTE0MzkxNTI2LDIwNjYwMTEyMTcsMzIzOD
+c4MTU0LC0xOTAxNDI4NzMwLDQzODY3OTMxMSwxOTUzNDQyMjE1
+LC0xMjIzMDAwNjk4LC0yMDY3NzU1NzczLC0xOTMyMzA4MTA2LD
+EzNDE3ODIzOTMsLTE1NDQyMTY3MTIsNjcxNDI3NDYzLDk4MTIz
+NTMxNSwtMTIzMzgyODkyNCwxNjA4Nzg3OTAyLC0xMDE0MDUwOD
+kyLDExNTEwNjcxNywyODU3Mjk5ODEsLTE2ODQ5MjY5NTIsLTk1
+NDkzODEzMV19
 -->
