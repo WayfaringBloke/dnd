@@ -1,6 +1,6 @@
-# Whiskey
+# WhiskeyMission 2
 1. 2nd Cowboy Job:
-	1. Wake up in/Called to El Torro 
+	1. Wake up in/Called to El Torro Cowboy calls in favour, brings you to edge of slums
 	2. Tells you to go rescue Salas Sawyer, a friend of his
 	3. Apparently just "got lost on a hiking trip"
 	4. Lends you a rusty old pickup
@@ -48,6 +48,6 @@
 ![guard](https://github.com/WayfaringBloke/dnd/blob/main/assets/m2/guard.png?raw=true)![Salas Sawyer](https://github.com/WayfaringBloke/dnd/blob/main/assets/rnpc/SalasSawyer.png?raw=true)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjMxMzI4MTAsLTEwNDQ4MDkwNzJdfQ
-==
+eyJoaXN0b3J5IjpbNzIzNDU5NzUxLC0xMTYzMTMyODEwLC0xMD
+Q0ODA5MDcyXX0=
 -->
