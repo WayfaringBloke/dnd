@@ -21,8 +21,9 @@
 	2. "Could you give me directions to smithereens"
 	3. Turns out she's wearing a bomb vest up, holding a deadman's switch
 	4. Sent (by Ingraham) to break up the picket properly
-5. Industrial Sabotage
-	1. Inside the factory is a fair  
+5. Revenge: Industrial Sabotage
+	1. Inside the factory is a fair few valuable resources (and machines to destroy)
+	2. Frankie offers you a bonus for any property damage you can record and send to him
 
 # Combat Dumps
 ```py
@@ -31,7 +32,7 @@ scabs = """n: a
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NTMxNTkzMywtNzgwMDk0MzYsMzIzMD
+eyJoaXN0b3J5IjpbMTczNjUxMjg0MCwtNzgwMDk0MzYsMzIzMD
 UxOTc4LC0xODk3NTc3OTk5LC00MDk3NzExODQsLTEzMDc2Mjc0
 MjksLTEyMTQ1NzcxNTIsLTc3NzkyNDExOSwtMjA5MjUzOTc5My
 wtMTY3Njk4NDY4NCwtMTI3MzU3OTg3NywtMTIwOTcwODI1OSwx
