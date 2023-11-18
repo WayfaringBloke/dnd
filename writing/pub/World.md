@@ -42,6 +42,8 @@ Unmaintained for approaching a decade the weight of the past has crushed our cit
 ### Slums
 Built of sheet metal, temporary antigravity generators, and broken dreams. Overflowing with gang violence and drug abuse.
 
+Since the police have been on "strike" for almost half a decade 
+
 ### Industrial District
 Where all Sallowdia's production is concentrated (to make it easier to control). Due to zoning laws and planning nightmares it is a gigantic looming tower of factories built on factories. Strong "union" control, cult of Osha enforces safety guidelines like samurai.
 
@@ -57,10 +59,10 @@ Tethered to the HyperMall the cloud city once flew miles above cloud level to al
 ### FinSpace
 A global hallicination, where all finance is conducted. Entered by taking the halucinogenic upper "Fin", its an endless series of skyscrapers connected by metro tunnels. Since FinSpace is a collective hallucination there is no way to conventionally hack into it and imaginary security measures are often the most powerful. Fin will put you into FinSpace for approximately 5 + d12 days, which the user sees ticking down on a clock on their wrist the entire time. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM4Njc5MzExLDE5NTM0NDIyMTUsLTEyMj
-MwMDA2OTgsLTIwNjc3NTU3NzMsLTE5MzIzMDgxMDYsMTM0MTc4
-MjM5MywtMTU0NDIxNjcxMiw2NzE0Mjc0NjMsOTgxMjM1MzE1LC
-0xMjMzODI4OTI0LDE2MDg3ODc5MDIsLTEwMTQwNTA4OTIsMTE1
-MTA2NzE3LDI4NTcyOTk4MSwtMTY4NDkyNjk1MiwtOTU0OTM4MT
-MxLDM4NTc3MTg5OV19
+eyJoaXN0b3J5IjpbLTE5MDE0Mjg3MzAsNDM4Njc5MzExLDE5NT
+M0NDIyMTUsLTEyMjMwMDA2OTgsLTIwNjc3NTU3NzMsLTE5MzIz
+MDgxMDYsMTM0MTc4MjM5MywtMTU0NDIxNjcxMiw2NzE0Mjc0Nj
+MsOTgxMjM1MzE1LC0xMjMzODI4OTI0LDE2MDg3ODc5MDIsLTEw
+MTQwNTA4OTIsMTE1MTA2NzE3LDI4NTcyOTk4MSwtMTY4NDkyNj
+k1MiwtOTU0OTM4MTMxLDM4NTc3MTg5OV19
 -->
