@@ -18,8 +18,11 @@
 	4. If they murder the green overalls then heavily cybered green overalls come for combat 
 4. Reeves Intro
 	1. A lost looking lady approaches
-	2. Turns out she's wearing a bomb vest up, holding a deadman's switch
-	3. Sent by Ingraham to break up the picket properly
+	2. "Could you give me directions to smithereens"
+	3. Turns out she's wearing a bomb vest up, holding a deadman's switch
+	4. Sent (by Ingraham) to break up the picket properly
+5. Industrial Sabotage
+	1. Inside the factory is a fair  
 
 # Combat Dumps
 ```py
@@ -28,10 +31,10 @@ scabs = """n: a
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MDA5NDM2LDMyMzA1MTk3OCwtMTg5Nz
-U3Nzk5OSwtNDA5NzcxMTg0LC0xMzA3NjI3NDI5LC0xMjE0NTc3
-MTUyLC03Nzc5MjQxMTksLTIwOTI1Mzk3OTMsLTE2NzY5ODQ2OD
-QsLTEyNzM1Nzk4NzcsLTEyMDk3MDgyNTksMTg1OTM3NzY0LDgw
-MTYxMDYzMCwtMTc4NDA0MDAyLDEzNDI5NDgxNDQsLTIwODg3ND
-Y2MTIsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTk2NTMxNTkzMywtNzgwMDk0MzYsMzIzMD
+UxOTc4LC0xODk3NTc3OTk5LC00MDk3NzExODQsLTEzMDc2Mjc0
+MjksLTEyMTQ1NzcxNTIsLTc3NzkyNDExOSwtMjA5MjUzOTc5My
+wtMTY3Njk4NDY4NCwtMTI3MzU3OTg3NywtMTIwOTcwODI1OSwx
+ODU5Mzc3NjQsODAxNjEwNjMwLC0xNzg0MDQwMDIsMTM0Mjk0OD
+E0NCwtMjA4ODc0NjYxMiw3MzA5OTgxMTZdfQ==
 -->
