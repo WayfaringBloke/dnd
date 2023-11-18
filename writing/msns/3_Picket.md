@@ -24,6 +24,7 @@
 5. Revenge: Industrial Sabotage
 	1. Inside the factory is a fair few valuable resources (and machines to destroy)
 	2. Frankie offers you a bonus for any property damage you can record and send to him
+Kidnap frankie + 1 player
 
 # Combat Dumps
 ```py
@@ -32,10 +33,11 @@ scabs = """n: a
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNjUxMjg0MCwtNzgwMDk0MzYsMzIzMD
-UxOTc4LC0xODk3NTc3OTk5LC00MDk3NzExODQsLTEzMDc2Mjc0
-MjksLTEyMTQ1NzcxNTIsLTc3NzkyNDExOSwtMjA5MjUzOTc5My
-wtMTY3Njk4NDY4NCwtMTI3MzU3OTg3NywtMTIwOTcwODI1OSwx
-ODU5Mzc3NjQsODAxNjEwNjMwLC0xNzg0MDQwMDIsMTM0Mjk0OD
-E0NCwtMjA4ODc0NjYxMiw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTk2NDE1NjA0MCwxNzM2NTEyODQwLC03OD
+AwOTQzNiwzMjMwNTE5NzgsLTE4OTc1Nzc5OTksLTQwOTc3MTE4
+NCwtMTMwNzYyNzQyOSwtMTIxNDU3NzE1MiwtNzc3OTI0MTE5LC
+0yMDkyNTM5NzkzLC0xNjc2OTg0Njg0LC0xMjczNTc5ODc3LC0x
+MjA5NzA4MjU5LDE4NTkzNzc2NCw4MDE2MTA2MzAsLTE3ODQwND
+AwMiwxMzQyOTQ4MTQ0LC0yMDg4NzQ2NjEyLDczMDk5ODExNl19
+
 -->
