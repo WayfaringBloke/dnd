@@ -1,9 +1,4 @@
 # Jewellery
-## Player Interro
-- Why are you in debt?
-- Where are you from?
-- Where do you live?
-- Why are you taking this job?
 
 ## Mission
 0. Cowboy explains job in car:
@@ -69,6 +64,6 @@ n: s, h: 15, m:  7, a: d2, w: d6, d: 14"""
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIwMjQwOTgwLC0xMDAzMzUzMzYyLDEzMD
-E3MDYxMDFdfQ==
+eyJoaXN0b3J5IjpbMTgyNTAzODA4MCwtMTAwMzM1MzM2MiwxMz
+AxNzA2MTAxXX0=
 -->
