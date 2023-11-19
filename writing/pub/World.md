@@ -35,7 +35,10 @@ Occupied by Tuy faction, highly militarised. Traditionalists focused on liberty.
 ### Exclusion Zone
 All knowledge of the exclusion zone is destroyed immediately with extreme prejudice. Only thing known is that the closer you get to the border the more radioactive things get. 
 
-A corporate military with no clear markings now maintains a border around it. 
+A corporate military with no clear markings now maintains a border around it.
+
+### Salt Flats
+Extremely flat, rather salty.
 
 ## City: Xim
 Unmaintained for approaching a decade the weight of the past has crushed our city's future. The sky is the color of a Television turned to a dead channel.
@@ -61,7 +64,7 @@ Tethered to the HyperMall the cloud city once flew miles above cloud level to al
 ### FinSpace
 A global hallicination, where all finance is conducted. Entered by taking the halucinogenic upper "Fin", its an endless series of skyscrapers connected by metro tunnels. Since FinSpace is a collective hallucination there is no way to conventionally hack into it and imaginary security measures are often the most powerful. Fin will put you into FinSpace for approximately 5 + d12 days, which the user sees ticking down on a clock on their wrist the entire time. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODIxNjU5NDYsLTE4MDQwNzE4MjksMT
+eyJoaXN0b3J5IjpbLTE5NTM4MDc1MTgsLTE4MDQwNzE4MjksMT
 czMTA0MDg0OCwtODA2MDY1ODYsLTI1NzM2MTc0OSwyMDY2MDEx
 MjE3LDMyMzg3ODE1NCwtMTkwMTQyODczMCw0Mzg2NzkzMTEsMT
 k1MzQ0MjIxNSwtMTIyMzAwMDY5OCwtMjA2Nzc1NTc3MywtMTkz
