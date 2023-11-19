@@ -38,6 +38,7 @@ You got infected when:
 -  Overdosing on Fin you had visions of an alternate Finspace, erroded by nature; long past the corporate status-quo. 
 - Growing up in (blank) extremely close to the exclusion zone.
 - You were kidnapped and subjected horrible experiments.
+- 
 
 ### Burned Hacker
 You have seen enough information to convince you that:
@@ -76,9 +77,9 @@ Your loyalty is because:
 - Family
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgwODA5NDI5LC0xNDg1NTY5NjE4LDE1Nj
-U4MjYyODgsLTEzNDI1Mzk4NzQsLTEyNDAwOTM0MDcsMzkwMTcx
-MDMwLDEwMTY3NzcwNDYsMTkwMDQ0OTE4NiwzMzY2NjA5NjEsMT
-MyNTg3MTYwOSwxMDUwODE4Mjg0LDQwMzg1MDg3NCwtMTkxMzM0
-Mjk0LDIwNjM1MjcyNzUsOTkzNzUwNTE3XX0=
+eyJoaXN0b3J5IjpbLTkwMzY5ODMxMCwtMTQ4NTU2OTYxOCwxNT
+Y1ODI2Mjg4LC0xMzQyNTM5ODc0LC0xMjQwMDkzNDA3LDM5MDE3
+MTAzMCwxMDE2Nzc3MDQ2LDE5MDA0NDkxODYsMzM2NjYwOTYxLD
+EzMjU4NzE2MDksMTA1MDgxODI4NCw0MDM4NTA4NzQsLTE5MTMz
+NDI5NCwyMDYzNTI3Mjc1LDk5Mzc1MDUxN119
 -->
