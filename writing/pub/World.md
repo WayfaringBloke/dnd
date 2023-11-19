@@ -24,14 +24,8 @@ This weakness led to years of religious urnrest with the people in the mountains
 ### Farmland
 Mostly making cash crops for Royal West under new contracting agreement. Farmers are poorer than dirt, cannot afford the food they grow
 ### Mountains
-Occupied by Xin faction, highly militarised. Traditionalists focused on liberty, but in a still quite repressive way, think the Khibutz which are "anarchist" but people are judged for reading different papers. 
-
-Contains cobalt mines which the Xin run security for.
-
-They wear all white: fur coat, cargo pants, balaclava, believe in mountain marxism (utterly insane).
-
-Controlled by the Xin (pronounced ks-in), they wear all white: fur coat, cargo pants, balaclava.
-Highly territorial Maoists. Run everything very inefficiently. Backyard Iron Foundries. Armed with weapons with loads of wood trims, AK like things, SVDs like things, Blowback pistols with wooden grips.
+Makes for a beautiful view from the city 
+Occupied by Xin faction, highly militarised. Traditionalists focused on liberty. Contains cobalt mines which the Xin run security for.
 
 ### Exclusion Zone
 All knowledge of the exclusion zone is destroyed immediately with extreme prejudice. Only thing known is that the closer you get to the border the more radioactive things get. 
@@ -61,11 +55,11 @@ Tethered to the HyperMall the cloud city once flew miles above cloud level to al
 ### FinSpace
 A global hallicination, where all finance is conducted. Entered by taking the halucinogenic upper "Fin", its an endless series of skyscrapers connected by metro tunnels. Since FinSpace is a collective hallucination there is no way to conventionally hack into it and imaginary security measures are often the most powerful. Fin will put you into FinSpace for approximately 5 + d12 days, which the user sees ticking down on a clock on their wrist the entire time. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NzM2MTc0OSwyMDY2MDExMjE3LDMyMz
-g3ODE1NCwtMTkwMTQyODczMCw0Mzg2NzkzMTEsMTk1MzQ0MjIx
-NSwtMTIyMzAwMDY5OCwtMjA2Nzc1NTc3MywtMTkzMjMwODEwNi
-wxMzQxNzgyMzkzLC0xNTQ0MjE2NzEyLDY3MTQyNzQ2Myw5ODEy
-MzUzMTUsLTEyMzM4Mjg5MjQsMTYwODc4NzkwMiwtMTAxNDA1MD
-g5MiwxMTUxMDY3MTcsMjg1NzI5OTgxLC0xNjg0OTI2OTUyLC05
-NTQ5MzgxMzFdfQ==
+eyJoaXN0b3J5IjpbMTcxODA4NjU3LC0yNTczNjE3NDksMjA2Nj
+AxMTIxNywzMjM4NzgxNTQsLTE5MDE0Mjg3MzAsNDM4Njc5MzEx
+LDE5NTM0NDIyMTUsLTEyMjMwMDA2OTgsLTIwNjc3NTU3NzMsLT
+E5MzIzMDgxMDYsMTM0MTc4MjM5MywtMTU0NDIxNjcxMiw2NzE0
+Mjc0NjMsOTgxMjM1MzE1LC0xMjMzODI4OTI0LDE2MDg3ODc5MD
+IsLTEwMTQwNTA4OTIsMTE1MTA2NzE3LDI4NTcyOTk4MSwtMTY4
+NDkyNjk1Ml19
 -->
