@@ -56,7 +56,7 @@ The worst war crime you saw was:
 - Execution of PoWs.
 - Use of chemical weapons on civiliansm
 - Demolition of a Skyscraper with thousands of people still in it
-- Setting off a dirty bomb. (a conventional explosive with radioactive material added to 
+- Setting off a dirty bomb.
 
 ### Orphaned Gear Head (Lone-Wolf)
 You trusted them (parents, friends, etc.), and then they:
@@ -80,7 +80,7 @@ Your loyalty is because:
 - Family
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjI4MzMyNDUsLTE0ODU1Njk2MTgsMT
+eyJoaXN0b3J5IjpbLTEzMDY4NDI0NDIsLTE0ODU1Njk2MTgsMT
 U2NTgyNjI4OCwtMTM0MjUzOTg3NCwtMTI0MDA5MzQwNywzOTAx
 NzEwMzAsMTAxNjc3NzA0NiwxOTAwNDQ5MTg2LDMzNjY2MDk2MS
 wxMzI1ODcxNjA5LDEwNTA4MTgyODQsNDAzODUwODc0LC0xOTEz
