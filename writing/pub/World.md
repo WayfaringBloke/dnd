@@ -28,7 +28,7 @@ Mostly making cash crops for Royal West under new contracting agreement. Farmers
 
 ### Mountains
 Makes for a beautiful view from the city, 
-Occupied by Xin faction, highly militarised. Traditionalists focused on liberty. Contains cobalt mines which the Xin run security for.
+Occupied by Tuy faction, highly militarised. Traditionalists focused on liberty. Contains cobalt mines which the Trun security for.
 
 ### Exclusion Zone
 All knowledge of the exclusion zone is destroyed immediately with extreme prejudice. Only thing known is that the closer you get to the border the more radioactive things get. 
@@ -59,11 +59,11 @@ Tethered to the HyperMall the cloud city once flew miles above cloud level to al
 ### FinSpace
 A global hallicination, where all finance is conducted. Entered by taking the halucinogenic upper "Fin", its an endless series of skyscrapers connected by metro tunnels. Since FinSpace is a collective hallucination there is no way to conventionally hack into it and imaginary security measures are often the most powerful. Fin will put you into FinSpace for approximately 5 + d12 days, which the user sees ticking down on a clock on their wrist the entire time. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMTA0MDg0OCwtODA2MDY1ODYsLTI1Nz
-M2MTc0OSwyMDY2MDExMjE3LDMyMzg3ODE1NCwtMTkwMTQyODcz
-MCw0Mzg2NzkzMTEsMTk1MzQ0MjIxNSwtMTIyMzAwMDY5OCwtMj
-A2Nzc1NTc3MywtMTkzMjMwODEwNiwxMzQxNzgyMzkzLC0xNTQ0
-MjE2NzEyLDY3MTQyNzQ2Myw5ODEyMzUzMTUsLTEyMzM4Mjg5Mj
-QsMTYwODc4NzkwMiwtMTAxNDA1MDg5MiwxMTUxMDY3MTcsMjg1
-NzI5OTgxXX0=
+eyJoaXN0b3J5IjpbMjc5MTcxMjUwLDE3MzEwNDA4NDgsLTgwNj
+A2NTg2LC0yNTczNjE3NDksMjA2NjAxMTIxNywzMjM4NzgxNTQs
+LTE5MDE0Mjg3MzAsNDM4Njc5MzExLDE5NTM0NDIyMTUsLTEyMj
+MwMDA2OTgsLTIwNjc3NTU3NzMsLTE5MzIzMDgxMDYsMTM0MTc4
+MjM5MywtMTU0NDIxNjcxMiw2NzE0Mjc0NjMsOTgxMjM1MzE1LC
+0xMjMzODI4OTI0LDE2MDg3ODc5MDIsLTEwMTQwNTA4OTIsMTE1
+MTA2NzE3XX0=
 -->
