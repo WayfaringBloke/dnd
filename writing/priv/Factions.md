@@ -13,10 +13,12 @@ Disciplined Texans, they focus on respect and loyalty over money and power, whic
 
 ## Unions/Agencies
 
-### IWU
+### IWU - International Workers Union
 
-### 
+
+### AXU - Allied Xim Union
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyODA2MzY3LDgzODg3OTQ4NCwtMjA4OD
-c0NjYxMl19
+eyJoaXN0b3J5IjpbLTEzNTE5MjIzNDUsODM4ODc5NDg0LC0yMD
+g4NzQ2NjEyXX0=
 -->
