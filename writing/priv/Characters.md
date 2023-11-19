@@ -1,7 +1,7 @@
 # Characters
 ## Ronald
 - Born in 0047
-- Ex-OG capo
+- Ex-OG marshal
 
 ## Ingraham Reeves
 - Born in 00043 
@@ -9,5 +9,5 @@
 - Good at internal diplomacy
 - Rules with an Iron fist
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDM4OTY1NjRdfQ==
+eyJoaXN0b3J5IjpbMTcyNjYzNTk0OSwtMTEwMzg5NjU2NF19
 -->
