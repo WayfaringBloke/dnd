@@ -35,7 +35,7 @@ Since we're in a different city to Cy, here's a few general suggestions for back
  
 ### Shunned Nano-Mancer
 You got infected when:
--  After overdosing on Fin you had visions of an alternate Finspace, erroded by nature; long past the corporate status-quo. 
+-  Overdosing on Fin you had visions of an alternate Finspace, erroded by nature; long past the corporate status-quo. 
 - Living in the shadow of the exclusion zone isnt prodocutive to the development of any swallodian citizen.  (childhood near over 3.6 rontgen)
 - You were kidnapped and subjected horrible experiments.
 
@@ -76,9 +76,9 @@ Your loyalty is because:
 - Family
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODU1Njk2MTgsMTU2NTgyNjI4OCwtMT
-M0MjUzOTg3NCwtMTI0MDA5MzQwNywzOTAxNzEwMzAsMTAxNjc3
-NzA0NiwxOTAwNDQ5MTg2LDMzNjY2MDk2MSwxMzI1ODcxNjA5LD
-EwNTA4MTgyODQsNDAzODUwODc0LC0xOTEzMzQyOTQsMjA2MzUy
-NzI3NSw5OTM3NTA1MTddfQ==
+eyJoaXN0b3J5IjpbLTE5NTk3MzI2LC0xNDg1NTY5NjE4LDE1Nj
+U4MjYyODgsLTEzNDI1Mzk4NzQsLTEyNDAwOTM0MDcsMzkwMTcx
+MDMwLDEwMTY3NzcwNDYsMTkwMDQ0OTE4NiwzMzY2NjA5NjEsMT
+MyNTg3MTYwOSwxMDUwODE4Mjg0LDQwMzg1MDg3NCwtMTkxMzM0
+Mjk0LDIwNjM1MjcyNzUsOTkzNzUwNTE3XX0=
 -->
