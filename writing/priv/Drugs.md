@@ -3,11 +3,11 @@
 War on Drugs style, used to suppress political opponents.
 ## Name Pool
  - Adrahil
- - Almiel
  - Blanco
  - Cemendur
+ - Dervorin
 ## Effects (Defined)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxODAxMzU3OF19
+eyJoaXN0b3J5IjpbMTE0NTg3NTcyM119
 -->
