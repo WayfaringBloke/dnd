@@ -1,9 +1,13 @@
 # Drugs
 ## Legality
-War on Drugs style
+War on Drugs style, used to suppress political opponents.
 ## Name Pool
-
+ - Adrahil
+ - Almiel
+ - Blanco
+ - Cemendur
 ## Effects (Defined)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMDQ5MDM2OV19
+eyJoaXN0b3J5IjpbLTcxODAxMzU3OF19
 -->
