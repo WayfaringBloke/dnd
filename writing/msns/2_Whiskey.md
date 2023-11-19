@@ -1,14 +1,14 @@
-# Whiskey
+# WhiskeyMission 2
 1. 2nd Cowboy Job:
 	1. Wake up in/Called to El Torro Cowboy calls in favour, brings you to edge of slums
 	2. Tells you to go rescue Salas Sawyer, a friend of his
 	3. Apparently just "got lost on a hiking trip"
 	4. Lends you a rusty old pickup
-	5. Tuy Mountain Faction are holding him
+	5. TuyXin Mountain Faction are holding him
 2. Drive there
 	1. Out from the slums into the dusty plains just north of Xim, patchy grass
 	2. See zebra running wild in the plains
-	3. Checkpoint Tuy Military
+	3. Checkpoint TuyXin Military
 		1.  **Turret:** HP: 12 Armour: - Morale: - Weapon: d4a
 		2. **Papers Man:** HP: 15 Armour: d2 Morale: 12 Weapon: Blowback pistol d6
 		3. **Guard x 2:** HP: 15 Armour: d2 Morale: 15 Weapon: AK d4a / SVD d8
@@ -48,6 +48,7 @@
 ![guard](https://github.com/WayfaringBloke/dnd/blob/main/assets/m2/guard.png?raw=true)![Salas Sawyer](https://github.com/WayfaringBloke/dnd/blob/main/assets/rnpc/SalasSawyer.png?raw=true)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMxMDAzNTgxLDExNDI3OTA4OTksNzIzND
-U5NzUxLC0xMTYzMTMyODEwLC0xMDQ0ODA5MDcyXX0=
+eyJoaXN0b3J5IjpbMzM1MTkxNjUzLDIzMTAwMzU4MSwxMTQyNz
+kwODk5LDcyMzQ1OTc1MSwtMTE2MzEzMjgxMCwtMTA0NDgwOTA3
+Ml19
 -->
