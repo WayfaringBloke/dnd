@@ -50,10 +50,8 @@ Where all Sallowdia's production is concentrated (to make it easier to control).
 ### Old Town
 From before the Cobalt deposits were discovered, the old town still shows a simpler time of wooden houses painted in bright colors. Once a rather nice middle class town, the departure of Royal West also caused a mass exodus of the middle classes, who no longer felt safe. A mistake at a few real estate focused investment firms led to them buying up all these houses as the middle class fled, and due to complex accounting selling would realise their losses from this destroying the reputations of their firms. These investors employ varying levels of security on their buildings but have very little investment in preventing crime from happening outside their land. 
 
-Features a 
-
 ### HyperMall
-Once an audiovisual cacophony of consumption, a decade of neglect has left this paradise of popular luxury decrepit and empty. Its surronded by an increasingly desperate series of supports trying to prevent it from falling over.
+Once an audiovisual cacophony of consumption, a decade of neglect has left this paradise of popular luxury derelict. Its surronded by an increasingly desperate series of supports trying to prevent it from falling over.
 
 ### Cloud City
 Tethered to the HyperMall the cloud city once flew miles above cloud level to allow its residents to experience a beautiful clear sky (and get skin cancer). Due to poor maintenance and fuel costs it now runs only a few hundred meters above the HyperMall. Its residents are extremely insular so nobody knows what it looks like up there.
@@ -61,7 +59,7 @@ Tethered to the HyperMall the cloud city once flew miles above cloud level to al
 ### FinSpace
 A global hallicination, where all finance is conducted. Entered by taking the halucinogenic upper "Fin", its an endless series of skyscrapers connected by metro tunnels. Since FinSpace is a collective hallucination there is no way to conventionally hack into it and imaginary security measures are often the most powerful. Fin will put you into FinSpace for approximately 5 + d12 days, which the user sees ticking down on a clock on their wrist the entire time. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjA0MzcxNDEsMTczMTA0MDg0OCwtOD
+eyJoaXN0b3J5IjpbLTE4MDQwNzE4MjksMTczMTA0MDg0OCwtOD
 A2MDY1ODYsLTI1NzM2MTc0OSwyMDY2MDExMjE3LDMyMzg3ODE1
 NCwtMTkwMTQyODczMCw0Mzg2NzkzMTEsMTk1MzQ0MjIxNSwtMT
 IyMzAwMDY5OCwtMjA2Nzc1NTc3MywtMTkzMjMwODEwNiwxMzQx
