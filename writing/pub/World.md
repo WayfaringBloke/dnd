@@ -16,15 +16,18 @@ This weakness led to years of religious urnrest with the people in the mountains
 - 0091 - It has become clear to almost everyone that the cobalt mines have run out.
 
 
-
+# FIX VVVV
 
 ![map](https://github.com/WayfaringBloke/dnd/blob/main/assets/map/map.png?raw=true)
+# FIX ^^^^^
+
 [Map](https://excalidraw.com/#json=FGY4ef7Ejag5a2ebSaCT-,9RuKupok35NhHW3z9gWUfg)
 
 ### Farmland
-Mostly making cash crops for Royal West under new contracting agreement. Farmers are poorer than dirt, cannot afford the food they grow
+Mostly making cash crops for Royal West under new contracting agreement. Farmers are poorer than dirt, cannot afford the food they grow. 
+
 ### Mountains
-Makes for a beautiful view from the city 
+Makes for a beautiful view from the city, 
 Occupied by Xin faction, highly militarised. Traditionalists focused on liberty. Contains cobalt mines which the Xin run security for.
 
 ### Exclusion Zone
@@ -55,7 +58,7 @@ Tethered to the HyperMall the cloud city once flew miles above cloud level to al
 ### FinSpace
 A global hallicination, where all finance is conducted. Entered by taking the halucinogenic upper "Fin", its an endless series of skyscrapers connected by metro tunnels. Since FinSpace is a collective hallucination there is no way to conventionally hack into it and imaginary security measures are often the most powerful. Fin will put you into FinSpace for approximately 5 + d12 days, which the user sees ticking down on a clock on their wrist the entire time. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxODA4NjU3LC0yNTczNjE3NDksMjA2Nj
+eyJoaXN0b3J5IjpbNzg2NjYzNDIxLC0yNTczNjE3NDksMjA2Nj
 AxMTIxNywzMjM4NzgxNTQsLTE5MDE0Mjg3MzAsNDM4Njc5MzEx
 LDE5NTM0NDIyMTUsLTEyMjMwMDA2OTgsLTIwNjc3NTU3NzMsLT
 E5MzIzMDgxMDYsMTM0MTc4MjM5MywtMTU0NDIxNjcxMiw2NzE0
