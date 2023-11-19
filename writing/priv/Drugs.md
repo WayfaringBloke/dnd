@@ -12,8 +12,14 @@ War on Drugs style, used to suppress political opponents.
  - Hallatan
  - Hiril
  - Mallor
+ - Orophin
+ - Radbug
+ - Saeros
+ - Vidumavi
+ - Yavanna
+ - Ximrahin
 ## Effects (Defined)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDA1NDAwMDZdfQ==
+eyJoaXN0b3J5IjpbLTM0ODk5NTEyXX0=
 -->
