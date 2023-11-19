@@ -6,8 +6,14 @@ War on Drugs style, used to suppress political opponents.
  - Blanco
  - Cemendur
  - Dervorin
+ - Elwing
+ - Fengel
+ - Golasgil
+ - Hallatan
+ - Hiril
+ - Mallor
 ## Effects (Defined)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NTg3NTcyM119
+eyJoaXN0b3J5IjpbLTE0NDA1NDAwMDZdfQ==
 -->
