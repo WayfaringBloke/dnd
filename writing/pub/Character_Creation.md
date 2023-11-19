@@ -63,6 +63,7 @@ You trusted them (parents, friends, etc.), and then they:
 - Disappeared in the slums
 - Died in a car crash
 - Joined a gang
+- Went into the Exclusion Zone
 
 ### Rengade Cyber Slasher
 You swore an oath to:
@@ -80,7 +81,7 @@ Your loyalty is because:
 - Family
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDY4NDI0NDIsLTE0ODU1Njk2MTgsMT
+eyJoaXN0b3J5IjpbLTE4MDI2ODIzODQsLTE0ODU1Njk2MTgsMT
 U2NTgyNjI4OCwtMTM0MjUzOTg3NCwtMTI0MDA5MzQwNywzOTAx
 NzEwMzAsMTAxNjc3NzA0NiwxOTAwNDQ5MTg2LDMzNjY2MDk2MS
 wxMzI1ODcxNjA5LDEwNTA4MTgyODQsNDAzODUwODc0LC0xOTEz
