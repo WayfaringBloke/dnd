@@ -78,12 +78,8 @@ You're loyal to your gang because:
 - They threaten your family.
 - They agree with you politically.
 - You're infatuated with a higher up.
-- Ideological (Protest) (Anti-Cybernetic?)
-- Infatuated with a higher up
-- Family
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNDMyOTMzOSwtMTgwMjY4MjM4NCwtMT
+eyJoaXN0b3J5IjpbMjAxMDc5ODgxMywtMTgwMjY4MjM4NCwtMT
 Q4NTU2OTYxOCwxNTY1ODI2Mjg4LC0xMzQyNTM5ODc0LC0xMjQw
 MDkzNDA3LDM5MDE3MTAzMCwxMDE2Nzc3MDQ2LDE5MDA0NDkxOD
 YsMzM2NjYwOTYxLDEzMjU4NzE2MDksMTA1MDgxODI4NCw0MDM4
