@@ -45,10 +45,10 @@ Built of sheet metal, temporary antigravity generators, and broken dreams. Overf
 
 
 ### Industrial District
-Where all Sallowdia's production is concentrated (to make it easier to control). Due to zoning laws and planning nightmares it is a gigantic looming tower of factories built on factories. Strong "union" control, cult of Osha enforces safety guidelines like samurai.
+Where all Sallowdia's production is concentrated (to make it easier to control). Due to zoning laws and planning nightmares it is a gigantic looming tower of factories built on factories. Strong "union" control, cult of Osha enforces safety guidelines like samurai. The "unions" function more like agencies, holding workers 
 
 ### Old Town
-From before the Cobalt deposits were discovered, the old town still shows a simpler time of wooden houses painted in bright colors. Once a rather nice middle class town, 
+From before the Cobalt deposits were discovered, the old town still shows a simpler time of wooden houses painted in bright colors. Once a rather nice middle class town, the 
 
 ### HyperMall
 Once an audiovisual cacophony of consumption, a decade of neglect has left this paradise of popular luxury decrepit and empty. Its surronded by an increasingly desperate series of supports trying to prevent it from falling over.
@@ -59,11 +59,11 @@ Tethered to the HyperMall the cloud city once flew miles above cloud level to al
 ### FinSpace
 A global hallicination, where all finance is conducted. Entered by taking the halucinogenic upper "Fin", its an endless series of skyscrapers connected by metro tunnels. Since FinSpace is a collective hallucination there is no way to conventionally hack into it and imaginary security measures are often the most powerful. Fin will put you into FinSpace for approximately 5 + d12 days, which the user sees ticking down on a clock on their wrist the entire time. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NTk3MDE5MiwxNzMxMDQwODQ4LC04MD
-YwNjU4NiwtMjU3MzYxNzQ5LDIwNjYwMTEyMTcsMzIzODc4MTU0
-LC0xOTAxNDI4NzMwLDQzODY3OTMxMSwxOTUzNDQyMjE1LC0xMj
-IzMDAwNjk4LC0yMDY3NzU1NzczLC0xOTMyMzA4MTA2LDEzNDE3
-ODIzOTMsLTE1NDQyMTY3MTIsNjcxNDI3NDYzLDk4MTIzNTMxNS
-wtMTIzMzgyODkyNCwxNjA4Nzg3OTAyLC0xMDE0MDUwODkyLDEx
-NTEwNjcxN119
+eyJoaXN0b3J5IjpbLTE2Nzg2NTE4NjksMTczMTA0MDg0OCwtOD
+A2MDY1ODYsLTI1NzM2MTc0OSwyMDY2MDExMjE3LDMyMzg3ODE1
+NCwtMTkwMTQyODczMCw0Mzg2NzkzMTEsMTk1MzQ0MjIxNSwtMT
+IyMzAwMDY5OCwtMjA2Nzc1NTc3MywtMTkzMjMwODEwNiwxMzQx
+NzgyMzkzLC0xNTQ0MjE2NzEyLDY3MTQyNzQ2Myw5ODEyMzUzMT
+UsLTEyMzM4Mjg5MjQsMTYwODc4NzkwMiwtMTAxNDA1MDg5Miwx
+MTUxMDY3MTddfQ==
 -->
