@@ -38,7 +38,7 @@ A corporate military with no clear markings now maintains a border around it.
 ## City: Xim
 Unmaintained for approaching a decade the weight of the past has crushed our city's future. The sky is the color of a Television turned to a dead channel.
 
-Since the police haven't been paid for almost half a decade, corporations & gangs h
+Since the police haven't been paid for almost half a decade, corporations & gangs have largely taken over their roles. The only police that are still paid are
 
 ### Slums
 Built of sheet metal, temporary antigravity generators, and broken dreams. Overflowing with gang violence and drug abuse.
@@ -59,11 +59,11 @@ Tethered to the HyperMall the cloud city once flew miles above cloud level to al
 ### FinSpace
 A global hallicination, where all finance is conducted. Entered by taking the halucinogenic upper "Fin", its an endless series of skyscrapers connected by metro tunnels. Since FinSpace is a collective hallucination there is no way to conventionally hack into it and imaginary security measures are often the most powerful. Fin will put you into FinSpace for approximately 5 + d12 days, which the user sees ticking down on a clock on their wrist the entire time. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTA1OTI3NDEsLTgwNjA2NTg2LC0yNT
-czNjE3NDksMjA2NjAxMTIxNywzMjM4NzgxNTQsLTE5MDE0Mjg3
-MzAsNDM4Njc5MzExLDE5NTM0NDIyMTUsLTEyMjMwMDA2OTgsLT
-IwNjc3NTU3NzMsLTE5MzIzMDgxMDYsMTM0MTc4MjM5MywtMTU0
-NDIxNjcxMiw2NzE0Mjc0NjMsOTgxMjM1MzE1LC0xMjMzODI4OT
-I0LDE2MDg3ODc5MDIsLTEwMTQwNTA4OTIsMTE1MTA2NzE3LDI4
-NTcyOTk4MV19
+eyJoaXN0b3J5IjpbLTM1Mzg3MTg4NywtODA2MDY1ODYsLTI1Nz
+M2MTc0OSwyMDY2MDExMjE3LDMyMzg3ODE1NCwtMTkwMTQyODcz
+MCw0Mzg2NzkzMTEsMTk1MzQ0MjIxNSwtMTIyMzAwMDY5OCwtMj
+A2Nzc1NTc3MywtMTkzMjMwODEwNiwxMzQxNzgyMzkzLC0xNTQ0
+MjE2NzEyLDY3MTQyNzQ2Myw5ODEyMzUzMTUsLTEyMzM4Mjg5Mj
+QsMTYwODc4NzkwMiwtMTAxNDA1MDg5MiwxMTUxMDY3MTcsMjg1
+NzI5OTgxXX0=
 -->
