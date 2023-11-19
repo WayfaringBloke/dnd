@@ -74,16 +74,17 @@ You swore an oath to:
 - Temperance
 
 ### Forsaken Gang-Goon
-Your loyalty is because:
-- Hostage
+You're loyal to your gang because:
+- They 
 - Ideological (Protest) (Anti-Cybernetic?)
 - Infatuated with a higher up
 - Family
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDI2ODIzODQsLTE0ODU1Njk2MTgsMT
-U2NTgyNjI4OCwtMTM0MjUzOTg3NCwtMTI0MDA5MzQwNywzOTAx
-NzEwMzAsMTAxNjc3NzA0NiwxOTAwNDQ5MTg2LDMzNjY2MDk2MS
-wxMzI1ODcxNjA5LDEwNTA4MTgyODQsNDAzODUwODc0LC0xOTEz
-MzQyOTQsMjA2MzUyNzI3NSw5OTM3NTA1MTddfQ==
+eyJoaXN0b3J5IjpbOTA5NzkxMzkxLC0xODAyNjgyMzg0LC0xND
+g1NTY5NjE4LDE1NjU4MjYyODgsLTEzNDI1Mzk4NzQsLTEyNDAw
+OTM0MDcsMzkwMTcxMDMwLDEwMTY3NzcwNDYsMTkwMDQ0OTE4Ni
+wzMzY2NjA5NjEsMTMyNTg3MTYwOSwxMDUwODE4Mjg0LDQwMzg1
+MDg3NCwtMTkxMzM0Mjk0LDIwNjM1MjcyNzUsOTkzNzUwNTE3XX
+0=
 -->
