@@ -38,14 +38,14 @@ You got infected when:
 -  Overdosing on Fin you had visions of an alternate Finspace, erroded by nature; long past the corporate status-quo. 
 - Growing up in (blank) extremely close to the exclusion zone.
 - You were kidnapped and subjected horrible experiments.
-- 
+- Travelling across the salt flats, searching for something you lost.
 
 ### Burned Hacker
 You have seen enough information to convince you that:
 - Everyone in Cloud City is dead, and has been for half a decade.
 - Royal West covered up a massacre of mass protests in Xim in 045.
-- Douglas Sallow wrote maunscripts at the end of his life that are tyrades against his govt, and the 1st one is still out there somewhere.
 - Ingraham Reeves is gay.
+- There's barre
 
 
 ### Discharged Corp Killer (Ex-Military)
@@ -77,9 +77,9 @@ Your loyalty is because:
 - Family
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMzY5ODMxMCwtMTQ4NTU2OTYxOCwxNT
-Y1ODI2Mjg4LC0xMzQyNTM5ODc0LC0xMjQwMDkzNDA3LDM5MDE3
-MTAzMCwxMDE2Nzc3MDQ2LDE5MDA0NDkxODYsMzM2NjYwOTYxLD
-EzMjU4NzE2MDksMTA1MDgxODI4NCw0MDM4NTA4NzQsLTE5MTMz
-NDI5NCwyMDYzNTI3Mjc1LDk5Mzc1MDUxN119
+eyJoaXN0b3J5IjpbLTExNjg0MjkzMDAsLTE0ODU1Njk2MTgsMT
+U2NTgyNjI4OCwtMTM0MjUzOTg3NCwtMTI0MDA5MzQwNywzOTAx
+NzEwMzAsMTAxNjc3NzA0NiwxOTAwNDQ5MTg2LDMzNjY2MDk2MS
+wxMzI1ODcxNjA5LDEwNTA4MTgyODQsNDAzODUwODc0LC0xOTEz
+MzQyOTQsMjA2MzUyNzI3NSw5OTM3NTA1MTddfQ==
 -->
