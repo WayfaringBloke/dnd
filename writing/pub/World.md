@@ -24,7 +24,7 @@ This weakness led to years of religious urnrest with the people in the mountains
 [Map](https://excalidraw.com/#json=FGY4ef7Ejag5a2ebSaCT-,9RuKupok35NhHW3z9gWUfg)
 
 ### Farmland
-Mostly making cash crops for Royal West under new contracting agreement. Farmers are poorer than dirt, cannot afford the food they grow. 
+Mostly making cash crops for Royal West under new contracting agreement. Farmers are poorer than dirt, cannot afford the food they grow. Features 
 
 ### Mountains
 Makes for a beautiful view from the city, 
@@ -59,7 +59,7 @@ Tethered to the HyperMall the cloud city once flew miles above cloud level to al
 ### FinSpace
 A global hallicination, where all finance is conducted. Entered by taking the halucinogenic upper "Fin", its an endless series of skyscrapers connected by metro tunnels. Since FinSpace is a collective hallucination there is no way to conventionally hack into it and imaginary security measures are often the most powerful. Fin will put you into FinSpace for approximately 5 + d12 days, which the user sees ticking down on a clock on their wrist the entire time. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1Mzg3MTg4NywtODA2MDY1ODYsLTI1Nz
+eyJoaXN0b3J5IjpbMTczMTA0MDg0OCwtODA2MDY1ODYsLTI1Nz
 M2MTc0OSwyMDY2MDExMjE3LDMyMzg3ODE1NCwtMTkwMTQyODcz
 MCw0Mzg2NzkzMTEsMTk1MzQ0MjIxNSwtMTIyMzAwMDY5OCwtMj
 A2Nzc1NTc3MywtMTkzMjMwODEwNiwxMzQxNzgyMzkzLC0xNTQ0
