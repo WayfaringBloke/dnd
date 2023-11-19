@@ -4,7 +4,7 @@
 ### West Side
 Unruly Germans, their focus on efficiency slows down their operations. They typically shoot rifles/pistols and other precision weaponry, prefering long range encounters. They dispose of bodies methodically by dissolving them in acid attained from the industrial district.  
 
-Their blacksites hold primarily people from other gangs and the old town since they never negoitiate with other gan
+Their blacksites hold primarily people from other gangs and the old town since they never negoitiate with other gangs and are strict modernists who hate the old-fashioned ways of the old town
 
 ### East Side
 Gung-ho Russians, their slapdash & brutal approach leaves some loose ends. They focus on volume of fire using no stock AKs with a wide variety of modifications from high RoF low caliber to auto shotguns. They dispose of bodies by cutting off their arms and legs and burying those and leaving the rest of the body in the streets.
@@ -25,6 +25,6 @@ They run the cities biggest Casino.
 ### AXU - Allied Xim Union
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5ODUxNzk2Miw4Mzg4Nzk0ODQsLTIwOD
+eyJoaXN0b3J5IjpbMTQ4NDMzMzQzNSw4Mzg4Nzk0ODQsLTIwOD
 g3NDY2MTJdfQ==
 -->
