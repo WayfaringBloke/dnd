@@ -1,4 +1,4 @@
-# Jewellery
+# eelery# Jewellery
 
 ## Mission
 0. Cowboy explains job in car:
@@ -20,10 +20,10 @@
 			- Jewel Encrusted Cane
 2. Action (is alarm reached?)
 	- If alarm then:
-			**Turret x 2:**<br> HP: 12 Armor: -d4 Morale: - Weapon: Machine Gun d6a (Drops down from ceiling)
+			**Turret xeapon: Machine Gun d6a (Drops down from ceiling)
 			**LMG on Motor:** <br> HP: 3 Morale: - Weapon: d4a
 			Fires into cloakroom for d4+2 rounds then runs out of ammo.
-			**Manager:**<br> HP: 5 Armor: 0 Morale: 28 Weapon: Cane Sword d8
+		*d8
 3. Unlock Display cases
 	- Alarm = Smash
 	- Convince Manager = DR20 Presence Check / DR19 Toughness Check
@@ -33,7 +33,7 @@
 	- Force other woman (after Manager is eliminated) = DR12 Presence Check
 	- Hack manager's computer = DR16 Knowledge
 	- Button under desk + Push in painting's eyes - Cool Rock & Alarm controls 
-4. Streets:
+. Streets:
 	- Guy pops out with shotgun tries to rob you
 	- His buddies pop out to waste you
 	- Shotgun, Mac1, Mac2, Long Gun
@@ -64,6 +64,6 @@ n: s, h: 15, m:  7, a: d2, w: d6, d: 14"""
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNTAzODA4MCwtMTAwMzM1MzM2MiwxMz
-AxNzA2MTAxXX0=
+eyJoaXN0b3J5IjpbODExODI3MTQ3LDE4MjUwMzgwODAsLTEwMD
+MzNTMzNjIsMTMwMTcwNjEwMV19
 -->
