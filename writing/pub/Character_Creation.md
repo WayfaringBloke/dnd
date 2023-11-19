@@ -43,9 +43,10 @@ You got infected when:
 ### Burned Hacker
 You have seen enough information to convince you that:
 - Everyone in Cloud City is dead, and has been for half a decade.
-- Royal West covered up a massacre of mass protests in Xim in 045.
+- Royal West covered up a massacre of protestors in Xim in 045.
 - Ingraham Reeves is gay.
-- There's barre
+- There's gold bullions buried all over the salt flats
+- 
 
 
 ### Discharged Corp Killer (Ex-Military)
@@ -77,9 +78,9 @@ Your loyalty is because:
 - Family
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjg0MjkzMDAsLTE0ODU1Njk2MTgsMT
-U2NTgyNjI4OCwtMTM0MjUzOTg3NCwtMTI0MDA5MzQwNywzOTAx
-NzEwMzAsMTAxNjc3NzA0NiwxOTAwNDQ5MTg2LDMzNjY2MDk2MS
-wxMzI1ODcxNjA5LDEwNTA4MTgyODQsNDAzODUwODc0LC0xOTEz
-MzQyOTQsMjA2MzUyNzI3NSw5OTM3NTA1MTddfQ==
+eyJoaXN0b3J5IjpbMTg1ODUyMTAwNywtMTQ4NTU2OTYxOCwxNT
+Y1ODI2Mjg4LC0xMzQyNTM5ODc0LC0xMjQwMDkzNDA3LDM5MDE3
+MTAzMCwxMDE2Nzc3MDQ2LDE5MDA0NDkxODYsMzM2NjYwOTYxLD
+EzMjU4NzE2MDksMTA1MDgxODI4NCw0MDM4NTA4NzQsLTE5MTMz
+NDI5NCwyMDYzNTI3Mjc1LDk5Mzc1MDUxN119
 -->
