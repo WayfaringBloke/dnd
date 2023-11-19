@@ -36,12 +36,13 @@ All knowledge of the exclusion zone is destroyed immediately with extreme prejud
 A corporate military with no clear markings now maintains a border around it. 
 
 ## City: Xim
-Unmaintained for approaching a decade the weight of the past has crushed our city's future. The sky is the color of a Television turned to a dead channel. The cloud engulfing the city is about 8 years old.
+Unmaintained for approaching a decade the weight of the past has crushed our city's future. The sky is the color of a Television turned to a dead channel.
+
+Since the police 
 
 ### Slums
 Built of sheet metal, temporary antigravity generators, and broken dreams. Overflowing with gang violence and drug abuse.
 
-Since the police haven't been paid in almost half a decade 
 
 ### Industrial District
 Where all Sallowdia's production is concentrated (to make it easier to control). Due to zoning laws and planning nightmares it is a gigantic looming tower of factories built on factories. Strong "union" control, cult of Osha enforces safety guidelines like samurai.
@@ -58,7 +59,7 @@ Tethered to the HyperMall the cloud city once flew miles above cloud level to al
 ### FinSpace
 A global hallicination, where all finance is conducted. Entered by taking the halucinogenic upper "Fin", its an endless series of skyscrapers connected by metro tunnels. Since FinSpace is a collective hallucination there is no way to conventionally hack into it and imaginary security measures are often the most powerful. Fin will put you into FinSpace for approximately 5 + d12 days, which the user sees ticking down on a clock on their wrist the entire time. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg2NjYzNDIxLC0yNTczNjE3NDksMjA2Nj
+eyJoaXN0b3J5IjpbLTgwNjA2NTg2LC0yNTczNjE3NDksMjA2Nj
 AxMTIxNywzMjM4NzgxNTQsLTE5MDE0Mjg3MzAsNDM4Njc5MzEx
 LDE5NTM0NDIyMTUsLTEyMjMwMDA2OTgsLTIwNjc3NTU3NzMsLT
 E5MzIzMDgxMDYsMTM0MTc4MjM5MywtMTU0NDIxNjcxMiw2NzE0
