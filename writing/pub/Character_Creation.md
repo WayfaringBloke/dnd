@@ -51,12 +51,11 @@ You have seen enough information to convince you that:
  
 
 
-### Discharged Corp Killer (Ex-Military)
+### Discharged Corp Killer (Ex-Military, International)
 The worst war crime you saw was:
-- The execution of PoWs
-
-- Use of chemical weapons
-- contracted to demolish a skyscraper, death count 2'400. 
+- Execution of PoWs.
+- Use of chemical weapons on civiliansm
+- Demolition of a Skyscraper with thousands of p
 - dirty bomb 
 
 ### Orphaned Gear Head (Lone-Wolf)
@@ -81,9 +80,9 @@ Your loyalty is because:
 - Family
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMzQwODYxMCwtMTQ4NTU2OTYxOCwxNT
-Y1ODI2Mjg4LC0xMzQyNTM5ODc0LC0xMjQwMDkzNDA3LDM5MDE3
-MTAzMCwxMDE2Nzc3MDQ2LDE5MDA0NDkxODYsMzM2NjYwOTYxLD
-EzMjU4NzE2MDksMTA1MDgxODI4NCw0MDM4NTA4NzQsLTE5MTMz
-NDI5NCwyMDYzNTI3Mjc1LDk5Mzc1MDUxN119
+eyJoaXN0b3J5IjpbLTExNzY1MjI5OTUsLTE0ODU1Njk2MTgsMT
+U2NTgyNjI4OCwtMTM0MjUzOTg3NCwtMTI0MDA5MzQwNywzOTAx
+NzEwMzAsMTAxNjc3NzA0NiwxOTAwNDQ5MTg2LDMzNjY2MDk2MS
+wxMzI1ODcxNjA5LDEwNTA4MTgyODQsNDAzODUwODc0LC0xOTEz
+MzQyOTQsMjA2MzUyNzI3NSw5OTM3NTA1MTddfQ==
 -->
