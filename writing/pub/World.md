@@ -26,7 +26,7 @@ This weakness led to years of religious urnrest with the people in the mountains
 ### Farmland
 Mostly making cash crops for Royal West under new contracting agreement. Farmers are poorer than dirt, cannot afford the food they grow.
 
-Contains the city of (blank) which is entirely an ai
+Contains the city of (blank) which is literally like 80% an airport. Extremely secure many executives actually live in the airport.
 
 ### Mountains
 Makes for a beautiful view from the city, 
@@ -61,11 +61,11 @@ Tethered to the HyperMall the cloud city once flew miles above cloud level to al
 ### FinSpace
 A global hallicination, where all finance is conducted. Entered by taking the halucinogenic upper "Fin", its an endless series of skyscrapers connected by metro tunnels. Since FinSpace is a collective hallucination there is no way to conventionally hack into it and imaginary security measures are often the most powerful. Fin will put you into FinSpace for approximately 5 + d12 days, which the user sees ticking down on a clock on their wrist the entire time. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5Mjg5MzEzNywtMTgwNDA3MTgyOSwxNz
-MxMDQwODQ4LC04MDYwNjU4NiwtMjU3MzYxNzQ5LDIwNjYwMTEy
-MTcsMzIzODc4MTU0LC0xOTAxNDI4NzMwLDQzODY3OTMxMSwxOT
-UzNDQyMjE1LC0xMjIzMDAwNjk4LC0yMDY3NzU1NzczLC0xOTMy
-MzA4MTA2LDEzNDE3ODIzOTMsLTE1NDQyMTY3MTIsNjcxNDI3ND
-YzLDk4MTIzNTMxNSwtMTIzMzgyODkyNCwxNjA4Nzg3OTAyLC0x
-MDE0MDUwODkyXX0=
+eyJoaXN0b3J5IjpbLTE5ODIxNjU5NDYsLTE4MDQwNzE4MjksMT
+czMTA0MDg0OCwtODA2MDY1ODYsLTI1NzM2MTc0OSwyMDY2MDEx
+MjE3LDMyMzg3ODE1NCwtMTkwMTQyODczMCw0Mzg2NzkzMTEsMT
+k1MzQ0MjIxNSwtMTIyMzAwMDY5OCwtMjA2Nzc1NTc3MywtMTkz
+MjMwODEwNiwxMzQxNzgyMzkzLC0xNTQ0MjE2NzEyLDY3MTQyNz
+Q2Myw5ODEyMzUzMTUsLTEyMzM4Mjg5MjQsMTYwODc4NzkwMiwt
+MTAxNDA1MDg5Ml19
 -->
