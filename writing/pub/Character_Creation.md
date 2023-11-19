@@ -75,16 +75,18 @@ You swore an oath to:
 
 ### Forsaken Gang-Goon
 You're loyal to your gang because:
-- They 
+- They threaten your family.
+- They agree with you politically.
+- You're infatuated with a higher up.
 - Ideological (Protest) (Anti-Cybernetic?)
 - Infatuated with a higher up
 - Family
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA5NzkxMzkxLC0xODAyNjgyMzg0LC0xND
-g1NTY5NjE4LDE1NjU4MjYyODgsLTEzNDI1Mzk4NzQsLTEyNDAw
-OTM0MDcsMzkwMTcxMDMwLDEwMTY3NzcwNDYsMTkwMDQ0OTE4Ni
-wzMzY2NjA5NjEsMTMyNTg3MTYwOSwxMDUwODE4Mjg0LDQwMzg1
-MDg3NCwtMTkxMzM0Mjk0LDIwNjM1MjcyNzUsOTkzNzUwNTE3XX
-0=
+eyJoaXN0b3J5IjpbMTQwNDMyOTMzOSwtMTgwMjY4MjM4NCwtMT
+Q4NTU2OTYxOCwxNTY1ODI2Mjg4LC0xMzQyNTM5ODc0LC0xMjQw
+MDkzNDA3LDM5MDE3MTAzMCwxMDE2Nzc3MDQ2LDE5MDA0NDkxOD
+YsMzM2NjYwOTYxLDEzMjU4NzE2MDksMTA1MDgxODI4NCw0MDM4
+NTA4NzQsLTE5MTMzNDI5NCwyMDYzNTI3Mjc1LDk5Mzc1MDUxN1
+19
 -->
