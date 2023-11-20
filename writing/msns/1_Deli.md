@@ -35,7 +35,7 @@ https://excalidraw.com/#json=aoOKfdCuEwjaHaxY6TBvh,BAg73HA33RGEFGlkNrM93Q
 
 ## Pantry
 - Heavy bags of flour, cornstarch, and various ingredients.
-- A jarring amount of pickles.
+- A jarring amount of pickles. It smells entirely too much of pickles.
 
 ## Closet
 - A mix of kitchen wear. 
@@ -47,6 +47,9 @@ https://excalidraw.com/#json=aoOKfdCuEwjaHaxY6TBvh,BAg73HA33RGEFGlkNrM93Q
 - Pots dangle from the ceiling above the central table
 - In one corner there is 2 giant piles of potatoes, one peeled the other unpeeled
 - Along the far wall a deep fat fryer quietly fizzling
+- Strong smell of fish & raw beef (blood)
+- Two cooks in there 
+
 
 # Assets 
 ![manager](https://github.com/WayfaringBloke/dnd/blob/main/assets/m1/manager.png?raw=true)![Ronald](https://github.com/WayfaringBloke/dnd/blob/main/assets/rnpc/Ronald.png?raw=true)
@@ -63,7 +66,7 @@ n: s, h: 15, m:  7, a: d2, w: d6, d: 14"""
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjQzNjM4NjIsLTcwNzI4MjI4NiwtMT
-Y5MjA0NzY4MywtMTA1Mjg4MTgwMiwtMzUxNzkxNTQ2LC0yMDY4
-NzA2NTMwXX0=
+eyJoaXN0b3J5IjpbNTkzMjkzMjkwLC03MDcyODIyODYsLTE2OT
+IwNDc2ODMsLTEwNTI4ODE4MDIsLTM1MTc5MTU0NiwtMjA2ODcw
+NjUzMF19
 -->
