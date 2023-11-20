@@ -51,7 +51,14 @@
 
 # [Map](https://excalidraw.com/#json=W_biwfYzY6NURPXNTLv3z,WfTky5C1MT0JoVaBKRASdg)
 ## Dining Area
-A narrow corridor leads up to a cramped dining area, with a bar & stools facing the wall. There's a large soda vending machine and a deli counter with a jersey wiseguy stood behind it. He sells corned beef sandwhiches.
+A narrow corridor leads up to a cramped dining area, with a bar & stools facing the wall. There's a large soda vending machine and a deli counter with a jersey wiseguy stood behind it. He sells corned beef sandwiches. His overall demeanour suggests he's not too keen on taking this job.
+
+## Pantry
+Heavy bags of flour, c
+
+## Closet
+
+
 # Assets 
 ![manager](https://github.com/WayfaringBloke/dnd/blob/main/assets/m1/manager.png?raw=true)![Ronald](https://github.com/WayfaringBloke/dnd/blob/main/assets/rnpc/Ronald.png?raw=true)
 # Combat Dumps
@@ -67,7 +74,7 @@ n: s, h: 15, m:  7, a: d2, w: d6, d: 14"""
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAxNjA5MzU4LDIwMjAzMTQ5MjQsODExOD
+eyJoaXN0b3J5IjpbMTM3ODExMTc5LDIwMjAzMTQ5MjQsODExOD
 I3MTQ3LDE4MjUwMzgwODAsLTEwMDMzNTMzNjIsMTMwMTcwNjEw
 MV19
 -->
