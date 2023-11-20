@@ -4,14 +4,8 @@
 	- Trying to steal a red gem from probably the upstairs apartment.
 	- (Cowboy is motivated by jeweller witnessing against one of his friends 7 years ago, and lost stone to him 5 years ago)
 3. Casing
-	- 2 NPCs, Cashier and manager in back
-		- Manager is a bit of a hardass, extremely posh
-			- Gives bit about how all their jewellery is non-technological
-		- Customer service lady is fake as shit (will surrender instantly)
-		- Shown a series of jewellery
-			- Beautiful cufflinks with a blue-green shimmer
-			- Uncut Black Opal
-			- Jewel Encrusted Cane
+	- 1 guy in front unenthused sells you corned beef sandwiches
+	- Vending machine with drinks 
 4. Action (is alarm reached?)
 	- If alarm then:
 			**Turret xeapon: Machine Gun d6a (Drops down from ceiling)
@@ -72,5 +66,6 @@ n: s, h: 15, m:  7, a: d2, w: d6, d: 14"""
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MTc5MTU0NiwtMjA2ODcwNjUzMF19
+eyJoaXN0b3J5IjpbLTExNzc0OTEwMzQsLTM1MTc5MTU0NiwtMj
+A2ODcwNjUzMF19
 -->
