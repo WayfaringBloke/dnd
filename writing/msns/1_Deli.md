@@ -76,10 +76,12 @@ c1 c2
 o
 r
 cohen_wong = """n: g1, h: 15, m: 8, a: d0, w: d6, d: 12
-n: g2, h: 12, m: 7, a: d0, w: d6, d: 10
-n: g3, h: 12, m: 7, a: d0, w: d8, d: 10
-n: g4, h: 12, m: 6, a: d2 
-"""
+n: g2, h: 12, m: 7, a: d0, w: d6, d: 12
+n: g3, h: 12, m: 7, a: d0, w: d8, d: 12
+n: g4, h: 12, m: 6, a: d2, w: d6, d: 12
+n: r, h: 20, m: 10, a: d3, w: d6, d: 14
+n: c1, h: 8, m: 4, a: d0, w: d4, d: 10
+n: c2, h: 8, m: 3, a: d0, w: d4, d: 10"""
 
 carjack = """n: l, h: 25, m: 9, a: d6, w: d6a, d: 12
 n: m1, h: 12, m: 6, a: d2, w: d6a, d: 10
@@ -88,8 +90,8 @@ n: s, h: 15, m:  7, a: d2, w: d6, d: 14"""
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDQ3NDQ5NzAsLTE3NjM2MTM2MDgsLT
-EwMzY1NDEwODcsMTk4MTM5ODU3NywxNDc1NzAxNjg4LC03MDcy
-ODIyODYsLTE2OTIwNDc2ODMsLTEwNTI4ODE4MDIsLTM1MTc5MT
-U0NiwtMjA2ODcwNjUzMF19
+eyJoaXN0b3J5IjpbLTIzMTA2ODAzMCwtMTc2MzYxMzYwOCwtMT
+AzNjU0MTA4NywxOTgxMzk4NTc3LDE0NzU3MDE2ODgsLTcwNzI4
+MjI4NiwtMTY5MjA0NzY4MywtMTA1Mjg4MTgwMiwtMzUxNzkxNT
+Q2LC0yMDY4NzA2NTMwXX0=
 -->
