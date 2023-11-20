@@ -29,7 +29,7 @@
 
 ## Bathroom
 - Occupied by 4th gang member being very sick.
-- Sink on one wall, 
+- Sink on one wall, Toilet in the corner
 
 ## Pantry
 - Heavy bags of flour, cornstarch, and various ingredients.
@@ -96,9 +96,9 @@ n: s, h: 15, m:  7, a: d2, w: d6, d: 14"""
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc4OTYyODE4LDE5NTEyODI1MzEsLTEzMT
-A4NDEzNTksMTI4MzE5MjMzMCwtMTMzMjc1Mzk1NCwtMTc2MzYx
-MzYwOCwtMTAzNjU0MTA4NywxOTgxMzk4NTc3LDE0NzU3MDE2OD
-gsLTcwNzI4MjI4NiwtMTY5MjA0NzY4MywtMTA1Mjg4MTgwMiwt
-MzUxNzkxNTQ2LC0yMDY4NzA2NTMwXX0=
+eyJoaXN0b3J5IjpbLTIwNjcxNTA0NTAsNzc4OTYyODE4LDE5NT
+EyODI1MzEsLTEzMTA4NDEzNTksMTI4MzE5MjMzMCwtMTMzMjc1
+Mzk1NCwtMTc2MzYxMzYwOCwtMTAzNjU0MTA4NywxOTgxMzk4NT
+c3LDE0NzU3MDE2ODgsLTcwNzI4MjI4NiwtMTY5MjA0NzY4Mywt
+MTA1Mjg4MTgwMiwtMzUxNzkxNTQ2LC0yMDY4NzA2NTMwXX0=
 -->
