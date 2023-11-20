@@ -47,14 +47,14 @@
 
 
 # Encounter 4
-R
+- Robot taken over gas station
+- Salas climbs into ceiling
 # Assets
 
 ![guard](https://github.com/WayfaringBloke/dnd/blob/main/assets/m2/guard.png?raw=true)![Salas Sawyer](https://github.com/WayfaringBloke/dnd/blob/main/assets/rnpc/SalasSawyer.png?raw=true)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjE2NjEwMzIsLTE2OTEzODQ3MTYsNz
-k3MjkwOTI5LDMzNTE5MTY1MywyMzEwMDM1ODEsMTE0Mjc5MDg5
-OSw3MjM0NTk3NTEsLTExNjMxMzI4MTAsLTEwNDQ4MDkwNzJdfQ
-==
+eyJoaXN0b3J5IjpbLTc2NzQ1NjAxOSwtMTY5MTM4NDcxNiw3OT
+cyOTA5MjksMzM1MTkxNjUzLDIzMTAwMzU4MSwxMTQyNzkwODk5
+LDcyMzQ1OTc1MSwtMTE2MzEzMjgxMCwtMTA0NDgwOTA3Ml19
 -->
