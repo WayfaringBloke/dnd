@@ -1,31 +1,19 @@
 # Deli
 ## Mission
-0. Cowboy explains job in car:
+1. Cowboy explains job in car:
 	- Trying to steal a red gem from probably the upstairs apartment.
 	- (Cowboy is motivated by jeweller witnessing against one of his friends 7 years ago, and lost stone to him 5 years ago)
-3. Casing
+2. Casing
 	- 1 guy in front unenthused sells you corned beef sandwiches
 	- Vending machine with drinks 
-4. Action (is alarm reached?)
-	- If alarm then:
-			**Turret xeapon: Machine Gun d6a (Drops down from ceiling)
-			**LMG on Motor:** <br> HP: 3 Morale: - Weapon: d4a
-			Fires into cloakroom for d4+2 rounds then runs out of ammo.
-		*d8
-5. Unlock Display cases
-	- Alarm = Smash
-	- Convince Manager = DR20 Presence Check / DR19 Toughness Check
-	- Hurt Manager = DR10 Strength
-		- Fail: Unpersuadable
-		- Pass: Dies
-	- Force other woman (after Manager is eliminated) = DR12 Presence Check
-	- Hack manager's computer = DR16 Knowledge
-	- Button under desk + Push in painting's eyes - Cool Rock & Alarm controls 
-. Streets:
+3. Action
+	- Storm the back of the resturant, killing goons room by room
+	- 6 in the building total + 1
+4. Streets:
 	- Guy pops out with shotgun tries to rob you
 	- His buddies pop out to waste you
 	- Shotgun, Mac1, Mac2, Long Gun
-6. Bar Debrief
+5. Bar Debrief
 	- Walk up see crap game outside played with cops
 	- Enter busy bar filled with working class looking people all chattering and drinking, bored
 	- Silence falls as players enter, fear
@@ -66,6 +54,6 @@ n: s, h: 15, m:  7, a: d2, w: d6, d: 14"""
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzc0OTEwMzQsLTM1MTc5MTU0NiwtMj
+eyJoaXN0b3J5IjpbLTE1MTI1MTU2NzUsLTM1MTc5MTU0NiwtMj
 A2ODcwNjUzMF19
 -->
