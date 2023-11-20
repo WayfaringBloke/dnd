@@ -34,10 +34,10 @@ https://excalidraw.com/#json=aoOKfdCuEwjaHaxY6TBvh,BAg73HA33RGEFGlkNrM93Q
 - In the drinks cabinet there's literally only two things: cans of OrangeLime, a popular soda, and Cold Leprechaun's Brew, a 50/50 mix of whiskey and strong black coffee. Fucking exclusivity deals.
 - **SECURITY:** Gun that fires through wall in narrow corridor
 
-
 ## Pantry
 - Heavy bags of flour, cornstarch, and various ingredients.
 - A jarring amount of pickles. It smells entirely too much of pickles.
+- Just ouside it in the coridoor is the opaque red stone in a display case 
 
 ## Closet
 - A mix of kitchen wear. 
@@ -64,7 +64,8 @@ https://excalidraw.com/#json=aoOKfdCuEwjaHaxY6TBvh,BAg73HA33RGEFGlkNrM93Q
 
 ## Apartment
 - Owner hiding upstairs, not going to fight you unless you make a problem of it. **WILL SILENT ALARM FREEZER GUYS TO COME**
-- 
+- Painting on the wall with jewels in the eyes
+- Push them in and under his bed pops open, Uncut Gem is in there
 
 # Assets 
 ![manager](https://github.com/WayfaringBloke/dnd/blob/main/assets/m1/manager.png?raw=true)![Ronald](https://github.com/WayfaringBloke/dnd/blob/main/assets/rnpc/Ronald.png?raw=true)
@@ -81,8 +82,8 @@ n: s, h: 15, m:  7, a: d2, w: d6, d: 14"""
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjM2MTM2MDgsLTEwMzY1NDEwODcsMT
-k4MTM5ODU3NywxNDc1NzAxNjg4LC03MDcyODIyODYsLTE2OTIw
-NDc2ODMsLTEwNTI4ODE4MDIsLTM1MTc5MTU0NiwtMjA2ODcwNj
-UzMF19
+eyJoaXN0b3J5IjpbMjExNzA2MzE2NywtMTc2MzYxMzYwOCwtMT
+AzNjU0MTA4NywxOTgxMzk4NTc3LDE0NzU3MDE2ODgsLTcwNzI4
+MjI4NiwtMTY5MjA0NzY4MywtMTA1Mjg4MTgwMiwtMzUxNzkxNT
+Q2LC0yMDY4NzA2NTMwXX0=
 -->
