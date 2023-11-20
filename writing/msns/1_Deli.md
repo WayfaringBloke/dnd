@@ -48,7 +48,10 @@ https://excalidraw.com/#json=aoOKfdCuEwjaHaxY6TBvh,BAg73HA33RGEFGlkNrM93Q
 - In one corner there is 2 giant piles of potatoes, one peeled the other unpeeled
 - Along the far wall a deep fat fryer quietly fizzling
 - Strong smell of fish & raw beef (blood)
-- Two cooks in there 
+- Two cooks in there, one throws knives at you the other has a d4a pistol in his waistband
+
+## Freezer
+- Secured by a thick steel door, the insulation also 
 
 
 # Assets 
@@ -66,7 +69,7 @@ n: s, h: 15, m:  7, a: d2, w: d6, d: 14"""
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkzMjkzMjkwLC03MDcyODIyODYsLTE2OT
-IwNDc2ODMsLTEwNTI4ODE4MDIsLTM1MTc5MTU0NiwtMjA2ODcw
-NjUzMF19
+eyJoaXN0b3J5IjpbMTQ3NTcwMTY4OCwtNzA3MjgyMjg2LC0xNj
+kyMDQ3NjgzLC0xMDUyODgxODAyLC0zNTE3OTE1NDYsLTIwNjg3
+MDY1MzBdfQ==
 -->
