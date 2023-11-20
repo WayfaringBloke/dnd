@@ -38,7 +38,9 @@ https://excalidraw.com/#json=aoOKfdCuEwjaHaxY6TBvh,BAg73HA33RGEFGlkNrM93Q
 - A jarring amount of pickles.
 
 ## Closet
-A mix of kitchen wear. A few clean suits. An SMG (d4a). 
+- A mix of kitchen wear. 
+- A few clean suits. 
+- An SMG (d4a). 
 
 ## Kitchen
 All stainless steel. Pots dangle from the ceiling above the central table
@@ -58,7 +60,7 @@ n: s, h: 15, m:  7, a: d2, w: d6, d: 14"""
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNjA0NTkxMiwtNzA3MjgyMjg2LC0xNj
+eyJoaXN0b3J5IjpbLTI1ODExMTk4OSwtNzA3MjgyMjg2LC0xNj
 kyMDQ3NjgzLC0xMDUyODgxODAyLC0zNTE3OTE1NDYsLTIwNjg3
 MDY1MzBdfQ==
 -->
