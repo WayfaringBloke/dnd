@@ -53,7 +53,9 @@ https://excalidraw.com/#json=aoOKfdCuEwjaHaxY6TBvh,BAg73HA33RGEFGlkNrM93Q
 ## Freezer
 - Secured by a thick steel door
 - Insulation blocks out noise from the outside
-- Has 
+- Has 3 gangsters in there trying to get gems out of the bellies of pigs, cows, and fish.
+- Blood spilled everywhere
+- All 3 are wearing the white clean suits, bloodied with their bad 
 
 
 # Assets 
@@ -71,7 +73,7 @@ n: s, h: 15, m:  7, a: d2, w: d6, d: 14"""
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MTM4MzYzMCwxNDc1NzAxNjg4LC03MD
+eyJoaXN0b3J5IjpbMjA1OTEyMDc0NSwxNDc1NzAxNjg4LC03MD
 cyODIyODYsLTE2OTIwNDc2ODMsLTEwNTI4ODE4MDIsLTM1MTc5
 MTU0NiwtMjA2ODcwNjUzMF19
 -->
