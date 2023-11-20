@@ -14,15 +14,7 @@
 	- His buddies pop out to waste you
 	- Shotgun, Mac1, Mac2, Long Gun
 5. Bar Debrief
-	- Walk up see crap game outside played with cops
-	- Enter busy bar filled with working class looking people all chattering and drinking, bored
-	- Silence falls as players enter, fear
-	- Cowboy gives round on house and says mercs are with him
-	- The bar sells a steriod doped whisky
-	- Cowboy asks how many people you killed
-	- Takes gems, pays d2k creds per player
-	- Oppurtunity for players to ask cowboy about weirdness in setup
-	- THERE'S A PRICE ON YOUR HEAD, best lay low in the basement for tonight, owner wasn't rich so could only afford to tender your bounty for 48h
+
 
 # [Map](https://excalidraw.com/#json=xgMIIPRl_JF1cCs1ob_dr,m9zYhlCSyjqThV65g_NFsg)
 # Encounter 1
@@ -72,6 +64,19 @@
 - Painting on the wall with jewels in the eyes
 - Push them in and under his bed pops open, Uncut Gem is in there
 
+# Encounter 2
+	
+- Walk up see crap game outside played with cops
+- Enter busy bar filled with working class looking people all chattering and drinking, bored
+- Silence falls as players enter, fear
+- Cowboy gives round on house and says mercs are with him
+- The bar sells a steriod doped whisky
+- Cowboy asks how many people you killed
+- Takes gems, pays d2k creds per player
+- Oppurtunity for players to ask cowboy about weirdness in setup
+- THERE'S A PRICE ON YOUR HEAD, best lay low in the basement for tonight, owner wasn't rich so could only afford to tender your bounty for 48h
+# Encounter 3
+
 # Assets 
 ![manager](https://github.com/WayfaringBloke/dnd/blob/main/assets/m1/manager.png?raw=true)![Ronald](https://github.com/WayfaringBloke/dnd/blob/main/assets/rnpc/Ronald.png?raw=true)
 # Combat Dumps
@@ -91,9 +96,9 @@ n: s, h: 15, m:  7, a: d2, w: d6, d: 14"""
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MTI4MjUzMSwtMTMxMDg0MTM1OSwxMj
-gzMTkyMzMwLC0xMzMyNzUzOTU0LC0xNzYzNjEzNjA4LC0xMDM2
-NTQxMDg3LDE5ODEzOTg1NzcsMTQ3NTcwMTY4OCwtNzA3MjgyMj
-g2LC0xNjkyMDQ3NjgzLC0xMDUyODgxODAyLC0zNTE3OTE1NDYs
-LTIwNjg3MDY1MzBdfQ==
+eyJoaXN0b3J5IjpbNzc4OTYyODE4LDE5NTEyODI1MzEsLTEzMT
+A4NDEzNTksMTI4MzE5MjMzMCwtMTMzMjc1Mzk1NCwtMTc2MzYx
+MzYwOCwtMTAzNjU0MTA4NywxOTgxMzk4NTc3LDE0NzU3MDE2OD
+gsLTcwNzI4MjI4NiwtMTY5MjA0NzY4MywtMTA1Mjg4MTgwMiwt
+MzUxNzkxNTQ2LC0yMDY4NzA2NTMwXX0=
 -->
