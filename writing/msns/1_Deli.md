@@ -30,7 +30,7 @@ https://excalidraw.com/#json=aoOKfdCuEwjaHaxY6TBvh,BAg73HA33RGEFGlkNrM93Q
 ## Dining Area
 A narrow corridor leads up to a cramped dining area, with a bar & stools facing the wall. There's a large soda vending machine and a deli counter with a jersey wiseguy stood behind it.
 
-The resturaunt serves primarily deli food, but also hash browns and a smattering of chineses 
+The resturaunt serves primarily deli food, but also hash browns and a smattering of chinese dishes. In the drinks cabinet there's literally only two things: cans of OrangeLime, a popular soda, and Cold Leprechaun's Brew, a mix of 
 
 ## Pantry
 Heavy bags of flour, cornstarch, and various ingredients. A jarring amount of pickles.
@@ -56,6 +56,6 @@ n: s, h: 15, m:  7, a: d2, w: d6, d: 14"""
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2ODk3Mjg0MiwtMTA1Mjg4MTgwMiwtMz
-UxNzkxNTQ2LC0yMDY4NzA2NTMwXX0=
+eyJoaXN0b3J5IjpbMzMyNTA4NzM1LC0xMDUyODgxODAyLC0zNT
+E3OTE1NDYsLTIwNjg3MDY1MzBdfQ==
 -->
