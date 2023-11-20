@@ -29,9 +29,10 @@
 
 ## Dining Area
 - A narrow corridor leads up to a cramped dining area, with a bar & stools facing the wall.
-- There's a large soda vending machine and a deli counter with a posh brit stood behind it.
+- There's a large soda vending machine and a deli counter with a posh brit stood behind it. Called Roger Cohen.
 - The resturaunt serves primarily deli food, but also hash browns and a smattering of british dishes (toad in the hole, full breakfast, bangers & mash, fish & chips). 
 - In the drinks cabinet there's literally only two things: cans of OrangeLime, a popular soda, and Cold Leprechaun's Brew, a 50/50 mix of whiskey and strong black coffee. Fucking exclusivity deals.
+- Gigantic Cash Only Sign
 - **SECURITY:** Gun that fires through wall in narrow corridor
 
 ## Pantry
@@ -63,7 +64,7 @@
 - Central table holds a chopping board and a little tupperware where the bloody gems have been collected.
 
 ## Apartment
-- Owner hiding upstairs, not going to fight you unless you make a problem of it. **WILL SILENT ALARM FREEZER GUYS TO COME**
+- Owner hiding upstairs, not going to fight you unless you make a problem of it. Called Won **WILL SILENT ALARM FREEZER GUYS TO COME**
 - Painting on the wall with jewels in the eyes
 - Push them in and under his bed pops open, Uncut Gem is in there
 
@@ -86,8 +87,9 @@ n: s, h: 15, m:  7, a: d2, w: d6, d: 14"""
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MzE5MjMzMCwtMTMzMjc1Mzk1NCwtMT
-c2MzYxMzYwOCwtMTAzNjU0MTA4NywxOTgxMzk4NTc3LDE0NzU3
-MDE2ODgsLTcwNzI4MjI4NiwtMTY5MjA0NzY4MywtMTA1Mjg4MT
-gwMiwtMzUxNzkxNTQ2LC0yMDY4NzA2NTMwXX0=
+eyJoaXN0b3J5IjpbLTEzMTA4NDEzNTksMTI4MzE5MjMzMCwtMT
+MzMjc1Mzk1NCwtMTc2MzYxMzYwOCwtMTAzNjU0MTA4NywxOTgx
+Mzk4NTc3LDE0NzU3MDE2ODgsLTcwNzI4MjI4NiwtMTY5MjA0Nz
+Y4MywtMTA1Mjg4MTgwMiwtMzUxNzkxNTQ2LC0yMDY4NzA2NTMw
+XX0=
 -->
