@@ -25,7 +25,7 @@
 	- THERE'S A PRICE ON YOUR HEAD, best lay low in the basement for tonight, owner wasn't rich so could only afford to tender your bounty for 48h
 
 # [Map](https://excalidraw.com/#json=xgMIIPRl_JF1cCs1ob_dr,m9zYhlCSyjqThV65g_NFsg)
-
+# Encounter 1
 
 ## Dining Area
 - A narrow corridor leads up to a cramped dining area, with a bar & stools facing the wall.
@@ -34,6 +34,10 @@
 - In the drinks cabinet there's literally only two things: cans of OrangeLime, a popular soda, and Cold Leprechaun's Brew, a 50/50 mix of whiskey and strong black coffee. Fucking exclusivity deals.
 - Gigantic Cash Only Sign
 - **SECURITY:** Gun that fires through wall in narrow corridor
+
+## Bathroom
+- Occupied by 4th gang member being very sick.
+- Sink on one wall, 
 
 ## Pantry
 - Heavy bags of flour, cornstarch, and various ingredients.
@@ -87,9 +91,9 @@ n: s, h: 15, m:  7, a: d2, w: d6, d: 14"""
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTA4NDEzNTksMTI4MzE5MjMzMCwtMT
-MzMjc1Mzk1NCwtMTc2MzYxMzYwOCwtMTAzNjU0MTA4NywxOTgx
-Mzk4NTc3LDE0NzU3MDE2ODgsLTcwNzI4MjI4NiwtMTY5MjA0Nz
-Y4MywtMTA1Mjg4MTgwMiwtMzUxNzkxNTQ2LC0yMDY4NzA2NTMw
-XX0=
+eyJoaXN0b3J5IjpbMTk1MTI4MjUzMSwtMTMxMDg0MTM1OSwxMj
+gzMTkyMzMwLC0xMzMyNzUzOTU0LC0xNzYzNjEzNjA4LC0xMDM2
+NTQxMDg3LDE5ODEzOTg1NzcsMTQ3NTcwMTY4OCwtNzA3MjgyMj
+g2LC0xNjkyMDQ3NjgzLC0xMDUyODgxODAyLC0zNTE3OTE1NDYs
+LTIwNjg3MDY1MzBdfQ==
 -->
