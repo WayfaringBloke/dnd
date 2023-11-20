@@ -56,7 +56,9 @@ https://excalidraw.com/#json=aoOKfdCuEwjaHaxY6TBvh,BAg73HA33RGEFGlkNrM93Q
 - Has 3 gangsters in there trying to get gems out of the bellies of pigs, cows, and fish.
 - Blood spilled everywhere
 - All 3 are wearing the white clean suits, bloodied. 
-- Carrying a large machete and d6a pistols
+- Carrying a large machete/axe (d8) and pistols (d6)
+- Shelves full of almost everything you saw on the menu, nothing is fresh prepared here.
+- 
 
 
 # Assets 
@@ -74,7 +76,7 @@ n: s, h: 15, m:  7, a: d2, w: d6, d: 14"""
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg1MzE0MzQ3LDE0NzU3MDE2ODgsLTcwNz
-I4MjI4NiwtMTY5MjA0NzY4MywtMTA1Mjg4MTgwMiwtMzUxNzkx
-NTQ2LC0yMDY4NzA2NTMwXX0=
+eyJoaXN0b3J5IjpbNjI1NTM4OTMsMTQ3NTcwMTY4OCwtNzA3Mj
+gyMjg2LC0xNjkyMDQ3NjgzLC0xMDUyODgxODAyLC0zNTE3OTE1
+NDYsLTIwNjg3MDY1MzBdfQ==
 -->
