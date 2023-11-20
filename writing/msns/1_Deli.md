@@ -1,19 +1,8 @@
 # Deli
 ## Mission
 0. Cowboy explains job in car:
-	- Hitting a jew
-	- (sprung on players at last minute) Jewels are subsurface laser etched, worthless without the proper equipment to remove (which the cowboy also doesn't have, he just wants shiny rocks & to test crew)
-	- Escape via sewers to avoid being caught on surveillance (again cowboy is lying, police don't care, is just testing loyalty)
-	- Cowboy has set up meeting as jeweller is invite only (he does this through a different member of the resistance)
-	- (Cowboy is motivated by jeweller witnessing against one of his friends 7 years ago)
-2. Cowboy explains job in car:
-	- 2 Employees
-	- "Light" Security
-	- After opaque red stone in central casing
-	- (sprung on players at last minute) Jewels are subsurface laser etched, worthless without the proper equipment to remove (which the cowboy also doesn't have, he just wants shiny rocks & to test crew)
-	- Escape via sewers to avoid being caught on surveillance (again cowboy is lying, police don't care, is just testing loyalty)
-	- Cowboy has set up meeting as jeweller is invite only (he does this through a different member of the resistance)
-	- (Cowboy is motivated by jeweller witnessing against one of his friends 7 years ago)
+	- Trying to steal a red gem from probably the upstairs apartment.
+	- (Cowboy is motivated by jeweller witnessing against one of his friends 7 years ago, and lost stone to him 5 years ago)
 3. Casing
 	- 2 NPCs, Cashier and manager in back
 		- Manager is a bit of a hardass, extremely posh
@@ -83,5 +72,5 @@ n: s, h: 15, m:  7, a: d2, w: d6, d: 14"""
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNjc0MDgsLTIwNjg3MDY1MzBdfQ==
+eyJoaXN0b3J5IjpbLTM1MTc5MTU0NiwtMjA2ODcwNjUzMF19
 -->
