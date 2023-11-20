@@ -28,18 +28,20 @@
 https://excalidraw.com/#json=aoOKfdCuEwjaHaxY6TBvh,BAg73HA33RGEFGlkNrM93Q
 
 ## Dining Area
-A narrow corridor leads up to a cramped dining area, with a bar & stools facing the wall. There's a large soda vending machine and a deli counter with a posh brit stood behind it.
-
-The resturaunt serves primarily deli food, but also hash browns and a smattering of british dishes (toad in the hole, full breakfast, bangers & mash, fish & chips). In the drinks cabinet there's literally only two things: cans of OrangeLime, a popular soda, and Cold Leprechaun's Brew, a 50/50 mix of whiskey and strong black coffee.
+- A narrow corridor leads up to a cramped dining area, with a bar & stools facing the wall.
+- There's a large soda vending machine and a deli counter with a posh brit stood behind it.
+- The resturaunt serves primarily deli food, but also hash browns and a smattering of british dishes (toad in the hole, full breakfast, bangers & mash, fish & chips). 
+- In the drinks cabinet there's literally only two things: cans of OrangeLime, a popular soda, and Cold Leprechaun's Brew, a 50/50 mix of whiskey and strong black coffee.
 
 ## Pantry
-Heavy bags of flour, cornstarch, and various ingredients. A jarring amount of pickles.
+- Heavy bags of flour, cornstarch, and various ingredients.
+- A jarring amount of pickles.
 
 ## Closet
 A mix of kitchen wear. A few clean suits. An SMG (d4a). 
 
 ## Kitchen
-
+All stainless steel. Pots dangle from the ceiling above the central table
 
 # Assets 
 ![manager](https://github.com/WayfaringBloke/dnd/blob/main/assets/m1/manager.png?raw=true)![Ronald](https://github.com/WayfaringBloke/dnd/blob/main/assets/rnpc/Ronald.png?raw=true)
@@ -56,6 +58,7 @@ n: s, h: 15, m:  7, a: d2, w: d6, d: 14"""
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNzI4MjI4NiwtMTY5MjA0NzY4MywtMT
-A1Mjg4MTgwMiwtMzUxNzkxNTQ2LC0yMDY4NzA2NTMwXX0=
+eyJoaXN0b3J5IjpbMjEwNjA0NTkxMiwtNzA3MjgyMjg2LC0xNj
+kyMDQ3NjgzLC0xMDUyODgxODAyLC0zNTE3OTE1NDYsLTIwNjg3
+MDY1MzBdfQ==
 -->
