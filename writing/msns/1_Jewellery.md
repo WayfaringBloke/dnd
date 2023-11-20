@@ -1,4 +1,5 @@
-# eelery# Jewellery
+# Restaurant
+
 
 ## Mission
 0. Cowboy explains job in car:
@@ -64,6 +65,6 @@ n: s, h: 15, m:  7, a: d2, w: d6, d: 14"""
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODExODI3MTQ3LDE4MjUwMzgwODAsLTEwMD
-MzNTMzNjIsMTMwMTcwNjEwMV19
+eyJoaXN0b3J5IjpbMjAyMDMxNDkyNCw4MTE4MjcxNDcsMTgyNT
+AzODA4MCwtMTAwMzM1MzM2MiwxMzAxNzA2MTAxXX0=
 -->
