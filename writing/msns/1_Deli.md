@@ -55,7 +55,8 @@ https://excalidraw.com/#json=aoOKfdCuEwjaHaxY6TBvh,BAg73HA33RGEFGlkNrM93Q
 - Insulation blocks out noise from the outside
 - Has 3 gangsters in there trying to get gems out of the bellies of pigs, cows, and fish.
 - Blood spilled everywhere
-- All 3 are wearing the white clean suits, bloodied with their bad 
+- All 3 are wearing the white clean suits, bloodied. 
+- Carrying a large machete and d6a pistols
 
 
 # Assets 
@@ -73,7 +74,7 @@ n: s, h: 15, m:  7, a: d2, w: d6, d: 14"""
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1OTEyMDc0NSwxNDc1NzAxNjg4LC03MD
-cyODIyODYsLTE2OTIwNDc2ODMsLTEwNTI4ODE4MDIsLTM1MTc5
-MTU0NiwtMjA2ODcwNjUzMF19
+eyJoaXN0b3J5IjpbMzg1MzE0MzQ3LDE0NzU3MDE2ODgsLTcwNz
+I4MjI4NiwtMTY5MjA0NzY4MywtMTA1Mjg4MTgwMiwtMzUxNzkx
+NTQ2LC0yMDY4NzA2NTMwXX0=
 -->
