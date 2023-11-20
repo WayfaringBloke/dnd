@@ -1,5 +1,5 @@
 # Restaurant
-
+## 
 
 ## Mission
 0. Cowboy explains job in car:
@@ -50,6 +50,8 @@
 	- THERE'S A PRICE ON YOUR HEAD, best lay low in the basement for tonight, owner wasn't rich so could only afford to tender your bounty for 48h
 
 # [Map](https://excalidraw.com/#json=W_biwfYzY6NURPXNTLv3z,WfTky5C1MT0JoVaBKRASdg)
+## Dining Area
+A narrow corridor leads up to a cramped dining area
 # Assets 
 ![manager](https://github.com/WayfaringBloke/dnd/blob/main/assets/m1/manager.png?raw=true)![Ronald](https://github.com/WayfaringBloke/dnd/blob/main/assets/rnpc/Ronald.png?raw=true)
 # Combat Dumps
@@ -65,6 +67,7 @@ n: s, h: 15, m:  7, a: d2, w: d6, d: 14"""
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMDMxNDkyNCw4MTE4MjcxNDcsMTgyNT
-AzODA4MCwtMTAwMzM1MzM2MiwxMzAxNzA2MTAxXX0=
+eyJoaXN0b3J5IjpbLTk3NTA5NTgwMiwyMDIwMzE0OTI0LDgxMT
+gyNzE0NywxODI1MDM4MDgwLC0xMDAzMzUzMzYyLDEzMDE3MDYx
+MDFdfQ==
 -->
