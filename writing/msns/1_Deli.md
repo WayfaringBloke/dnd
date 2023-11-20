@@ -58,7 +58,9 @@ https://excalidraw.com/#json=aoOKfdCuEwjaHaxY6TBvh,BAg73HA33RGEFGlkNrM93Q
 - All 3 are wearing the white clean suits, bloodied. 
 - Carrying a large machete/axe (d8) and pistols (d6)
 - Shelves full of almost everything you saw on the menu, nothing is fresh prepared here.
-- 
+- Central table holds a chopping board and a little tupperware where the bloody gems have been collected.
+
+##  
 
 
 # Assets 
@@ -76,7 +78,7 @@ n: s, h: 15, m:  7, a: d2, w: d6, d: 14"""
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI1NTM4OTMsMTQ3NTcwMTY4OCwtNzA3Mj
-gyMjg2LC0xNjkyMDQ3NjgzLC0xMDUyODgxODAyLC0zNTE3OTE1
-NDYsLTIwNjg3MDY1MzBdfQ==
+eyJoaXN0b3J5IjpbNjY4MzAzNjQ0LDE0NzU3MDE2ODgsLTcwNz
+I4MjI4NiwtMTY5MjA0NzY4MywtMTA1Mjg4MTgwMiwtMzUxNzkx
+NTQ2LC0yMDY4NzA2NTMwXX0=
 -->
