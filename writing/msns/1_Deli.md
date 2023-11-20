@@ -31,7 +31,7 @@ https://excalidraw.com/#json=aoOKfdCuEwjaHaxY6TBvh,BAg73HA33RGEFGlkNrM93Q
 - A narrow corridor leads up to a cramped dining area, with a bar & stools facing the wall.
 - There's a large soda vending machine and a deli counter with a posh brit stood behind it.
 - The resturaunt serves primarily deli food, but also hash browns and a smattering of british dishes (toad in the hole, full breakfast, bangers & mash, fish & chips). 
-- In the drinks cabinet there's literally only two things: cans of OrangeLime, a popular soda, and Cold Leprechaun's Brew, a 50/50 mix of whiskey and strong black coffee.
+- In the drinks cabinet there's literally only two things: cans of OrangeLime, a popular soda, and Cold Leprechaun's Brew, a 50/50 mix of whiskey and strong black coffee. Fucking exclusivity deals.
 
 ## Pantry
 - Heavy bags of flour, cornstarch, and various ingredients.
@@ -78,7 +78,7 @@ n: s, h: 15, m:  7, a: d2, w: d6, d: 14"""
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY4MzAzNjQ0LDE0NzU3MDE2ODgsLTcwNz
+eyJoaXN0b3J5IjpbOTM1NTkyMjkxLDE0NzU3MDE2ODgsLTcwNz
 I4MjI4NiwtMTY5MjA0NzY4MywtMTA1Mjg4MTgwMiwtMzUxNzkx
 NTQ2LC0yMDY4NzA2NTMwXX0=
 -->
