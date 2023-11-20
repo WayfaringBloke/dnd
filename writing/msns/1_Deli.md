@@ -1,13 +1,12 @@
 # Deli
 ## Mission
 0. Cowboy explains job in car:
-	- "Light" Security
-	- After opaque stone stored on the 2nd floor
+	- Hitting a jew
 	- (sprung on players at last minute) Jewels are subsurface laser etched, worthless without the proper equipment to remove (which the cowboy also doesn't have, he just wants shiny rocks & to test crew)
 	- Escape via sewers to avoid being caught on surveillance (again cowboy is lying, police don't care, is just testing loyalty)
 	- Cowboy has set up meeting as jeweller is invite only (he does this through a different member of the resistance)
 	- (Cowboy is motivated by jeweller witnessing against one of his friends 7 years ago)
-0. Cowboy explains job in car:
+2. Cowboy explains job in car:
 	- 2 Employees
 	- "Light" Security
 	- After opaque red stone in central casing
@@ -15,7 +14,7 @@
 	- Escape via sewers to avoid being caught on surveillance (again cowboy is lying, police don't care, is just testing loyalty)
 	- Cowboy has set up meeting as jeweller is invite only (he does this through a different member of the resistance)
 	- (Cowboy is motivated by jeweller witnessing against one of his friends 7 years ago)
-1. Casing
+3. Casing
 	- 2 NPCs, Cashier and manager in back
 		- Manager is a bit of a hardass, extremely posh
 			- Gives bit about how all their jewellery is non-technological
@@ -24,13 +23,13 @@
 			- Beautiful cufflinks with a blue-green shimmer
 			- Uncut Black Opal
 			- Jewel Encrusted Cane
-2. Action (is alarm reached?)
+4. Action (is alarm reached?)
 	- If alarm then:
 			**Turret xeapon: Machine Gun d6a (Drops down from ceiling)
 			**LMG on Motor:** <br> HP: 3 Morale: - Weapon: d4a
 			Fires into cloakroom for d4+2 rounds then runs out of ammo.
 		*d8
-3. Unlock Display cases
+5. Unlock Display cases
 	- Alarm = Smash
 	- Convince Manager = DR20 Presence Check / DR19 Toughness Check
 	- Hurt Manager = DR10 Strength
@@ -84,5 +83,5 @@ n: s, h: 15, m:  7, a: d2, w: d6, d: 14"""
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjg3MDY1MzBdfQ==
+eyJoaXN0b3J5IjpbMTMxNjc0MDgsLTIwNjg3MDY1MzBdfQ==
 -->
