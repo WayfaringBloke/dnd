@@ -37,7 +37,7 @@ https://excalidraw.com/#json=aoOKfdCuEwjaHaxY6TBvh,BAg73HA33RGEFGlkNrM93Q
 ## Pantry
 - Heavy bags of flour, cornstarch, and various ingredients.
 - A jarring amount of pickles. It smells entirely too much of pickles.
-- Just ouside it in the coridoor is the opaque red stone in a display case 
+- Just ouside it in the coridoor is the opaque red stone in a display case (with alarmed sticker)
 
 ## Closet
 - A mix of kitchen wear. 
@@ -71,9 +71,14 @@ https://excalidraw.com/#json=aoOKfdCuEwjaHaxY6TBvh,BAg73HA33RGEFGlkNrM93Q
 ![manager](https://github.com/WayfaringBloke/dnd/blob/main/assets/m1/manager.png?raw=true)![Ronald](https://github.com/WayfaringBloke/dnd/blob/main/assets/rnpc/Ronald.png?raw=true)
 # Combat Dumps
 ```py
-store = """n: m, h: 12, m: 10, a: d0, w: d6, d: 12
-n: t1, h: 12, m: 12, a: d2, w: d6, d: 10
-n: t2, h: 12, m: 12, a: d2, w: d6, d: 10"""
+g1 g2 g3 g4
+c1 c2
+o
+r
+cohen_wong = """n: g1, h: 12, m: 10, a: d0, w: d6, d: 12
+n: g2, h: 12, m: 12, a: d2, w: d6, d: 10
+n: t2, h: 12, m: 12, a: d2, w: d6, d: 10
+"""
 
 carjack = """n: l, h: 25, m: 9, a: d6, w: d6a, d: 12
 n: m1, h: 12, m: 6, a: d2, w: d6a, d: 10
@@ -82,8 +87,8 @@ n: s, h: 15, m:  7, a: d2, w: d6, d: 14"""
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNzA2MzE2NywtMTc2MzYxMzYwOCwtMT
-AzNjU0MTA4NywxOTgxMzk4NTc3LDE0NzU3MDE2ODgsLTcwNzI4
-MjI4NiwtMTY5MjA0NzY4MywtMTA1Mjg4MTgwMiwtMzUxNzkxNT
-Q2LC0yMDY4NzA2NTMwXX0=
+eyJoaXN0b3J5IjpbLTE2ODQyNTU3MDAsLTE3NjM2MTM2MDgsLT
+EwMzY1NDEwODcsMTk4MTM5ODU3NywxNDc1NzAxNjg4LC03MDcy
+ODIyODYsLTE2OTIwNDc2ODMsLTEwNTI4ODE4MDIsLTM1MTc5MT
+U0NiwtMjA2ODcwNjUzMF19
 -->
