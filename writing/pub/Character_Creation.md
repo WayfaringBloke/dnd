@@ -71,7 +71,7 @@ You swore an oath to:
 - Yourself
 - Exclusion Zone
 - Nature
-- Temperance
+- Temperance (Sobriety)
 
 ### Forsaken Gang-Goon
 You're loyal to your gang because:
@@ -79,10 +79,10 @@ You're loyal to your gang because:
 - They agree with you politically.
 - You're infatuated with a higher up.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMDc5ODgxMywtMTgwMjY4MjM4NCwtMT
-Q4NTU2OTYxOCwxNTY1ODI2Mjg4LC0xMzQyNTM5ODc0LC0xMjQw
-MDkzNDA3LDM5MDE3MTAzMCwxMDE2Nzc3MDQ2LDE5MDA0NDkxOD
-YsMzM2NjYwOTYxLDEzMjU4NzE2MDksMTA1MDgxODI4NCw0MDM4
-NTA4NzQsLTE5MTMzNDI5NCwyMDYzNTI3Mjc1LDk5Mzc1MDUxN1
-19
+eyJoaXN0b3J5IjpbLTIyNjM0ODAzOSwyMDEwNzk4ODEzLC0xOD
+AyNjgyMzg0LC0xNDg1NTY5NjE4LDE1NjU4MjYyODgsLTEzNDI1
+Mzk4NzQsLTEyNDAwOTM0MDcsMzkwMTcxMDMwLDEwMTY3NzcwND
+YsMTkwMDQ0OTE4NiwzMzY2NjA5NjEsMTMyNTg3MTYwOSwxMDUw
+ODE4Mjg0LDQwMzg1MDg3NCwtMTkxMzM0Mjk0LDIwNjM1MjcyNz
+UsOTkzNzUwNTE3XX0=
 -->
