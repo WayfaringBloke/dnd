@@ -63,7 +63,8 @@ https://excalidraw.com/#json=aoOKfdCuEwjaHaxY6TBvh,BAg73HA33RGEFGlkNrM93Q
 - Central table holds a chopping board and a little tupperware where the bloody gems have been collected.
 
 ## Apartment
-
+- Owner hiding upstairs, not going to fight you unless you make a problem of it. **WILL SILENT ALARM FREEZER GUYS TO COME**
+- 
 
 # Assets 
 ![manager](https://github.com/WayfaringBloke/dnd/blob/main/assets/m1/manager.png?raw=true)![Ronald](https://github.com/WayfaringBloke/dnd/blob/main/assets/rnpc/Ronald.png?raw=true)
@@ -80,7 +81,8 @@ n: s, h: 15, m:  7, a: d2, w: d6, d: 14"""
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzY1NDEwODcsMTk4MTM5ODU3NywxND
-c1NzAxNjg4LC03MDcyODIyODYsLTE2OTIwNDc2ODMsLTEwNTI4
-ODE4MDIsLTM1MTc5MTU0NiwtMjA2ODcwNjUzMF19
+eyJoaXN0b3J5IjpbLTE3NjM2MTM2MDgsLTEwMzY1NDEwODcsMT
+k4MTM5ODU3NywxNDc1NzAxNjg4LC03MDcyODIyODYsLTE2OTIw
+NDc2ODMsLTEwNTI4ODE4MDIsLTM1MTc5MTU0NiwtMjA2ODcwNj
+UzMF19
 -->
