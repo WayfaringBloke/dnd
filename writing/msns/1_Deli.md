@@ -24,8 +24,8 @@
 	- Oppurtunity for players to ask cowboy about weirdness in setup
 	- THERE'S A PRICE ON YOUR HEAD, best lay low in the basement for tonight, owner wasn't rich so could only afford to tender your bounty for 48h
 
-# [Map](https://excalidraw.com/#json=W_biwfYzY6NURPXNTLv3z,WfTky5C1MT0JoVaBKRASdg)
-https://excalidraw.com/#json=aoOKfdCuEwjaHaxY6TBvh,BAg73HA33RGEFGlkNrM93Q
+# [Map](https://excalidraw.com/#json=xgMIIPRl_JF1cCs1ob_dr,m9zYhlCSyjqThV65g_NFsg)
+
 
 ## Dining Area
 - A narrow corridor leads up to a cramped dining area, with a bar & stools facing the wall.
@@ -86,8 +86,8 @@ n: s, h: 15, m:  7, a: d2, w: d6, d: 14"""
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzI3NTM5NTQsLTE3NjM2MTM2MDgsLT
-EwMzY1NDEwODcsMTk4MTM5ODU3NywxNDc1NzAxNjg4LC03MDcy
-ODIyODYsLTE2OTIwNDc2ODMsLTEwNTI4ODE4MDIsLTM1MTc5MT
-U0NiwtMjA2ODcwNjUzMF19
+eyJoaXN0b3J5IjpbMTI4MzE5MjMzMCwtMTMzMjc1Mzk1NCwtMT
+c2MzYxMzYwOCwtMTAzNjU0MTA4NywxOTgxMzk4NTc3LDE0NzU3
+MDE2ODgsLTcwNzI4MjI4NiwtMTY5MjA0NzY4MywtMTA1Mjg4MT
+gwMiwtMzUxNzkxNTQ2LC0yMDY4NzA2NTMwXX0=
 -->
