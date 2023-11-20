@@ -75,9 +75,10 @@ g1 g2 g3 g4
 c1 c2
 o
 r
-cohen_wong = """n: g1, h: 12, m: 10, a: d0, w: d6, d: 12
-n: g2, h: 12, m: 12, a: d2, w: d6, d: 10
-n: t2, h: 12, m: 12, a: d2, w: d6, d: 10
+cohen_wong = """n: g1, h: 15, m: 8, a: d0, w: d6, d: 12
+n: g2, h: 12, m: 7, a: d0, w: d6, d: 10
+n: g3, h: 12, m: 7, a: d0, w: d8, d: 10
+n: g4, h: 12, m: 6, a: d2 
 """
 
 carjack = """n: l, h: 25, m: 9, a: d6, w: d6a, d: 12
@@ -87,7 +88,7 @@ n: s, h: 15, m:  7, a: d2, w: d6, d: 14"""
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODQyNTU3MDAsLTE3NjM2MTM2MDgsLT
+eyJoaXN0b3J5IjpbLTE3NDQ3NDQ5NzAsLTE3NjM2MTM2MDgsLT
 EwMzY1NDEwODcsMTk4MTM5ODU3NywxNDc1NzAxNjg4LC03MDcy
 ODIyODYsLTE2OTIwNDc2ODMsLTEwNTI4ODE4MDIsLTM1MTc5MT
 U0NiwtMjA2ODcwNjUzMF19
