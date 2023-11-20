@@ -50,6 +50,7 @@
 	- THERE'S A PRICE ON YOUR HEAD, best lay low in the basement for tonight, owner wasn't rich so could only afford to tender your bounty for 48h
 
 # [Map](https://excalidraw.com/#json=W_biwfYzY6NURPXNTLv3z,WfTky5C1MT0JoVaBKRASdg)
+https://excalidraw.com/#json=aoOKfdCuEwjaHaxY6TBvh,BAg73HA33RGEFGlkNrM93Q
 ## Dining Area
 A narrow corridor leads up to a cramped dining area, with a bar & stools facing the wall. There's a large soda vending machine and a deli counter with a jersey wiseguy stood behind it. He sells corned beef sandwiches. His overall demeanour suggests he's not too keen on taking this job.
 
@@ -77,7 +78,7 @@ n: s, h: 15, m:  7, a: d2, w: d6, d: 14"""
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTc3NjU5MDYsLTkzOTQwNTE0MCwyMD
-IwMzE0OTI0LDgxMTgyNzE0NywxODI1MDM4MDgwLC0xMDAzMzUz
-MzYyLDEzMDE3MDYxMDFdfQ==
+eyJoaXN0b3J5IjpbMTkxNzg2NDMxNywtMTMxNzc2NTkwNiwtOT
+M5NDA1MTQwLDIwMjAzMTQ5MjQsODExODI3MTQ3LDE4MjUwMzgw
+ODAsLTEwMDMzNTMzNjIsMTMwMTcwNjEwMV19
 -->
