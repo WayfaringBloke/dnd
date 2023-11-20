@@ -51,7 +51,9 @@ https://excalidraw.com/#json=aoOKfdCuEwjaHaxY6TBvh,BAg73HA33RGEFGlkNrM93Q
 - Two cooks in there, one throws knives at you the other has a d4a pistol in his waistband
 
 ## Freezer
-- Secured by a thick steel door, the insulation also 
+- Secured by a thick steel door
+- Insulation blocks out noise from the outside
+- Has 
 
 
 # Assets 
@@ -69,7 +71,7 @@ n: s, h: 15, m:  7, a: d2, w: d6, d: 14"""
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NTcwMTY4OCwtNzA3MjgyMjg2LC0xNj
-kyMDQ3NjgzLC0xMDUyODgxODAyLC0zNTE3OTE1NDYsLTIwNjg3
-MDY1MzBdfQ==
+eyJoaXN0b3J5IjpbLTM4MTM4MzYzMCwxNDc1NzAxNjg4LC03MD
+cyODIyODYsLTE2OTIwNDc2ODMsLTEwNTI4ODE4MDIsLTM1MTc5
+MTU0NiwtMjA2ODcwNjUzMF19
 -->
