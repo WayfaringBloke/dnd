@@ -4,8 +4,7 @@
 	- Trying to steal a red gem from probably the upstairs apartment.
 	- (Cowboy is motivated by jeweller witnessing against one of his friends 7 years ago, and lost stone to him 5 years ago)
 2. Casing
-	- 1 guy in front unenthused sells you corned beef sandwiches
-	- Vending machine with drinks 
+ Cohen and Wong
 3. Action
 	- Storm the back of the resturant, killing goons room by room
 	- 6 in the building total + guy out front
@@ -60,7 +59,7 @@
 - Central table holds a chopping board and a little tupperware where the bloody gems have been collected.
 
 ## Apartment
-- Owner hiding upstairs, not going to fight you unless you make a problem of it. Called Won **WILL SILENT ALARM FREEZER GUYS TO COME**
+- Owner hiding upstairs, not going to fight you unless you make a problem of it. Called Wong. **WILL SILENT ALARM FREEZER GUYS TO COME**
 - Painting on the wall with jewels in the eyes
 - Push them in and under his bed pops open, Uncut Gem is in there
 
@@ -96,8 +95,8 @@ n: s, h: 15, m:  7, a: d2, w: d6, d: 14"""
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjcxNTA0NTAsNzc4OTYyODE4LDE5NT
-EyODI1MzEsLTEzMTA4NDEzNTksMTI4MzE5MjMzMCwtMTMzMjc1
+eyJoaXN0b3J5IjpbLTExNzA5NzQ1ODAsLTIwNjcxNTA0NTAsNz
+c4OTYyODE4LDE5NTEyODI1MzEsMTI4MzE5MjMzMCwtMTMzMjc1
 Mzk1NCwtMTc2MzYxMzYwOCwtMTAzNjU0MTA4NywxOTgxMzk4NT
 c3LDE0NzU3MDE2ODgsLTcwNzI4MjI4NiwtMTY5MjA0NzY4Mywt
 MTA1Mjg4MTgwMiwtMzUxNzkxNTQ2LC0yMDY4NzA2NTMwXX0=
