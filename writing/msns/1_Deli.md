@@ -46,7 +46,7 @@ https://excalidraw.com/#json=aoOKfdCuEwjaHaxY6TBvh,BAg73HA33RGEFGlkNrM93Q
 - All stainless steel. 
 - Pots dangle from the ceiling above the central table
 - In one corner there is 2 giant piles of potatoes, one peeled the other unpeeled
-- Along the far wall a deep fat fryer 
+- Along the far wall a deep fat fryer quietly fizzling
 
 # Assets 
 ![manager](https://github.com/WayfaringBloke/dnd/blob/main/assets/m1/manager.png?raw=true)![Ronald](https://github.com/WayfaringBloke/dnd/blob/main/assets/rnpc/Ronald.png?raw=true)
@@ -63,7 +63,7 @@ n: s, h: 15, m:  7, a: d2, w: d6, d: 14"""
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5OTkwMDY0MiwtNzA3MjgyMjg2LC0xNj
-kyMDQ3NjgzLC0xMDUyODgxODAyLC0zNTE3OTE1NDYsLTIwNjg3
-MDY1MzBdfQ==
+eyJoaXN0b3J5IjpbLTIxMjQzNjM4NjIsLTcwNzI4MjI4NiwtMT
+Y5MjA0NzY4MywtMTA1Mjg4MTgwMiwtMzUxNzkxNTQ2LC0yMDY4
+NzA2NTMwXX0=
 -->
