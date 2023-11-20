@@ -15,12 +15,7 @@ This weakness led to years of religious urnrest with the people in the mountains
 - 0080 - Royal West Backs out as the Cobalt mines are running dry and political tension is rising. Ingraham rises to power as man willing to defend Sallow's legacy when even Royal West won't.
 - 0091 - It has become clear to almost everyone that the cobalt mines have run out.
 
-
-# FIX VVVV
-
 ![map](https://github.com/WayfaringBloke/dnd/blob/main/assets/map/map.png?raw=true)
-# FIX ^
-
 [Map](https://excalidraw.com/#json=unNJDOZZoC8ELiQkLGXyb,UeD8y4xG3pHhi8eIR_D_AQ)
 
 ### Farmland
@@ -64,7 +59,7 @@ Tethered to the HyperMall the cloud city once flew miles above cloud level to al
 ### FinSpace
 A global hallicination, where all finance is conducted. Entered by taking the halucinogenic upper "Fin", its an endless series of skyscrapers connected by metro tunnels. Since FinSpace is a collective hallucination there is no way to conventionally hack into it and imaginary security measures are often the most powerful. Fin will put you into FinSpace for approximately 5 + d12 days, which the user sees ticking down on a clock on their wrist the entire time. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NTkwODU2NSwtMTk1MzgwNzUxOCwtMT
+eyJoaXN0b3J5IjpbMTEzNDk4NjQyMywtMTk1MzgwNzUxOCwtMT
 gwNDA3MTgyOSwxNzMxMDQwODQ4LC04MDYwNjU4NiwtMjU3MzYx
 NzQ5LDIwNjYwMTEyMTcsMzIzODc4MTU0LC0xOTAxNDI4NzMwLD
 QzODY3OTMxMSwxOTUzNDQyMjE1LC0xMjIzMDAwNjk4LC0yMDY3
