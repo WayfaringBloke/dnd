@@ -54,7 +54,7 @@
 A narrow corridor leads up to a cramped dining area, with a bar & stools facing the wall. There's a large soda vending machine and a deli counter with a jersey wiseguy stood behind it. He sells corned beef sandwiches. His overall demeanour suggests he's not too keen on taking this job.
 
 ## Pantry
-Heavy bags of flour, c
+Heavy bags of flour, cornstarch, and
 
 ## Closet
 
@@ -74,7 +74,7 @@ n: s, h: 15, m:  7, a: d2, w: d6, d: 14"""
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3ODExMTc5LDIwMjAzMTQ5MjQsODExOD
-I3MTQ3LDE4MjUwMzgwODAsLTEwMDMzNTMzNjIsMTMwMTcwNjEw
-MV19
+eyJoaXN0b3J5IjpbLTkzOTQwNTE0MCwyMDIwMzE0OTI0LDgxMT
+gyNzE0NywxODI1MDM4MDgwLC0xMDAzMzUzMzYyLDEzMDE3MDYx
+MDFdfQ==
 -->
