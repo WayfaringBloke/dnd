@@ -42,17 +42,19 @@
 	3. Pays you handsomely and will buy the Luxury Whiskey, totalling another 1.2k c
 	4. Also throws in the truck
 
-# [Map](https://excalidraw.com/#json=YEj3dU2-IlawwJLbaANij,N7ItQpD6KfHOooe1uIjA0A)
+# [Map](https://excalidraw.com/#json=tHFzLC43sY2rmp2bjWJa-,An1LR1TBbiLDyKztalcuWg)
 # Encounter 1
 
 
-# Enc
+# Encounter 4
+R
 # Assets
 
 ![guard](https://github.com/WayfaringBloke/dnd/blob/main/assets/m2/guard.png?raw=true)![Salas Sawyer](https://github.com/WayfaringBloke/dnd/blob/main/assets/rnpc/SalasSawyer.png?raw=true)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNDQ3MDAxMywtMTY5MTM4NDcxNiw3OT
-cyOTA5MjksMzM1MTkxNjUzLDIzMTAwMzU4MSwxMTQyNzkwODk5
-LDcyMzQ1OTc1MSwtMTE2MzEzMjgxMCwtMTA0NDgwOTA3Ml19
+eyJoaXN0b3J5IjpbLTE4NjE2NjEwMzIsLTE2OTEzODQ3MTYsNz
+k3MjkwOTI5LDMzNTE5MTY1MywyMzEwMDM1ODEsMTE0Mjc5MDg5
+OSw3MjM0NTk3NTEsLTExNjMxMzI4MTAsLTEwNDQ4MDkwNzJdfQ
+==
 -->
