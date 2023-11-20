@@ -43,7 +43,9 @@ https://excalidraw.com/#json=aoOKfdCuEwjaHaxY6TBvh,BAg73HA33RGEFGlkNrM93Q
 - An SMG (d4a). 
 
 ## Kitchen
-All stainless steel. Pots dangle from the ceiling above the central table
+- All stainless steel. 
+- Pots dangle from the ceiling above the central table
+- In one corner there is a giant p
 
 # Assets 
 ![manager](https://github.com/WayfaringBloke/dnd/blob/main/assets/m1/manager.png?raw=true)![Ronald](https://github.com/WayfaringBloke/dnd/blob/main/assets/rnpc/Ronald.png?raw=true)
@@ -60,7 +62,7 @@ n: s, h: 15, m:  7, a: d2, w: d6, d: 14"""
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1ODExMTk4OSwtNzA3MjgyMjg2LC0xNj
+eyJoaXN0b3J5IjpbLTY1MTEwOTc5MCwtNzA3MjgyMjg2LC0xNj
 kyMDQ3NjgzLC0xMDUyODgxODAyLC0zNTE3OTE1NDYsLTIwNjg3
 MDY1MzBdfQ==
 -->
