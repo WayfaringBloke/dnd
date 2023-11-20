@@ -28,13 +28,15 @@
 https://excalidraw.com/#json=aoOKfdCuEwjaHaxY6TBvh,BAg73HA33RGEFGlkNrM93Q
 
 ## Dining Area
-A narrow corridor leads up to a cramped dining area, with a bar & stools facing the wall. There's a large soda vending machine and a deli counter with a jersey wiseguy stood behind it. He sells corned beef sandwiches. His overall demeanour suggests he's not too keen on taking this job.
+A narrow corridor leads up to a cramped dining area, with a bar & stools facing the wall. There's a large soda vending machine and a deli counter with a jersey wiseguy stood behind it.
+
+The resturaunt serves primarily deli food, but also hash browns and a smattering of chineses 
 
 ## Pantry
 Heavy bags of flour, cornstarch, and various ingredients. A jarring amount of pickles.
 
 ## Closet
-A mix of kitchen wear.
+A mix of kitchen wear. A few clean suits. An SMG (d4a). 
 
 ## Kitchen
 
@@ -54,6 +56,6 @@ n: s, h: 15, m:  7, a: d2, w: d6, d: 14"""
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTI4ODE4MDIsLTM1MTc5MTU0NiwtMj
-A2ODcwNjUzMF19
+eyJoaXN0b3J5IjpbLTU2ODk3Mjg0MiwtMTA1Mjg4MTgwMiwtMz
+UxNzkxNTQ2LC0yMDY4NzA2NTMwXX0=
 -->
