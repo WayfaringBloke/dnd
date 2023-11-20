@@ -44,12 +44,15 @@
 
 # [Map](https://excalidraw.com/#json=YEj3dU2-IlawwJLbaANij,N7ItQpD6KfHOooe1uIjA0A)
 # Encounter 1
+
+
+# Enc
 # Assets
 
 ![guard](https://github.com/WayfaringBloke/dnd/blob/main/assets/m2/guard.png?raw=true)![Salas Sawyer](https://github.com/WayfaringBloke/dnd/blob/main/assets/rnpc/SalasSawyer.png?raw=true)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTEzODQ3MTYsNzk3MjkwOTI5LDMzNT
-E5MTY1MywyMzEwMDM1ODEsMTE0Mjc5MDg5OSw3MjM0NTk3NTEs
-LTExNjMxMzI4MTAsLTEwNDQ4MDkwNzJdfQ==
+eyJoaXN0b3J5IjpbLTUxNDQ3MDAxMywtMTY5MTM4NDcxNiw3OT
+cyOTA5MjksMzM1MTkxNjUzLDIzMTAwMzU4MSwxMTQyNzkwODk5
+LDcyMzQ1OTc1MSwtMTE2MzEzMjgxMCwtMTA0NDgwOTA3Ml19
 -->
