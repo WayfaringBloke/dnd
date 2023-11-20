@@ -60,7 +60,7 @@ https://excalidraw.com/#json=aoOKfdCuEwjaHaxY6TBvh,BAg73HA33RGEFGlkNrM93Q
 - Shelves full of almost everything you saw on the menu, nothing is fresh prepared here.
 - Central table holds a chopping board and a little tupperware where the bloody gems have been collected.
 
-##  
+## Apartment
 
 
 # Assets 
@@ -78,7 +78,7 @@ n: s, h: 15, m:  7, a: d2, w: d6, d: 14"""
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM1NTkyMjkxLDE0NzU3MDE2ODgsLTcwNz
-I4MjI4NiwtMTY5MjA0NzY4MywtMTA1Mjg4MTgwMiwtMzUxNzkx
-NTQ2LC0yMDY4NzA2NTMwXX0=
+eyJoaXN0b3J5IjpbMTk4MTM5ODU3NywxNDc1NzAxNjg4LC03MD
+cyODIyODYsLTE2OTIwNDc2ODMsLTEwNTI4ODE4MDIsLTM1MTc5
+MTU0NiwtMjA2ODcwNjUzMF19
 -->
