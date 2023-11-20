@@ -8,7 +8,7 @@
 	- Vending machine with drinks 
 3. Action
 	- Storm the back of the resturant, killing goons room by room
-	- 6 in the building total + 1
+	- 6 in the building total + guy out front
 4. Streets:
 	- Guy pops out with shotgun tries to rob you
 	- His buddies pop out to waste you
@@ -54,6 +54,6 @@ n: s, h: 15, m:  7, a: d2, w: d6, d: 14"""
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTI1MTU2NzUsLTM1MTc5MTU0NiwtMj
+eyJoaXN0b3J5IjpbLTEwNTI4ODE4MDIsLTM1MTc5MTU0NiwtMj
 A2ODcwNjUzMF19
 -->
