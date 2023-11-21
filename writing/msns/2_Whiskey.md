@@ -1,14 +1,6 @@
 # Whiskey
 1. 2nd Cowboy Job:
 2. Drive there
-	1. Out from the slums into the dusty plains just north of Xim, patchy grass
-	2. See zebra running wild in the plains
-	3. Checkpoint TuyXin Military
-		1.  **Turret:** HP: 12 Armour: - Morale: - Weapon: d4a
-		2. **Papers Man:** HP: 15 Armour: d2 Morale: 12 Weapon: Blowback pistol d6
-		3. **Guard x 2:** HP: 15 Armour: d2 Morale: 15 Weapon: AK d4a / SVD d8
-		4. **Tank:** Immune to Small Arms Fire. (Except Body Gun) HP: 20 
-	4. Guards are obscured behind sandbag wall, tank is pointing at you, papers man talks to you
 3. Approach House
 	1. Among snow and thick pine tress road turns to path turns to nothing
 	2. Second Checkpoint, one friendly guy there who chats at you for ages, stalling.
@@ -49,6 +41,15 @@
 
 # Encounter 1
 
+1. Out from the slums into the dusty plains just north of Xim, patchy grass
+2. See zebra running wild in the plains
+3. Checkpoint TuyXin Military
+		1.  **Turret:** HP: 12 Armour: - Morale: - Weapon: d4a
+		2. **Papers Man:** HP: 15 Armour: d2 Morale: 12 Weapon: Blowback pistol d6
+		3. **Guard x 2:** HP: 15 Armour: d2 Morale: 15 Weapon: AK d4a / SVD d8
+		4. **Tank:** Immune to Small Arms Fire. (Except Body Gun) HP: 20 
+	2. Guards are obscured behind sandbag wall, tank is pointing at you, papers man talks to you
+
 # Encounter 2
 
 # Encounter 3
@@ -61,8 +62,8 @@
 ![guard](https://github.com/WayfaringBloke/dnd/blob/main/assets/m2/guard.png?raw=true)![Salas Sawyer](https://github.com/WayfaringBloke/dnd/blob/main/assets/rnpc/SalasSawyer.png?raw=true)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTcxNzAxMSwyMDgzMTI4OTIwLC03Nj
-c0NTYwMTksLTE2OTEzODQ3MTYsNzk3MjkwOTI5LDMzNTE5MTY1
-MywyMzEwMDM1ODEsMTE0Mjc5MDg5OSw3MjM0NTk3NTEsLTExNj
-MxMzI4MTAsLTEwNDQ4MDkwNzJdfQ==
+eyJoaXN0b3J5IjpbLTEyNDQwMTgyMDUsMjA4MzEyODkyMCwtNz
+Y3NDU2MDE5LC0xNjkxMzg0NzE2LDc5NzI5MDkyOSwzMzUxOTE2
+NTMsMjMxMDAzNTgxLDExNDI3OTA4OTksNzIzNDU5NzUxLC0xMT
+YzMTMyODEwLC0xMDQ0ODA5MDcyXX0=
 -->
