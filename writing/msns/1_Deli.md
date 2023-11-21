@@ -65,7 +65,7 @@
 - Push them in and under his bed pops open, Uncut Gem is in there
 
 # Encounter 2
-	
+- Carjacking, guy with a shotgun
 
 # Encounter 3
 - Walk up see crap game outside played with cops
@@ -105,7 +105,7 @@ carjack = [
 ]
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMTQ5MzM4OCw3NjE3NDI0MCwyMDE0OT
+eyJoaXN0b3J5IjpbLTkzMTg3ODk2NCw3NjE3NDI0MCwyMDE0OT
 IzNzE3LC0xNzIxMzQxNTA4LC0xMzk3MDMzOTUyLC05NDM2MDY3
 OTUsLTExNzA5NzQ1ODAsLTIwNjcxNTA0NTAsNzc4OTYyODE4LD
 E5NTEyODI1MzEsMTI4MzE5MjMzMCwtMTMzMjc1Mzk1NCwtMTc2
