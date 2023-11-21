@@ -88,6 +88,9 @@ n: g4, h: 12, m: 6, a: d2, w: d6, d: 12
 n: r, h: 20, m: 10, a: d3, w: d6, d: 14
 n: c1, h: 8, m: 4, a: d0, w: d4, d: 10
 n: c2, h: 8, m: 3, a: d0, w: d6, d: 10"""
+cohen_wong = Group([
+	ne
+])
 
 carjack = """n: l, h: 25, m: 9, a: d6, w: d6a, d: 12
 n: m1, h: 12, m: 6, a: d2, w: d6a, d: 10
@@ -96,10 +99,10 @@ n: s, h: 15, m:  7, a: d2, w: d6, d: 14"""
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MzYwNjc5NSwtMTE3MDk3NDU4MCwtMj
-A2NzE1MDQ1MCw3Nzg5NjI4MTgsMTk1MTI4MjUzMSwxMjgzMTky
-MzMwLC0xMzMyNzUzOTU0LC0xNzYzNjEzNjA4LC0xMDM2NTQxMD
-g3LDE5ODEzOTg1NzcsMTQ3NTcwMTY4OCwtNzA3MjgyMjg2LC0x
-NjkyMDQ3NjgzLC0xMDUyODgxODAyLC0zNTE3OTE1NDYsLTIwNj
-g3MDY1MzBdfQ==
+eyJoaXN0b3J5IjpbLTEzOTcwMzM5NTIsLTk0MzYwNjc5NSwtMT
+E3MDk3NDU4MCwtMjA2NzE1MDQ1MCw3Nzg5NjI4MTgsMTk1MTI4
+MjUzMSwxMjgzMTkyMzMwLC0xMzMyNzUzOTU0LC0xNzYzNjEzNj
+A4LC0xMDM2NTQxMDg3LDE5ODEzOTg1NzcsMTQ3NTcwMTY4OCwt
+NzA3MjgyMjg2LC0xNjkyMDQ3NjgzLC0xMDUyODgxODAyLC0zNT
+E3OTE1NDYsLTIwNjg3MDY1MzBdfQ==
 -->
