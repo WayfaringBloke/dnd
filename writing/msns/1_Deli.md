@@ -78,6 +78,7 @@
 - Takes gems, pays d2k creds per player
 - Oppurtunity for players to ask cowboy about weirdness in setup
 - THERE'S A PRICE ON YOUR HEAD, best lay low in the basement for tonight, owner wasn't rich so could only afford to tender your bounty for 48h
+;)
 
 # Assets 
 ![manager](https://github.com/WayfaringBloke/dnd/blob/main/assets/m1/manager.png?raw=true)![Ronald](https://github.com/WayfaringBloke/dnd/blob/main/assets/rnpc/Ronald.png?raw=true)
@@ -106,7 +107,7 @@ carjack = [
 ]
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQwNTYwMTY3LC05MzE4Nzg5NjQsNzYxNz
+eyJoaXN0b3J5IjpbNDY4OTgyNjYzLC05MzE4Nzg5NjQsNzYxNz
 QyNDAsMjAxNDkyMzcxNywtMTcyMTM0MTUwOCwtMTM5NzAzMzk1
 MiwtOTQzNjA2Nzk1LC0xMTcwOTc0NTgwLC0yMDY3MTUwNDUwLD
 c3ODk2MjgxOCwxOTUxMjgyNTMxLDEyODMxOTIzMzAsLTEzMzI3
