@@ -89,27 +89,22 @@ cohen_wong = cohen_wong = [
     ne(n("c"), h(20), d(10), w(8), a(2, False), m(11)), # cohen (revolver)
     ne(n("w"), h(5), d(12), w(2), a(0), m(3)) # wong (long nails)
 ]
-carjack = carjack  = [
-
-ne(n("l"), h(25), d(12), w(8, True), a(6, False), m(9)),
-
-ne(n("m1"), h(1), d(14), wf(2), a(99), m(12)),
-
-ne(n("m2"), h(1), d(14), wf(2), a(99), m(12)),
-
-ne(n("p"), h(12), d(14), w(6), a(0), m(9)),
-
-ne(n("s"), h(15), d(12), w(6), a(2), m(10))
-
+carjack = [
+    ne(n("l"), h(25), d(12), w(8, True), a(6, False), m(9)),
+    ne(n("m1"), h(1), d(14), wf(2), a(99), m(4)),
+    ne(n("m2"), h(1), d(14), wf(2), a(99), m(4)),
+    ne(n("p"), h(12), d(14), w(6), a(0), m(9)),
+    ne(n("s"), h(15), d(12), w(6), a(2), m(10))
 ]
+
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDQyNjAzOTksLTE3MjEzNDE1MDgsLT
-EzOTcwMzM5NTIsLTk0MzYwNjc5NSwtMTE3MDk3NDU4MCwtMjA2
-NzE1MDQ1MCw3Nzg5NjI4MTgsMTk1MTI4MjUzMSwxMjgzMTkyMz
-MwLC0xMzMyNzUzOTU0LC0xNzYzNjEzNjA4LC0xMDM2NTQxMDg3
-LDE5ODEzOTg1NzcsMTQ3NTcwMTY4OCwtNzA3MjgyMjg2LC0xNj
-kyMDQ3NjgzLC0xMDUyODgxODAyLC0zNTE3OTE1NDYsLTIwNjg3
-MDY1MzBdfQ==
+eyJoaXN0b3J5IjpbMjAxNDkyMzcxNywtMTcyMTM0MTUwOCwtMT
+M5NzAzMzk1MiwtOTQzNjA2Nzk1LC0xMTcwOTc0NTgwLC0yMDY3
+MTUwNDUwLDc3ODk2MjgxOCwxOTUxMjgyNTMxLDEyODMxOTIzMz
+AsLTEzMzI3NTM5NTQsLTE3NjM2MTM2MDgsLTEwMzY1NDEwODcs
+MTk4MTM5ODU3NywxNDc1NzAxNjg4LC03MDcyODIyODYsLTE2OT
+IwNDc2ODMsLTEwNTI4ODE4MDIsLTM1MTc5MTU0NiwtMjA2ODcw
+NjUzMF19
 -->
