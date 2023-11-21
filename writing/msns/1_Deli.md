@@ -81,7 +81,7 @@
 ![manager](https://github.com/WayfaringBloke/dnd/blob/main/assets/m1/manager.png?raw=true)![Ronald](https://github.com/WayfaringBloke/dnd/blob/main/assets/rnpc/Ronald.png?raw=true)
 # Combat Dumps
 ```py
-cohen_wong = cohen_wong = [
+cohen_wong = [
     ne(n("l"), h(15), d(12), w(6), a(2), m(9)), # lead
     ne(n("m"), h(12), d(12), w(6), a(1), m(7)), # machete
     ne(n("p"), h(12), d(12), w(6), a(1), m(7)), # pistol
@@ -90,7 +90,7 @@ cohen_wong = cohen_wong = [
     ne(n("w"), h(5), d(12), w(2), a(0), m(3)) # wong (long nails)
 ]
 carjack = [
-    ne(n("l"), h(25), d(12), w(8, True), a(6, False), m(9)),
+    ne(n("l"), h(25), d(12), w(8, True), a(6, False), m(9)), # far alley, brenm gun
     ne(n("m1"), h(1), d(14), wf(2), a(99), m(4)),
     ne(n("m2"), h(1), d(14), wf(2), a(99), m(4)),
     ne(n("p"), h(12), d(14), w(6), a(0), m(9)),
@@ -100,11 +100,11 @@ carjack = [
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNDkyMzcxNywtMTcyMTM0MTUwOCwtMT
-M5NzAzMzk1MiwtOTQzNjA2Nzk1LC0xMTcwOTc0NTgwLC0yMDY3
-MTUwNDUwLDc3ODk2MjgxOCwxOTUxMjgyNTMxLDEyODMxOTIzMz
-AsLTEzMzI3NTM5NTQsLTE3NjM2MTM2MDgsLTEwMzY1NDEwODcs
-MTk4MTM5ODU3NywxNDc1NzAxNjg4LC03MDcyODIyODYsLTE2OT
-IwNDc2ODMsLTEwNTI4ODE4MDIsLTM1MTc5MTU0NiwtMjA2ODcw
-NjUzMF19
+eyJoaXN0b3J5IjpbNzYxNzQyNDAsMjAxNDkyMzcxNywtMTcyMT
+M0MTUwOCwtMTM5NzAzMzk1MiwtOTQzNjA2Nzk1LC0xMTcwOTc0
+NTgwLC0yMDY3MTUwNDUwLDc3ODk2MjgxOCwxOTUxMjgyNTMxLD
+EyODMxOTIzMzAsLTEzMzI3NTM5NTQsLTE3NjM2MTM2MDgsLTEw
+MzY1NDEwODcsMTk4MTM5ODU3NywxNDc1NzAxNjg4LC03MDcyOD
+IyODYsLTE2OTIwNDc2ODMsLTEwNTI4ODE4MDIsLTM1MTc5MTU0
+NiwtMjA2ODcwNjUzMF19
 -->
