@@ -66,6 +66,8 @@
 
 # Encounter 2
 	
+
+# Encounter 3
 - Walk up see crap game outside played with cops
 - Enter busy bar filled with working class looking people all chattering and drinking, bored
 - Silence falls as players enter, fear
@@ -75,7 +77,6 @@
 - Takes gems, pays d2k creds per player
 - Oppurtunity for players to ask cowboy about weirdness in setup
 - THERE'S A PRICE ON YOUR HEAD, best lay low in the basement for tonight, owner wasn't rich so could only afford to tender your bounty for 48h
-# Encounter 3
 
 # Assets 
 ![manager](https://github.com/WayfaringBloke/dnd/blob/main/assets/m1/manager.png?raw=true)![Ronald](https://github.com/WayfaringBloke/dnd/blob/main/assets/rnpc/Ronald.png?raw=true)
@@ -104,7 +105,7 @@ carjack = [
 ]
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2Mzk5NzU4NCw3NjE3NDI0MCwyMDE0OT
+eyJoaXN0b3J5IjpbMTUzMTQ5MzM4OCw3NjE3NDI0MCwyMDE0OT
 IzNzE3LC0xNzIxMzQxNTA4LC0xMzk3MDMzOTUyLC05NDM2MDY3
 OTUsLTExNzA5NzQ1ODAsLTIwNjcxNTA0NTAsNzc4OTYyODE4LD
 E5NTEyODI1MzEsMTI4MzE5MjMzMCwtMTMzMjc1Mzk1NCwtMTc2
