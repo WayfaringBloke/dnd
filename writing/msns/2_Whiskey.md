@@ -1,10 +1,5 @@
 # Whiskey
 1. 2nd Cowboy Job:
-	1. Wake up in/Called to El Torro Cowboy calls in favour, brings you to edge of slums
-	2. Tells you to go rescue Salas Sawyer, a friend of his
-	3. Apparently just "got lost on a hiking trip"
-	4. Lends you a rusty old pickup
-	5. TuyXin Mountain Faction are holding him
 2. Drive there
 	1. Out from the slums into the dusty plains just north of Xim, patchy grass
 	2. See zebra running wild in the plains
@@ -45,6 +40,13 @@
 # [Map](https://excalidraw.com/#json=tHFzLC43sY2rmp2bjWJa-,An1LR1TBbiLDyKztalcuWg)
 # Encounter 0
 
+
+- Wake up in/Called to El Torro Cowboy calls in favour, brings you to edge of slums
+- Tells you to go rescue Salas Sawyer, a friend of his
+- Apparently just "got lost on a hiking trip"
+- Lends you a rusty old pickup
+- Tuy Military are holding him
+
 # Encounter 1
 
 # Encounter 2
@@ -59,8 +61,8 @@
 ![guard](https://github.com/WayfaringBloke/dnd/blob/main/assets/m2/guard.png?raw=true)![Salas Sawyer](https://github.com/WayfaringBloke/dnd/blob/main/assets/rnpc/SalasSawyer.png?raw=true)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MzEyODkyMCwtNzY3NDU2MDE5LC0xNj
-kxMzg0NzE2LDc5NzI5MDkyOSwzMzUxOTE2NTMsMjMxMDAzNTgx
-LDExNDI3OTA4OTksNzIzNDU5NzUxLC0xMTYzMTMyODEwLC0xMD
-Q0ODA5MDcyXX0=
+eyJoaXN0b3J5IjpbLTIwOTcxNzAxMSwyMDgzMTI4OTIwLC03Nj
+c0NTYwMTksLTE2OTEzODQ3MTYsNzk3MjkwOTI5LDMzNTE5MTY1
+MywyMzEwMDM1ODEsMTE0Mjc5MDg5OSw3MjM0NTk3NTEsLTExNj
+MxMzI4MTAsLTEwNDQ4MDkwNzJdfQ==
 -->
