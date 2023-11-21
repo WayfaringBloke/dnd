@@ -95,14 +95,16 @@ carjack = [
     ne(n("l"), h(25), d(12), w(8, True), a(6, False), m(9)), 
     # mac 10 minion 1
     ne(n("m1"), h(1), d(14), wf(2), a(99), m(4)),
-    #
+    # mac 10 minion 2
     ne(n("m2"), h(1), d(14), wf(2), a(99), m(4)),
+    # pistol (flank)
     ne(n("p"), h(12), d(14), w(6), a(0), m(9)),
+    # shotgun (point)
     ne(n("s"), h(15), d(12), w(6), a(2), m(10))
 ]
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MTM2NDU5Myw3NjE3NDI0MCwyMDE0OT
+eyJoaXN0b3J5IjpbLTI2Mzk5NzU4NCw3NjE3NDI0MCwyMDE0OT
 IzNzE3LC0xNzIxMzQxNTA4LC0xMzk3MDMzOTUyLC05NDM2MDY3
 OTUsLTExNzA5NzQ1ODAsLTIwNjcxNTA0NTAsNzc4OTYyODE4LD
 E5NTEyODI1MzEsMTI4MzE5MjMzMCwtMTMzMjc1Mzk1NCwtMTc2
