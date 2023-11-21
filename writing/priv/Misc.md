@@ -4,8 +4,10 @@
 
 Combat enhancing drugs exist, are banned
 
-Watchdogs 2 style G
+Watchdogs 2 style Gang Hit call in thingy.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzIxMjkwMSwtMTY4NTIwODUzNSwtMj
-Q1MDc3NDM5XX0=
+eyJoaXN0b3J5IjpbNzc3ODM0MDQ2LC0xNjg1MjA4NTM1LC0yND
+UwNzc0MzldfQ==
 -->
