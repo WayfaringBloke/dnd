@@ -59,6 +59,7 @@
 - Central table holds a chopping board and a little tupperware where the bloody gems have been collected.
 
 ## Apartment
+- Door locked
 - Owner hiding upstairs, not going to fight you unless you make a problem of it. Called Wong. **WILL SILENT ALARM FREEZER GUYS TO COME**
 - Painting on the wall with jewels in the eyes
 - Push them in and under his bed pops open, Uncut Gem is in there
@@ -95,9 +96,10 @@ n: s, h: 15, m:  7, a: d2, w: d6, d: 14"""
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzA5NzQ1ODAsLTIwNjcxNTA0NTAsNz
-c4OTYyODE4LDE5NTEyODI1MzEsMTI4MzE5MjMzMCwtMTMzMjc1
-Mzk1NCwtMTc2MzYxMzYwOCwtMTAzNjU0MTA4NywxOTgxMzk4NT
-c3LDE0NzU3MDE2ODgsLTcwNzI4MjI4NiwtMTY5MjA0NzY4Mywt
-MTA1Mjg4MTgwMiwtMzUxNzkxNTQ2LC0yMDY4NzA2NTMwXX0=
+eyJoaXN0b3J5IjpbLTk0MzYwNjc5NSwtMTE3MDk3NDU4MCwtMj
+A2NzE1MDQ1MCw3Nzg5NjI4MTgsMTk1MTI4MjUzMSwxMjgzMTky
+MzMwLC0xMzMyNzUzOTU0LC0xNzYzNjEzNjA4LC0xMDM2NTQxMD
+g3LDE5ODEzOTg1NzcsMTQ3NTcwMTY4OCwtNzA3MjgyMjg2LC0x
+NjkyMDQ3NjgzLC0xMDUyODgxODAyLC0zNTE3OTE1NDYsLTIwNj
+g3MDY1MzBdfQ==
 -->
