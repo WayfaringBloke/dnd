@@ -43,8 +43,13 @@
 	4. Also throws in the truck
 
 # [Map](https://excalidraw.com/#json=tHFzLC43sY2rmp2bjWJa-,An1LR1TBbiLDyKztalcuWg)
+# Encounter 0
+
 # Encounter 1
 
+# Encounter 2
+
+# Encounter 3
 
 # Encounter 4
 - Robot taken over gas station
@@ -54,7 +59,8 @@
 ![guard](https://github.com/WayfaringBloke/dnd/blob/main/assets/m2/guard.png?raw=true)![Salas Sawyer](https://github.com/WayfaringBloke/dnd/blob/main/assets/rnpc/SalasSawyer.png?raw=true)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NzQ1NjAxOSwtMTY5MTM4NDcxNiw3OT
-cyOTA5MjksMzM1MTkxNjUzLDIzMTAwMzU4MSwxMTQyNzkwODk5
-LDcyMzQ1OTc1MSwtMTE2MzEzMjgxMCwtMTA0NDgwOTA3Ml19
+eyJoaXN0b3J5IjpbMjA4MzEyODkyMCwtNzY3NDU2MDE5LC0xNj
+kxMzg0NzE2LDc5NzI5MDkyOSwzMzUxOTE2NTMsMjMxMDAzNTgx
+LDExNDI3OTA4OTksNzIzNDU5NzUxLC0xMTYzMTMyODEwLC0xMD
+Q0ODA5MDcyXX0=
 -->
