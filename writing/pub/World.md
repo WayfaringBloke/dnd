@@ -52,13 +52,15 @@ Features 3 major gangs:
 Where all Sallowdia's production is concentrated (to make it easier to control). Due to zoning laws and planning nightmares it is a gigantic looming tower of factories built on factories. Strong "union" control, cult of Osha enforces safety guidelines like samurai. The "unions" function more like agencies, paying workers per action in the factory. 
 
 ### Old Town
-From before the Cobalt deposits were discovered, the old town still shows a simpler time of wooden houses painted in bright colors. Once a rather nice middle class town, the departure of Royal West also caused a mass exodus of the middle classes, who no longer felt safe. A mistake at a few real estate focused investment firms led to them buying up all these houses as the middle class fled, and due to complex accounting selling would realise their losses from this destroying the reputations of their firms. These investors employ varying levels of security on their buildings but have very little investment in preventing crime from happening outside their land.  Features a hospital, doomed commerical buildings, es
+From before the Cobalt deposits were discovered, the old town still shows a simpler time of wooden houses painted in bright colors. Once a rather nice middle class town, the departure of Royal West also caused a mass exodus of the middle classes, who no longer felt safe. A mistake at a few real estate focused investment firms led to them buying up all these houses as the middle class fled, and due to complex accounting selling would realise their losses from this destroying the reputations of their firms. These investors employ varying levels of security on their buildings but have very little investment in preventing crime from happening outside their land.  Features a hospital, doomed commerical buildings, estate agent buildings.
 
 ### HyperMall
 Once an audiovisual cacophony of consumption, a decade of neglect has left this paradise of popular luxury derelict. Its surronded by an increasingly desperate series of supports trying to prevent it from falling over.
 
 ### Central
-The shrivelled heart of Xim, where beuracrats and businessmen manage the nation's decline. Bland office blocks eat  Features the parliment building, CID (Central Information Department) building, many Fin dens, 
+The shrivelled heart of Xim, where beuracrats and businessmen manage the nation's decline. Bland offices tower over stout apartment blocks, perpetually illumu
+
+. Features the parliment building, CID (Central Information Department) building, many Fin dens, 
 
 ### Cloud City
 Tethered to the HyperMall the cloud city once flew miles above cloud level to allow its residents to experience a beautiful clear sky (and get skin cancer). Due to poor maintenance and fuel costs it now runs only a few hundred meters above the HyperMall. Its residents are extremely insular so nobody knows what it looks like up there.
@@ -66,11 +68,11 @@ Tethered to the HyperMall the cloud city once flew miles above cloud level to al
 ### FinSpace
 A global hallicination, where all finance is conducted. Entered by taking the halucinogenic upper "Fin", its an endless series of skyscrapers connected by metro tunnels. Since FinSpace is a collective hallucination there is no way to conventionally hack into it and imaginary security measures are often the most powerful. Fin will put you into FinSpace for approximately 5 + d12 days, which the user sees ticking down on a clock on their wrist the entire time. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzY3Njc4ODIsMjAxMzcwNTk1MywtMj
-UyOTA1ODAsMTM2MjEyNjIzNSwxNzgyMTY3NDE2LC0xNDMyNzY1
-NjcsLTQ0ODg4MjAxNCwxMTM0OTg2NDIzLC0xOTUzODA3NTE4LC
-0xODA0MDcxODI5LDE3MzEwNDA4NDgsLTgwNjA2NTg2LC0yNTcz
-NjE3NDksMjA2NjAxMTIxNywzMjM4NzgxNTQsLTE5MDE0Mjg3Mz
-AsNDM4Njc5MzExLDE5NTM0NDIyMTUsLTEyMjMwMDA2OTgsLTIw
-Njc3NTU3NzNdfQ==
+eyJoaXN0b3J5IjpbLTI5MDgyOTY2MiwyMDEzNzA1OTUzLC0yNT
+I5MDU4MCwxMzYyMTI2MjM1LDE3ODIxNjc0MTYsLTE0MzI3NjU2
+NywtNDQ4ODgyMDE0LDExMzQ5ODY0MjMsLTE5NTM4MDc1MTgsLT
+E4MDQwNzE4MjksMTczMTA0MDg0OCwtODA2MDY1ODYsLTI1NzM2
+MTc0OSwyMDY2MDExMjE3LDMyMzg3ODE1NCwtMTkwMTQyODczMC
+w0Mzg2NzkzMTEsMTk1MzQ0MjIxNSwtMTIyMzAwMDY5OCwtMjA2
+Nzc1NTc3M119
 -->
