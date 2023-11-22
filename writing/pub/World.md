@@ -1,7 +1,8 @@
 ### Nation: Sallowdia
 Years are numbered since Sallowdia's founding, starting at year 0001
-**Founder:** Douglas Sallow
-**Dictator:** Ingraham Reeves
+- **Founder:** Douglas Sallow
+- **Dictator:** Ingraham Reeves
+
 ![Ingraham Reeves](https://github.com/WayfaringBloke/dnd/blob/main/assets/rnpc/IngrahamReeves.png?raw=true)
 ### History
 - <001 - An "unsettled" territory for being resoruceless and quite near the exclusion zone so the only people who live there were either very attached or had nowhere else to go (probably both)
@@ -63,11 +64,11 @@ Tethered to the HyperMall the cloud city once flew miles above cloud level to al
 ### FinSpace
 A global hallicination, where all finance is conducted. Entered by taking the halucinogenic upper "Fin", its an endless series of skyscrapers connected by metro tunnels. Since FinSpace is a collective hallucination there is no way to conventionally hack into it and imaginary security measures are often the most powerful. Fin will put you into FinSpace for approximately 5 + d12 days, which the user sees ticking down on a clock on their wrist the entire time. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NTc0NzM4OCwxODc0NzAwOTg2LDIwMT
-M3MDU5NTMsLTI1MjkwNTgwLDEzNjIxMjYyMzUsMTc4MjE2NzQx
-NiwtMTQzMjc2NTY3LC00NDg4ODIwMTQsMTEzNDk4NjQyMywtMT
-k1MzgwNzUxOCwtMTgwNDA3MTgyOSwxNzMxMDQwODQ4LC04MDYw
-NjU4NiwtMjU3MzYxNzQ5LDIwNjYwMTEyMTcsMzIzODc4MTU0LC
-0xOTAxNDI4NzMwLDQzODY3OTMxMSwxOTUzNDQyMjE1LC0xMjIz
-MDAwNjk4XX0=
+eyJoaXN0b3J5IjpbNzI1NzQxMDY2LDE1NDU3NDczODgsMTg3ND
+cwMDk4NiwyMDEzNzA1OTUzLC0yNTI5MDU4MCwxMzYyMTI2MjM1
+LDE3ODIxNjc0MTYsLTE0MzI3NjU2NywtNDQ4ODgyMDE0LDExMz
+Q5ODY0MjMsLTE5NTM4MDc1MTgsLTE4MDQwNzE4MjksMTczMTA0
+MDg0OCwtODA2MDY1ODYsLTI1NzM2MTc0OSwyMDY2MDExMjE3LD
+MyMzg3ODE1NCwtMTkwMTQyODczMCw0Mzg2NzkzMTEsMTk1MzQ0
+MjIxNV19
 -->
