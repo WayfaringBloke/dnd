@@ -1,6 +1,3 @@
-### What year is it?
-I am not going to define this, don't ask. It's a boring & pointless restriction on creativity.
-
 ### Nation: Sallowdia
 Years are numbered since Sallowdia's founding, starting at year 0001
 **Founder:** Douglas Sallow
@@ -66,7 +63,7 @@ Tethered to the HyperMall the cloud city once flew miles above cloud level to al
 ### FinSpace
 A global hallicination, where all finance is conducted. Entered by taking the halucinogenic upper "Fin", its an endless series of skyscrapers connected by metro tunnels. Since FinSpace is a collective hallucination there is no way to conventionally hack into it and imaginary security measures are often the most powerful. Fin will put you into FinSpace for approximately 5 + d12 days, which the user sees ticking down on a clock on their wrist the entire time. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MzA2MzI1NSwxODc0NzAwOTg2LDIwMT
+eyJoaXN0b3J5IjpbLTQzMzgzOTQ0MSwxODc0NzAwOTg2LDIwMT
 M3MDU5NTMsLTI1MjkwNTgwLDEzNjIxMjYyMzUsMTc4MjE2NzQx
 NiwtMTQzMjc2NTY3LC00NDg4ODIwMTQsMTEzNDk4NjQyMywtMT
 k1MzgwNzUxOCwtMTgwNDA3MTgyOSwxNzMxMDQwODQ4LC04MDYw
