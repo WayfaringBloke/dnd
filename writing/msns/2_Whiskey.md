@@ -50,6 +50,7 @@
 - Among snow and thickening pine trees you come to a second checkpoint
 - This one requires more reason as to why you're passing
 - Guy will delay until a cyber-bear attack can happen
+- `cyber_bear = ne(n("b"), h(25), d(14), w(8), a(6, False), m(9))
 - Will chat about whiskey weather etc.
 # Encounter 3
 - 
@@ -63,9 +64,9 @@
 ![guard](https://github.com/WayfaringBloke/dnd/blob/main/assets/m2/guard.png?raw=true)![Salas Sawyer](https://github.com/WayfaringBloke/dnd/blob/main/assets/rnpc/SalasSawyer.png?raw=true)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNjAzNTc5MiwtMTEwOTk4ODA0NSwtMT
-I0NDAxODIwNSwyMDgzMTI4OTIwLC03Njc0NTYwMTksLTE2OTEz
-ODQ3MTYsNzk3MjkwOTI5LDMzNTE5MTY1MywyMzEwMDM1ODEsMT
-E0Mjc5MDg5OSw3MjM0NTk3NTEsLTExNjMxMzI4MTAsLTEwNDQ4
-MDkwNzJdfQ==
+eyJoaXN0b3J5IjpbMTUxNjkyMDY1NSwxOTE2MDM1NzkyLC0xMT
+A5OTg4MDQ1LC0xMjQ0MDE4MjA1LDIwODMxMjg5MjAsLTc2NzQ1
+NjAxOSwtMTY5MTM4NDcxNiw3OTcyOTA5MjksMzM1MTkxNjUzLD
+IzMTAwMzU4MSwxMTQyNzkwODk5LDcyMzQ1OTc1MSwtMTE2MzEz
+MjgxMCwtMTA0NDgwOTA3Ml19
 -->
