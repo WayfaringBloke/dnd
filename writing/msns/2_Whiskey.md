@@ -44,9 +44,10 @@
 - Out from the slums into the dusty plains just north of Xim, grey brown wasteland where nothing grows.
 - Checkpoint Tuy Military
 - Somewhat friendly guard asks the purpose of your visit, very easy presence check.
-
+- Note the tank
 # Encounter 2
-
+- 
+- Among snow and 
 # Encounter 3
 
 # Encounter 4
@@ -57,7 +58,7 @@
 ![guard](https://github.com/WayfaringBloke/dnd/blob/main/assets/m2/guard.png?raw=true)![Salas Sawyer](https://github.com/WayfaringBloke/dnd/blob/main/assets/rnpc/SalasSawyer.png?raw=true)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjQ0MDQ1MTEsLTEyNDQwMTgyMDUsMj
+eyJoaXN0b3J5IjpbLTExMDk5ODgwNDUsLTEyNDQwMTgyMDUsMj
 A4MzEyODkyMCwtNzY3NDU2MDE5LC0xNjkxMzg0NzE2LDc5NzI5
 MDkyOSwzMzUxOTE2NTMsMjMxMDAzNTgxLDExNDI3OTA4OTksNz
 IzNDU5NzUxLC0xMTYzMTMyODEwLC0xMDQ0ODA5MDcyXX0=
