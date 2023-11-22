@@ -46,7 +46,7 @@ Built of sheet metal, temporary antigravity generators, and broken dreams. Overf
 Features 3 major gangs:
 - West Side - Germans - Meticulous, Dilligent
 - East Side - Russians - Brutal, Efficient
-- OGs - Texans - Professional
+- OGs - Texans - Honourable, Resourceful
 
 ### Industrial District
 Where all Sallowdia's production is concentrated (to make it easier to control). Due to zoning laws and planning nightmares it is a gigantic looming tower of factories built on factories. Strong "union" control, cult of Osha enforces safety guidelines like samurai. The "unions" function more like agencies, paying workers per action in the factory. 
@@ -63,11 +63,11 @@ Tethered to the HyperMall the cloud city once flew miles above cloud level to al
 ### FinSpace
 A global hallicination, where all finance is conducted. Entered by taking the halucinogenic upper "Fin", its an endless series of skyscrapers connected by metro tunnels. Since FinSpace is a collective hallucination there is no way to conventionally hack into it and imaginary security measures are often the most powerful. Fin will put you into FinSpace for approximately 5 + d12 days, which the user sees ticking down on a clock on their wrist the entire time. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MjE2NzQxNiwtMTQzMjc2NTY3LC00ND
-g4ODIwMTQsMTEzNDk4NjQyMywtMTk1MzgwNzUxOCwtMTgwNDA3
-MTgyOSwxNzMxMDQwODQ4LC04MDYwNjU4NiwtMjU3MzYxNzQ5LD
-IwNjYwMTEyMTcsMzIzODc4MTU0LC0xOTAxNDI4NzMwLDQzODY3
-OTMxMSwxOTUzNDQyMjE1LC0xMjIzMDAwNjk4LC0yMDY3NzU1Nz
-czLC0xOTMyMzA4MTA2LDEzNDE3ODIzOTMsLTE1NDQyMTY3MTIs
-NjcxNDI3NDYzXX0=
+eyJoaXN0b3J5IjpbMTg4Mzk1OTY2OSwxNzgyMTY3NDE2LC0xND
+MyNzY1NjcsLTQ0ODg4MjAxNCwxMTM0OTg2NDIzLC0xOTUzODA3
+NTE4LC0xODA0MDcxODI5LDE3MzEwNDA4NDgsLTgwNjA2NTg2LC
+0yNTczNjE3NDksMjA2NjAxMTIxNywzMjM4NzgxNTQsLTE5MDE0
+Mjg3MzAsNDM4Njc5MzExLDE5NTM0NDIyMTUsLTEyMjMwMDA2OT
+gsLTIwNjc3NTU3NzMsLTE5MzIzMDgxMDYsMTM0MTc4MjM5Mywt
+MTU0NDIxNjcxMl19
 -->
