@@ -41,9 +41,8 @@
 
 # Encounter 1
 
-1. Out from the slums into the dusty plains just north of Xim, patchy grass
-2. See zebra running wild in the plains
-3. Checkpoint TuyXin Military
+1. Out from the slums into the dusty plains just north of Xim, grey brown wasteland where nothing grows.
+3. Checkpoint Tuy Military
 		1.  **Turret:** HP: 12 Armour: - Morale: - Weapon: d4a
 		2. **Papers Man:** HP: 15 Armour: d2 Morale: 12 Weapon: Blowback pistol d6
 		3. **Guard x 2:** HP: 15 Armour: d2 Morale: 15 Weapon: AK d4a / SVD d8
@@ -62,8 +61,8 @@
 ![guard](https://github.com/WayfaringBloke/dnd/blob/main/assets/m2/guard.png?raw=true)![Salas Sawyer](https://github.com/WayfaringBloke/dnd/blob/main/assets/rnpc/SalasSawyer.png?raw=true)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQxMjA1MjMzLC0xMjQ0MDE4MjA1LDIwOD
-MxMjg5MjAsLTc2NzQ1NjAxOSwtMTY5MTM4NDcxNiw3OTcyOTA5
-MjksMzM1MTkxNjUzLDIzMTAwMzU4MSwxMTQyNzkwODk5LDcyMz
-Q1OTc1MSwtMTE2MzEzMjgxMCwtMTA0NDgwOTA3Ml19
+eyJoaXN0b3J5IjpbMTQzMTcxNDQ4NCwtMTI0NDAxODIwNSwyMD
+gzMTI4OTIwLC03Njc0NTYwMTksLTE2OTEzODQ3MTYsNzk3Mjkw
+OTI5LDMzNTE5MTY1MywyMzEwMDM1ODEsMTE0Mjc5MDg5OSw3Mj
+M0NTk3NTEsLTExNjMxMzI4MTAsLTEwNDQ4MDkwNzJdfQ==
 -->
