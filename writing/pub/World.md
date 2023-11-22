@@ -58,7 +58,7 @@ From before the Cobalt deposits were discovered, the old town still shows a simp
 Once an audiovisual cacophony of consumption, a decade of neglect has left this paradise of popular luxury derelict. Its surronded by an increasingly desperate series of supports trying to prevent it from falling over.
 
 ### Central
-The shrivelled heart of Xim, where beuracrats and businessmen manage the nation's decline. Bland offices tower over stout apartment blocks, ad screens are so common the street lights never need to be turned on. Features the parliment building, CID (Central Information Department) building,  
+The shrivelled heart of Xim, where beuracrats and businessmen manage the nation's decline. Bland offices tower over stout apartment blocks, ad screens are so common the street lights never need to be turned on. Features the parliment building, CID (Central Information Department) building, and of course the HyperMall.
 
 ### Cloud City
 Tethered to the HyperMall the cloud city once flew miles above cloud level to allow its residents to experience a beautiful clear sky (and get skin cancer). Due to poor maintenance and fuel costs it now runs only a few hundred meters above the HyperMall. Its residents are extremely insular so nobody knows what it looks like up there.
@@ -66,11 +66,11 @@ Tethered to the HyperMall the cloud city once flew miles above cloud level to al
 ### FinSpace
 A global hallicination, where all finance is conducted. Entered by taking the halucinogenic upper "Fin", its an endless series of skyscrapers connected by metro tunnels. Since FinSpace is a collective hallucination there is no way to conventionally hack into it and imaginary security measures are often the most powerful. Fin will put you into FinSpace for approximately 5 + d12 days, which the user sees ticking down on a clock on their wrist the entire time. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzA0MzQzNzAsMTg3NDcwMDk4NiwyMD
-EzNzA1OTUzLC0yNTI5MDU4MCwxMzYyMTI2MjM1LDE3ODIxNjc0
-MTYsLTE0MzI3NjU2NywtNDQ4ODgyMDE0LDExMzQ5ODY0MjMsLT
-E5NTM4MDc1MTgsLTE4MDQwNzE4MjksMTczMTA0MDg0OCwtODA2
-MDY1ODYsLTI1NzM2MTc0OSwyMDY2MDExMjE3LDMyMzg3ODE1NC
-wtMTkwMTQyODczMCw0Mzg2NzkzMTEsMTk1MzQ0MjIxNSwtMTIy
-MzAwMDY5OF19
+eyJoaXN0b3J5IjpbLTc4NjgzMDIsMTg3NDcwMDk4NiwyMDEzNz
+A1OTUzLC0yNTI5MDU4MCwxMzYyMTI2MjM1LDE3ODIxNjc0MTYs
+LTE0MzI3NjU2NywtNDQ4ODgyMDE0LDExMzQ5ODY0MjMsLTE5NT
+M4MDc1MTgsLTE4MDQwNzE4MjksMTczMTA0MDg0OCwtODA2MDY1
+ODYsLTI1NzM2MTc0OSwyMDY2MDExMjE3LDMyMzg3ODE1NCwtMT
+kwMTQyODczMCw0Mzg2NzkzMTEsMTk1MzQ0MjIxNSwtMTIyMzAw
+MDY5OF19
 -->
