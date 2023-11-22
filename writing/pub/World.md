@@ -43,9 +43,13 @@ Since the police haven't been paid for almost half a decade, corporations & gang
 ### Slums
 Built of sheet metal, temporary antigravity generators, and broken dreams. Overflowing with gang violence and drug abuse.
 
+Features 3 major gangs:
+- West Side
+- East Side - Russians
+- OGs - Gang from before the
 
 ### Industrial District
-Where all Sallowdia's production is concentrated (to make it easier to control). Due to zoning laws and planning nightmares it is a gigantic looming tower of factories built on factories. Strong "union" control, cult of Osha enforces safety guidelines like samurai. The "unions" function more like agencies, holding workers 
+Where all Sallowdia's production is concentrated (to make it easier to control). Due to zoning laws and planning nightmares it is a gigantic looming tower of factories built on factories. Strong "union" control, cult of Osha enforces safety guidelines like samurai. The "unions" function more like agencies, offering workers 
 
 ### Old Town
 From before the Cobalt deposits were discovered, the old town still shows a simpler time of wooden houses painted in bright colors. Once a rather nice middle class town, the departure of Royal West also caused a mass exodus of the middle classes, who no longer felt safe. A mistake at a few real estate focused investment firms led to them buying up all these houses as the middle class fled, and due to complex accounting selling would realise their losses from this destroying the reputations of their firms. These investors employ varying levels of security on their buildings but have very little investment in preventing crime from happening outside their land. 
@@ -59,11 +63,11 @@ Tethered to the HyperMall the cloud city once flew miles above cloud level to al
 ### FinSpace
 A global hallicination, where all finance is conducted. Entered by taking the halucinogenic upper "Fin", its an endless series of skyscrapers connected by metro tunnels. Since FinSpace is a collective hallucination there is no way to conventionally hack into it and imaginary security measures are often the most powerful. Fin will put you into FinSpace for approximately 5 + d12 days, which the user sees ticking down on a clock on their wrist the entire time. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNDk4NjQyMywtMTk1MzgwNzUxOCwtMT
-gwNDA3MTgyOSwxNzMxMDQwODQ4LC04MDYwNjU4NiwtMjU3MzYx
-NzQ5LDIwNjYwMTEyMTcsMzIzODc4MTU0LC0xOTAxNDI4NzMwLD
-QzODY3OTMxMSwxOTUzNDQyMjE1LC0xMjIzMDAwNjk4LC0yMDY3
-NzU1NzczLC0xOTMyMzA4MTA2LDEzNDE3ODIzOTMsLTE1NDQyMT
-Y3MTIsNjcxNDI3NDYzLDk4MTIzNTMxNSwtMTIzMzgyODkyNCwx
-NjA4Nzg3OTAyXX0=
+eyJoaXN0b3J5IjpbLTQ0ODg4MjAxNCwxMTM0OTg2NDIzLC0xOT
+UzODA3NTE4LC0xODA0MDcxODI5LDE3MzEwNDA4NDgsLTgwNjA2
+NTg2LC0yNTczNjE3NDksMjA2NjAxMTIxNywzMjM4NzgxNTQsLT
+E5MDE0Mjg3MzAsNDM4Njc5MzExLDE5NTM0NDIyMTUsLTEyMjMw
+MDA2OTgsLTIwNjc3NTU3NzMsLTE5MzIzMDgxMDYsMTM0MTc4Mj
+M5MywtMTU0NDIxNjcxMiw2NzE0Mjc0NjMsOTgxMjM1MzE1LC0x
+MjMzODI4OTI0XX0=
 -->
