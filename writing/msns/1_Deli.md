@@ -65,6 +65,7 @@
 - Push them in and under his bed pops open, Uncut Gem is in there
 
 # Encounter 2
+- Driving through west side slums to get to industrial where El Torro is.
 - Carjacking, guy with a shotgun
 - Pistol dude flanks
 
@@ -107,11 +108,11 @@ carjack = [
 ]
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM0NTgxODk4LDQ2ODk4MjY2MywtOTMxOD
-c4OTY0LDc2MTc0MjQwLDIwMTQ5MjM3MTcsLTE3MjEzNDE1MDgs
-LTEzOTcwMzM5NTIsLTk0MzYwNjc5NSwtMTE3MDk3NDU4MCwtMj
-A2NzE1MDQ1MCw3Nzg5NjI4MTgsMTk1MTI4MjUzMSwxMjgzMTky
-MzMwLC0xMzMyNzUzOTU0LC0xNzYzNjEzNjA4LC0xMDM2NTQxMD
-g3LDE5ODEzOTg1NzcsMTQ3NTcwMTY4OCwtNzA3MjgyMjg2LC0x
-NjkyMDQ3NjgzXX0=
+eyJoaXN0b3J5IjpbMTYyMDU2MTE3NCwyMzQ1ODE4OTgsNDY4OT
+gyNjYzLC05MzE4Nzg5NjQsNzYxNzQyNDAsMjAxNDkyMzcxNywt
+MTcyMTM0MTUwOCwtMTM5NzAzMzk1MiwtOTQzNjA2Nzk1LC0xMT
+cwOTc0NTgwLC0yMDY3MTUwNDUwLDc3ODk2MjgxOCwxOTUxMjgy
+NTMxLDEyODMxOTIzMzAsLTEzMzI3NTM5NTQsLTE3NjM2MTM2MD
+gsLTEwMzY1NDEwODcsMTk4MTM5ODU3NywxNDc1NzAxNjg4LC03
+MDcyODIyODZdfQ==
 -->
