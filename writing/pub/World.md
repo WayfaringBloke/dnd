@@ -58,7 +58,7 @@ From before the Cobalt deposits were discovered, the old town still shows a simp
 Once an audiovisual cacophony of consumption, a decade of neglect has left this paradise of popular luxury derelict. Its surronded by an increasingly desperate series of supports trying to prevent it from falling over.
 
 ### Central
-The shrivelled heart of Xim, where beuracrats and businessmen manage the nation's decline. Bland offices tower over stout apartment blocks, perpetually illumu
+The shrivelled heart of Xim, where beuracrats and businessmen manage the nation's decline. Bland offices tower over stout apartment blocks, ad screens are so common the street lights never need to be turned on.
 
 . Features the parliment building, CID (Central Information Department) building, many Fin dens, 
 
@@ -68,7 +68,7 @@ Tethered to the HyperMall the cloud city once flew miles above cloud level to al
 ### FinSpace
 A global hallicination, where all finance is conducted. Entered by taking the halucinogenic upper "Fin", its an endless series of skyscrapers connected by metro tunnels. Since FinSpace is a collective hallucination there is no way to conventionally hack into it and imaginary security measures are often the most powerful. Fin will put you into FinSpace for approximately 5 + d12 days, which the user sees ticking down on a clock on their wrist the entire time. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MDgyOTY2MiwyMDEzNzA1OTUzLC0yNT
+eyJoaXN0b3J5IjpbMTg3NDcwMDk4NiwyMDEzNzA1OTUzLC0yNT
 I5MDU4MCwxMzYyMTI2MjM1LDE3ODIxNjc0MTYsLTE0MzI3NjU2
 NywtNDQ4ODgyMDE0LDExMzQ5ODY0MjMsLTE5NTM4MDc1MTgsLT
 E4MDQwNzE4MjksMTczMTA0MDg0OCwtODA2MDY1ODYsLTI1NzM2
