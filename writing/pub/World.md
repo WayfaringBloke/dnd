@@ -49,7 +49,7 @@ Features 3 major gangs:
 - OGs - Texans - Professional
 
 ### Industrial District
-Where all Sallowdia's production is concentrated (to make it easier to control). Due to zoning laws and planning nightmares it is a gigantic looming tower of factories built on factories. Strong "union" control, cult of Osha enforces safety guidelines like samurai. The "unions" function more like agencies, offering workers 
+Where all Sallowdia's production is concentrated (to make it easier to control). Due to zoning laws and planning nightmares it is a gigantic looming tower of factories built on factories. Strong "union" control, cult of Osha enforces safety guidelines like samurai. The "unions" function more like agencies, paying workers per action in the factory. 
 
 ### Old Town
 From before the Cobalt deposits were discovered, the old town still shows a simpler time of wooden houses painted in bright colors. Once a rather nice middle class town, the departure of Royal West also caused a mass exodus of the middle classes, who no longer felt safe. A mistake at a few real estate focused investment firms led to them buying up all these houses as the middle class fled, and due to complex accounting selling would realise their losses from this destroying the reputations of their firms. These investors employ varying levels of security on their buildings but have very little investment in preventing crime from happening outside their land. 
@@ -63,11 +63,11 @@ Tethered to the HyperMall the cloud city once flew miles above cloud level to al
 ### FinSpace
 A global hallicination, where all finance is conducted. Entered by taking the halucinogenic upper "Fin", its an endless series of skyscrapers connected by metro tunnels. Since FinSpace is a collective hallucination there is no way to conventionally hack into it and imaginary security measures are often the most powerful. Fin will put you into FinSpace for approximately 5 + d12 days, which the user sees ticking down on a clock on their wrist the entire time. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzI3NjU2NywtNDQ4ODgyMDE0LDExMz
-Q5ODY0MjMsLTE5NTM4MDc1MTgsLTE4MDQwNzE4MjksMTczMTA0
-MDg0OCwtODA2MDY1ODYsLTI1NzM2MTc0OSwyMDY2MDExMjE3LD
-MyMzg3ODE1NCwtMTkwMTQyODczMCw0Mzg2NzkzMTEsMTk1MzQ0
-MjIxNSwtMTIyMzAwMDY5OCwtMjA2Nzc1NTc3MywtMTkzMjMwOD
-EwNiwxMzQxNzgyMzkzLC0xNTQ0MjE2NzEyLDY3MTQyNzQ2Myw5
-ODEyMzUzMTVdfQ==
+eyJoaXN0b3J5IjpbMTc4MjE2NzQxNiwtMTQzMjc2NTY3LC00ND
+g4ODIwMTQsMTEzNDk4NjQyMywtMTk1MzgwNzUxOCwtMTgwNDA3
+MTgyOSwxNzMxMDQwODQ4LC04MDYwNjU4NiwtMjU3MzYxNzQ5LD
+IwNjYwMTEyMTcsMzIzODc4MTU0LC0xOTAxNDI4NzMwLDQzODY3
+OTMxMSwxOTUzNDQyMjE1LC0xMjIzMDAwNjk4LC0yMDY3NzU1Nz
+czLC0xOTMyMzA4MTA2LDEzNDE3ODIzOTMsLTE1NDQyMTY3MTIs
+NjcxNDI3NDYzXX0=
 -->
