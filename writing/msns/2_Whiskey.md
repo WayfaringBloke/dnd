@@ -56,14 +56,14 @@
 
 # Encounter 4
 - Robot taken over gas station
-- 
+- One human manager
 - Salas climbs into ceiling
 # Assets
 
 ![guard](https://github.com/WayfaringBloke/dnd/blob/main/assets/m2/guard.png?raw=true)![Salas Sawyer](https://github.com/WayfaringBloke/dnd/blob/main/assets/rnpc/SalasSawyer.png?raw=true)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMjQzOTUwOCwtMTEwOTk4ODA0NSwtMT
+eyJoaXN0b3J5IjpbMTkxNjAzNTc5MiwtMTEwOTk4ODA0NSwtMT
 I0NDAxODIwNSwyMDgzMTI4OTIwLC03Njc0NTYwMTksLTE2OTEz
 ODQ3MTYsNzk3MjkwOTI5LDMzNTE5MTY1MywyMzEwMDM1ODEsMT
 E0Mjc5MDg5OSw3MjM0NTk3NTEsLTExNjMxMzI4MTAsLTEwNDQ4
