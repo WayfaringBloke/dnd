@@ -48,20 +48,24 @@
 # Encounter 2
 - Going up in altitude
 - Among snow and thickening pine trees you come to a second checkpoint
-- This one requires more reas
+- This one requires more reason as to why you're passing
+- Guy will delay until a cyber-bear attack can happen
+- Will chat about whiskey weather etc.
 # Encounter 3
+- 
 
 # Encounter 4
 - Robot taken over gas station
+- 
 - Salas climbs into ceiling
 # Assets
 
 ![guard](https://github.com/WayfaringBloke/dnd/blob/main/assets/m2/guard.png?raw=true)![Salas Sawyer](https://github.com/WayfaringBloke/dnd/blob/main/assets/rnpc/SalasSawyer.png?raw=true)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTE5OTQ5OTIsLTExMDk5ODgwNDUsLT
-EyNDQwMTgyMDUsMjA4MzEyODkyMCwtNzY3NDU2MDE5LC0xNjkx
-Mzg0NzE2LDc5NzI5MDkyOSwzMzUxOTE2NTMsMjMxMDAzNTgxLD
-ExNDI3OTA4OTksNzIzNDU5NzUxLC0xMTYzMTMyODEwLC0xMDQ0
-ODA5MDcyXX0=
+eyJoaXN0b3J5IjpbMTgwMjQzOTUwOCwtMTEwOTk4ODA0NSwtMT
+I0NDAxODIwNSwyMDgzMTI4OTIwLC03Njc0NTYwMTksLTE2OTEz
+ODQ3MTYsNzk3MjkwOTI5LDMzNTE5MTY1MywyMzEwMDM1ODEsMT
+E0Mjc5MDg5OSw3MjM0NTk3NTEsLTExNjMxMzI4MTAsLTEwNDQ4
+MDkwNzJdfQ==
 -->
