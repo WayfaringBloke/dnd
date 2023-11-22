@@ -58,7 +58,7 @@ From before the Cobalt deposits were discovered, the old town still shows a simp
 Once an audiovisual cacophony of consumption, a decade of neglect has left this paradise of popular luxury derelict. Its surronded by an increasingly desperate series of supports trying to prevent it from falling over.
 
 ### Central
-The shrivelled heart of Xim, where beuracrats and businessmen manage the nation's decline. Features the parliment building, CID (Central Information Department) building, many Fin 
+The shrivelled heart of Xim, where beuracrats and businessmen manage the nation's decline. Bland office blocks eat  Features the parliment building, CID (Central Information Department) building, many Fin dens, 
 
 ### Cloud City
 Tethered to the HyperMall the cloud city once flew miles above cloud level to allow its residents to experience a beautiful clear sky (and get skin cancer). Due to poor maintenance and fuel costs it now runs only a few hundred meters above the HyperMall. Its residents are extremely insular so nobody knows what it looks like up there.
@@ -66,11 +66,11 @@ Tethered to the HyperMall the cloud city once flew miles above cloud level to al
 ### FinSpace
 A global hallicination, where all finance is conducted. Entered by taking the halucinogenic upper "Fin", its an endless series of skyscrapers connected by metro tunnels. Since FinSpace is a collective hallucination there is no way to conventionally hack into it and imaginary security measures are often the most powerful. Fin will put you into FinSpace for approximately 5 + d12 days, which the user sees ticking down on a clock on their wrist the entire time. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MjAzMDUyNCwyMDEzNzA1OTUzLC0yNT
-I5MDU4MCwxMzYyMTI2MjM1LDE3ODIxNjc0MTYsLTE0MzI3NjU2
-NywtNDQ4ODgyMDE0LDExMzQ5ODY0MjMsLTE5NTM4MDc1MTgsLT
-E4MDQwNzE4MjksMTczMTA0MDg0OCwtODA2MDY1ODYsLTI1NzM2
-MTc0OSwyMDY2MDExMjE3LDMyMzg3ODE1NCwtMTkwMTQyODczMC
-w0Mzg2NzkzMTEsMTk1MzQ0MjIxNSwtMTIyMzAwMDY5OCwtMjA2
-Nzc1NTc3M119
+eyJoaXN0b3J5IjpbLTIwNDE2NjkxOTksMjAxMzcwNTk1MywtMj
+UyOTA1ODAsMTM2MjEyNjIzNSwxNzgyMTY3NDE2LC0xNDMyNzY1
+NjcsLTQ0ODg4MjAxNCwxMTM0OTg2NDIzLC0xOTUzODA3NTE4LC
+0xODA0MDcxODI5LDE3MzEwNDA4NDgsLTgwNjA2NTg2LC0yNTcz
+NjE3NDksMjA2NjAxMTIxNywzMjM4NzgxNTQsLTE5MDE0Mjg3Mz
+AsNDM4Njc5MzExLDE5NTM0NDIyMTUsLTEyMjMwMDA2OTgsLTIw
+Njc3NTU3NzNdfQ==
 -->
