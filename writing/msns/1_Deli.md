@@ -101,17 +101,17 @@ carjack = [
     # mac 10 minion 2
     ne(n("m2"), h(1), d(14), wf(2), a(99), m(4)),
     # pistol (flank)
-    ne(n("p"), h(12), d(16), w(6), a(0), m(9)),
+    ne(n("p"), h(12), d(15), w(6), a(0), m(9)),
     # shotgun (point)
     ne(n("s"), h(15), d(14), w(6), a(2), m(10))
 ]
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyODc2NzI0Myw0Njg5ODI2NjMsLTkzMT
-g3ODk2NCw3NjE3NDI0MCwyMDE0OTIzNzE3LC0xNzIxMzQxNTA4
-LC0xMzk3MDMzOTUyLC05NDM2MDY3OTUsLTExNzA5NzQ1ODAsLT
-IwNjcxNTA0NTAsNzc4OTYyODE4LDE5NTEyODI1MzEsMTI4MzE5
-MjMzMCwtMTMzMjc1Mzk1NCwtMTc2MzYxMzYwOCwtMTAzNjU0MT
-A4NywxOTgxMzk4NTc3LDE0NzU3MDE2ODgsLTcwNzI4MjI4Niwt
-MTY5MjA0NzY4M119
+eyJoaXN0b3J5IjpbMjM0NTgxODk4LDQ2ODk4MjY2MywtOTMxOD
+c4OTY0LDc2MTc0MjQwLDIwMTQ5MjM3MTcsLTE3MjEzNDE1MDgs
+LTEzOTcwMzM5NTIsLTk0MzYwNjc5NSwtMTE3MDk3NDU4MCwtMj
+A2NzE1MDQ1MCw3Nzg5NjI4MTgsMTk1MTI4MjUzMSwxMjgzMTky
+MzMwLC0xMzMyNzUzOTU0LC0xNzYzNjEzNjA4LC0xMDM2NTQxMD
+g3LDE5ODEzOTg1NzcsMTQ3NTcwMTY4OCwtNzA3MjgyMjg2LC0x
+NjkyMDQ3NjgzXX0=
 -->
