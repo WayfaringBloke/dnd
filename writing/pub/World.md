@@ -57,17 +57,20 @@ From before the Cobalt deposits were discovered, the old town still shows a simp
 ### HyperMall
 Once an audiovisual cacophony of consumption, a decade of neglect has left this paradise of popular luxury derelict. Its surronded by an increasingly desperate series of supports trying to prevent it from falling over.
 
+### Central
+The shrivelled 
+
 ### Cloud City
 Tethered to the HyperMall the cloud city once flew miles above cloud level to allow its residents to experience a beautiful clear sky (and get skin cancer). Due to poor maintenance and fuel costs it now runs only a few hundred meters above the HyperMall. Its residents are extremely insular so nobody knows what it looks like up there.
 
 ### FinSpace
 A global hallicination, where all finance is conducted. Entered by taking the halucinogenic upper "Fin", its an endless series of skyscrapers connected by metro tunnels. Since FinSpace is a collective hallucination there is no way to conventionally hack into it and imaginary security measures are often the most powerful. Fin will put you into FinSpace for approximately 5 + d12 days, which the user sees ticking down on a clock on their wrist the entire time. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MjEyNjIzNSwxNzgyMTY3NDE2LC0xND
-MyNzY1NjcsLTQ0ODg4MjAxNCwxMTM0OTg2NDIzLC0xOTUzODA3
-NTE4LC0xODA0MDcxODI5LDE3MzEwNDA4NDgsLTgwNjA2NTg2LC
-0yNTczNjE3NDksMjA2NjAxMTIxNywzMjM4NzgxNTQsLTE5MDE0
-Mjg3MzAsNDM4Njc5MzExLDE5NTM0NDIyMTUsLTEyMjMwMDA2OT
-gsLTIwNjc3NTU3NzMsLTE5MzIzMDgxMDYsMTM0MTc4MjM5Mywt
-MTU0NDIxNjcxMl19
+eyJoaXN0b3J5IjpbLTI1MjkwNTgwLDEzNjIxMjYyMzUsMTc4Mj
+E2NzQxNiwtMTQzMjc2NTY3LC00NDg4ODIwMTQsMTEzNDk4NjQy
+MywtMTk1MzgwNzUxOCwtMTgwNDA3MTgyOSwxNzMxMDQwODQ4LC
+04MDYwNjU4NiwtMjU3MzYxNzQ5LDIwNjYwMTEyMTcsMzIzODc4
+MTU0LC0xOTAxNDI4NzMwLDQzODY3OTMxMSwxOTUzNDQyMjE1LC
+0xMjIzMDAwNjk4LC0yMDY3NzU1NzczLC0xOTMyMzA4MTA2LDEz
+NDE3ODIzOTNdfQ==
 -->
