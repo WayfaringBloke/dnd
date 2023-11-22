@@ -44,9 +44,9 @@ Since the police haven't been paid for almost half a decade, corporations & gang
 Built of sheet metal, temporary antigravity generators, and broken dreams. Overflowing with gang violence and drug abuse.
 
 Features 3 major gangs:
-- West Side
-- East Side - Russians
-- OGs - Gang from before the
+- West Side - Germans - Meticulous, Dilligent
+- East Side - Russians - Brutal, Efficient
+- OGs - Texans - Paramiliary
 
 ### Industrial District
 Where all Sallowdia's production is concentrated (to make it easier to control). Due to zoning laws and planning nightmares it is a gigantic looming tower of factories built on factories. Strong "union" control, cult of Osha enforces safety guidelines like samurai. The "unions" function more like agencies, offering workers 
@@ -63,11 +63,11 @@ Tethered to the HyperMall the cloud city once flew miles above cloud level to al
 ### FinSpace
 A global hallicination, where all finance is conducted. Entered by taking the halucinogenic upper "Fin", its an endless series of skyscrapers connected by metro tunnels. Since FinSpace is a collective hallucination there is no way to conventionally hack into it and imaginary security measures are often the most powerful. Fin will put you into FinSpace for approximately 5 + d12 days, which the user sees ticking down on a clock on their wrist the entire time. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0ODg4MjAxNCwxMTM0OTg2NDIzLC0xOT
-UzODA3NTE4LC0xODA0MDcxODI5LDE3MzEwNDA4NDgsLTgwNjA2
-NTg2LC0yNTczNjE3NDksMjA2NjAxMTIxNywzMjM4NzgxNTQsLT
-E5MDE0Mjg3MzAsNDM4Njc5MzExLDE5NTM0NDIyMTUsLTEyMjMw
-MDA2OTgsLTIwNjc3NTU3NzMsLTE5MzIzMDgxMDYsMTM0MTc4Mj
-M5MywtMTU0NDIxNjcxMiw2NzE0Mjc0NjMsOTgxMjM1MzE1LC0x
-MjMzODI4OTI0XX0=
+eyJoaXN0b3J5IjpbMTE5NzQxNzMxMSwtNDQ4ODgyMDE0LDExMz
+Q5ODY0MjMsLTE5NTM4MDc1MTgsLTE4MDQwNzE4MjksMTczMTA0
+MDg0OCwtODA2MDY1ODYsLTI1NzM2MTc0OSwyMDY2MDExMjE3LD
+MyMzg3ODE1NCwtMTkwMTQyODczMCw0Mzg2NzkzMTEsMTk1MzQ0
+MjIxNSwtMTIyMzAwMDY5OCwtMjA2Nzc1NTc3MywtMTkzMjMwOD
+EwNiwxMzQxNzgyMzkzLC0xNTQ0MjE2NzEyLDY3MTQyNzQ2Myw5
+ODEyMzUzMTVdfQ==
 -->
