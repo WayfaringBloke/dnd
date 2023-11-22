@@ -32,7 +32,7 @@
 # [Map](https://excalidraw.com/#json=WHSoPBEicgwmoOj59W83g,8s0yvZ0Be2AwcykjtcBfsA)
 # Encounter 0
 
-
+- Laying low after Cohen & Wong put a hit out on you
 - Wake up in/Called to El Torro Cowboy calls in favour, brings you to edge of slums
 - Tells you to go rescue Salas Sawyer, a friend of his
 - Apparently just "got lost on a hiking trip"
@@ -43,6 +43,7 @@
 
 - Out from the slums into the dusty plains just north of Xim, grey brown wasteland where nothing grows.
 - Checkpoint Tuy Military
+- Somewhat friendly guard asks the purpose of your visit, very easy presence check.
 
 # Encounter 2
 
@@ -56,8 +57,8 @@
 ![guard](https://github.com/WayfaringBloke/dnd/blob/main/assets/m2/guard.png?raw=true)![Salas Sawyer](https://github.com/WayfaringBloke/dnd/blob/main/assets/rnpc/SalasSawyer.png?raw=true)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEyMTU1OTY1LC0xMjQ0MDE4MjA1LDIwOD
-MxMjg5MjAsLTc2NzQ1NjAxOSwtMTY5MTM4NDcxNiw3OTcyOTA5
-MjksMzM1MTkxNjUzLDIzMTAwMzU4MSwxMTQyNzkwODk5LDcyMz
-Q1OTc1MSwtMTE2MzEzMjgxMCwtMTA0NDgwOTA3Ml19
+eyJoaXN0b3J5IjpbLTE1NjQ0MDQ1MTEsLTEyNDQwMTgyMDUsMj
+A4MzEyODkyMCwtNzY3NDU2MDE5LC0xNjkxMzg0NzE2LDc5NzI5
+MDkyOSwzMzUxOTE2NTMsMjMxMDAzNTgxLDExNDI3OTA4OTksNz
+IzNDU5NzUxLC0xMTYzMTMyODEwLC0xMDQ0ODA5MDcyXX0=
 -->
