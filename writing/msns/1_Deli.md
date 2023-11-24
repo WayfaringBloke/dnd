@@ -81,6 +81,9 @@
 - THERE'S A PRICE ON YOUR HEAD, best lay low in the basement for tonight, owner wasn't rich so could only afford to tender your bounty for 48h
 ;)
 
+# Encounter 4
+Selling those jewels
+
 # Assets 
 ![manager](https://github.com/WayfaringBloke/dnd/blob/main/assets/m1/manager.png?raw=true)![Ronald](https://github.com/WayfaringBloke/dnd/blob/main/assets/rnpc/Ronald.png?raw=true)
 # Combat Dumps
@@ -108,11 +111,11 @@ carjack = [
 ]
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMDU2MTE3NCwyMzQ1ODE4OTgsNDY4OT
-gyNjYzLC05MzE4Nzg5NjQsNzYxNzQyNDAsMjAxNDkyMzcxNywt
-MTcyMTM0MTUwOCwtMTM5NzAzMzk1MiwtOTQzNjA2Nzk1LC0xMT
-cwOTc0NTgwLC0yMDY3MTUwNDUwLDc3ODk2MjgxOCwxOTUxMjgy
-NTMxLDEyODMxOTIzMzAsLTEzMzI3NTM5NTQsLTE3NjM2MTM2MD
-gsLTEwMzY1NDEwODcsMTk4MTM5ODU3NywxNDc1NzAxNjg4LC03
-MDcyODIyODZdfQ==
+eyJoaXN0b3J5IjpbMTE3ODM2NzAyOSwxNjIwNTYxMTc0LDIzND
+U4MTg5OCw0Njg5ODI2NjMsLTkzMTg3ODk2NCw3NjE3NDI0MCwy
+MDE0OTIzNzE3LC0xNzIxMzQxNTA4LC0xMzk3MDMzOTUyLC05ND
+M2MDY3OTUsLTExNzA5NzQ1ODAsLTIwNjcxNTA0NTAsNzc4OTYy
+ODE4LDE5NTEyODI1MzEsMTI4MzE5MjMzMCwtMTMzMjc1Mzk1NC
+wtMTc2MzYxMzYwOCwtMTAzNjU0MTA4NywxOTgxMzk4NTc3LDE0
+NzU3MDE2ODhdfQ==
 -->
