@@ -29,19 +29,20 @@ Kidnap frankie + 1 player
 # Encounter 1
 
 # Factory
-## Structure
-- Front Lobby
+A factory that produces AutoDrills, an important tool for any mining technician. They also work
+## Front Lobby
+Featuring a large reception desk with a bandit battery over it, a large stat
 - Reception Desk (blocking workers from getting to manager's office
 - Manager's Office (with secret escape tunnel)
 - Toilets
 - Factory Floor
 - Unloading dock
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQwNTIxOTc2LC0xNzk1NzY5MTMzLDE3Mz
-Y1MTI4NDAsLTc4MDA5NDM2LDMyMzA1MTk3OCwtMTg5NzU3Nzk5
-OSwtNDA5NzcxMTg0LC0xMzA3NjI3NDI5LC0xMjE0NTc3MTUyLC
-03Nzc5MjQxMTksLTIwOTI1Mzk3OTMsLTE2NzY5ODQ2ODQsLTEy
-NzM1Nzk4NzcsLTEyMDk3MDgyNTksMTg1OTM3NzY0LDgwMTYxMD
-YzMCwtMTc4NDA0MDAyLDEzNDI5NDgxNDQsLTIwODg3NDY2MTIs
-NzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbOTMyMDcxNzgsLTE3OTU3NjkxMzMsMTczNj
+UxMjg0MCwtNzgwMDk0MzYsMzIzMDUxOTc4LC0xODk3NTc3OTk5
+LC00MDk3NzExODQsLTEzMDc2Mjc0MjksLTEyMTQ1NzcxNTIsLT
+c3NzkyNDExOSwtMjA5MjUzOTc5MywtMTY3Njk4NDY4NCwtMTI3
+MzU3OTg3NywtMTIwOTcwODI1OSwxODU5Mzc3NjQsODAxNjEwNj
+MwLC0xNzg0MDQwMDIsMTM0Mjk0ODE0NCwtMjA4ODc0NjYxMiw3
+MzA5OTgxMTZdfQ==
 -->
