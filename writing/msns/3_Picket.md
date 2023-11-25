@@ -17,10 +17,10 @@
 	3. Players should control the situation - if not they murder the green overalls
 	4. If they murder the green overalls then heavily cybered green overalls come for combat 
 4. Reeves Intro
-	1. A lost looking lady approaches
-	2. "Could you give me directions to smithereens"
-	3. Turns out she's wearing a bomb vest up, holding a deadman's switch
-	4. Sent (by Ingraham) to break up the picket properly
+	1. Jet Black Car Approaches - Blacked out windows
+	2. Window rolls down - Appears to be ingraham reeves
+	3. Villian Shpiel
+	4. This car will explode if you don't disperse
 5. Revenge: Industrial Sabotage
 	1. Inside the factory is a fair few valuable resources (and machines to destroy)
 	2. Frankie offers you a bonus for any property damage you can record and send to him
@@ -39,11 +39,11 @@ Featuring a large reception desk with a bandit battery over it, a large stat
 - Factory Floor
 - Unloading dock
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NTU4MjE0OCwtMTc5NTc2OTEzMywxNz
-M2NTEyODQwLC03ODAwOTQzNiwzMjMwNTE5NzgsLTE4OTc1Nzc5
-OTksLTQwOTc3MTE4NCwtMTMwNzYyNzQyOSwtMTIxNDU3NzE1Mi
-wtNzc3OTI0MTE5LC0yMDkyNTM5NzkzLC0xNjc2OTg0Njg0LC0x
-MjczNTc5ODc3LC0xMjA5NzA4MjU5LDE4NTkzNzc2NCw4MDE2MT
-A2MzAsLTE3ODQwNDAwMiwxMzQyOTQ4MTQ0LC0yMDg4NzQ2NjEy
-LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTE1Mzg4MTIyNzYsLTg3NTU4MjE0OCwtMT
+c5NTc2OTEzMywxNzM2NTEyODQwLC03ODAwOTQzNiwzMjMwNTE5
+NzgsLTE4OTc1Nzc5OTksLTQwOTc3MTE4NCwtMTMwNzYyNzQyOS
+wtMTIxNDU3NzE1MiwtNzc3OTI0MTE5LC0yMDkyNTM5NzkzLC0x
+Njc2OTg0Njg0LC0xMjczNTc5ODc3LC0xMjA5NzA4MjU5LDE4NT
+kzNzc2NCw4MDE2MTA2MzAsLTE3ODQwNDAwMiwxMzQyOTQ4MTQ0
+LC0yMDg4NzQ2NjEyXX0=
 -->
