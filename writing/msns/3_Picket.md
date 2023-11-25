@@ -26,18 +26,16 @@
 	2. Frankie offers you a bonus for any property damage you can record and send to him
 Kidnap frankie + 1 player
 
-# Combat Dumps
-```py
-scabs = """n: a 
-"""
-```
+# Encounter 1
+
+# Factory
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NDE1NjA0MCwxNzM2NTEyODQwLC03OD
-AwOTQzNiwzMjMwNTE5NzgsLTE4OTc1Nzc5OTksLTQwOTc3MTE4
-NCwtMTMwNzYyNzQyOSwtMTIxNDU3NzE1MiwtNzc3OTI0MTE5LC
-0yMDkyNTM5NzkzLC0xNjc2OTg0Njg0LC0xMjczNTc5ODc3LC0x
-MjA5NzA4MjU5LDE4NTkzNzc2NCw4MDE2MTA2MzAsLTE3ODQwND
-AwMiwxMzQyOTQ4MTQ0LC0yMDg4NzQ2NjEyLDczMDk5ODExNl19
-
+eyJoaXN0b3J5IjpbLTE3OTU3NjkxMzMsMTczNjUxMjg0MCwtNz
+gwMDk0MzYsMzIzMDUxOTc4LC0xODk3NTc3OTk5LC00MDk3NzEx
+ODQsLTEzMDc2Mjc0MjksLTEyMTQ1NzcxNTIsLTc3NzkyNDExOS
+wtMjA5MjUzOTc5MywtMTY3Njk4NDY4NCwtMTI3MzU3OTg3Nywt
+MTIwOTcwODI1OSwxODU5Mzc3NjQsODAxNjEwNjMwLC0xNzg0MD
+QwMDIsMTM0Mjk0ODE0NCwtMjA4ODc0NjYxMiw3MzA5OTgxMTZd
+fQ==
 -->
