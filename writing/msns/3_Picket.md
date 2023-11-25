@@ -26,7 +26,8 @@
 	2. Frankie offers you a bonus for any property damage you can record and send to him
 Kidnap frankie + 1 player
 
-# Encounter 1
+# Picket Line
+
 
 # Factory
 A factory that produces AutoDrills, an important tool for any mining technician. They also work
@@ -38,11 +39,11 @@ Featuring a large reception desk with a bandit battery over it, a large stat
 - Factory Floor
 - Unloading dock
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMyMDcxNzgsLTE3OTU3NjkxMzMsMTczNj
-UxMjg0MCwtNzgwMDk0MzYsMzIzMDUxOTc4LC0xODk3NTc3OTk5
-LC00MDk3NzExODQsLTEzMDc2Mjc0MjksLTEyMTQ1NzcxNTIsLT
-c3NzkyNDExOSwtMjA5MjUzOTc5MywtMTY3Njk4NDY4NCwtMTI3
-MzU3OTg3NywtMTIwOTcwODI1OSwxODU5Mzc3NjQsODAxNjEwNj
-MwLC0xNzg0MDQwMDIsMTM0Mjk0ODE0NCwtMjA4ODc0NjYxMiw3
-MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTg3NTU4MjE0OCwtMTc5NTc2OTEzMywxNz
+M2NTEyODQwLC03ODAwOTQzNiwzMjMwNTE5NzgsLTE4OTc1Nzc5
+OTksLTQwOTc3MTE4NCwtMTMwNzYyNzQyOSwtMTIxNDU3NzE1Mi
+wtNzc3OTI0MTE5LC0yMDkyNTM5NzkzLC0xNjc2OTg0Njg0LC0x
+MjczNTc5ODc3LC0xMjA5NzA4MjU5LDE4NTkzNzc2NCw4MDE2MT
+A2MzAsLTE3ODQwNDAwMiwxMzQyOTQ4MTQ0LC0yMDg4NzQ2NjEy
+LDczMDk5ODExNl19
 -->
