@@ -31,17 +31,17 @@ Kidnap frankie + 1 player
 # Factory
 ## Structure
 - Front Lobby
-- Reception Desk
-- Manager's Office (
+- Reception Desk (blocking workers from getting to manager's office
+- Manager's Office (with secret escape tunnel)
 - Toilets
 - Factory Floor
 - Unloading dock
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MDE5ODUzOCwtMTc5NTc2OTEzMywxNz
-M2NTEyODQwLC03ODAwOTQzNiwzMjMwNTE5NzgsLTE4OTc1Nzc5
-OTksLTQwOTc3MTE4NCwtMTMwNzYyNzQyOSwtMTIxNDU3NzE1Mi
-wtNzc3OTI0MTE5LC0yMDkyNTM5NzkzLC0xNjc2OTg0Njg0LC0x
-MjczNTc5ODc3LC0xMjA5NzA4MjU5LDE4NTkzNzc2NCw4MDE2MT
-A2MzAsLTE3ODQwNDAwMiwxMzQyOTQ4MTQ0LC0yMDg4NzQ2NjEy
-LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNzQwNTIxOTc2LC0xNzk1NzY5MTMzLDE3Mz
+Y1MTI4NDAsLTc4MDA5NDM2LDMyMzA1MTk3OCwtMTg5NzU3Nzk5
+OSwtNDA5NzcxMTg0LC0xMzA3NjI3NDI5LC0xMjE0NTc3MTUyLC
+03Nzc5MjQxMTksLTIwOTI1Mzk3OTMsLTE2NzY5ODQ2ODQsLTEy
+NzM1Nzk4NzcsLTEyMDk3MDgyNTksMTg1OTM3NzY0LDgwMTYxMD
+YzMCwtMTc4NDA0MDAyLDEzNDI5NDgxNDQsLTIwODg3NDY2MTIs
+NzMwOTk4MTE2XX0=
 -->
