@@ -8,8 +8,8 @@ The exclusion zone isn't merely radioactive, it maliciously reprograms your dna.
 
 To go in is to die
 
-At the centre there's a 
+At the centre there's a evil thing 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNTQxMDk5OSwtMTUzNjY4MDgxNywtNT
+eyJoaXN0b3J5IjpbMTE1Mzc4NTk4MywtMTUzNjY4MDgxNywtNT
 k4ODc1MDMyLDczMDk5ODExNl19
 -->
