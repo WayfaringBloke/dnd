@@ -4,9 +4,12 @@ Ghouls (Fallout) exist
 
 Anihilation
 
-The exclu
+The exclusion zone isn't merely radioactive, it maliciously reprograms your dna.
 
+To go in is to die
+
+At the centre there's a 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MTI4NTM2MSwtMTUzNjY4MDgxNywtNT
+eyJoaXN0b3J5IjpbMTgwNTQxMDk5OSwtMTUzNjY4MDgxNywtNT
 k4ODc1MDMyLDczMDk5ODExNl19
 -->
